@@ -1,0 +1,1471 @@
+EmployeeCode,OrgUnit,Team,Level,PerformanceRating,MonthlyIncome,BonusAmount,CycleYear,ManagerCode,Gender
+1,Sales,Sales (Assumed),L2,3,5993,"=ROUND(F2*12*IF(E2=4,0.15,0.10),0)",2026,38,Female
+2,Research & Development,Discovery Solutions,L2,4,5130,"=ROUND(F3*12*IF(E3=4,0.15,0.10),0)",2026,32,Male
+4,Research & Development,Discovery Solutions,L1,3,2090,"=ROUND(F4*12*IF(E4=4,0.15,0.10),0)",2026,32,Male
+5,Research & Development,Discovery Solutions,L1,3,2909,"=ROUND(F5*12*IF(E5=4,0.15,0.10),0)",2026,32,Female
+7,Research & Development,Discovery Solutions,L1,3,3468,"=ROUND(F6*12*IF(E6=4,0.15,0.10),0)",2026,32,Male
+8,Research & Development,Discovery Solutions,L1,3,3068,"=ROUND(F7*12*IF(E7=4,0.15,0.10),0)",2026,32,Male
+10,Research & Development,Discovery Solutions,L1,4,2670,"=ROUND(F8*12*IF(E8=4,0.15,0.10),0)",2026,32,Female
+11,Research & Development,Discovery Solutions,L1,4,2693,"=ROUND(F9*12*IF(E9=4,0.15,0.10),0)",2026,32,Male
+12,Research & Development,Process Solutions,L3,4,9526,"=ROUND(F10*12*IF(E10=4,0.15,0.10),0)",2026,32,Male
+13,Research & Development,Advanced Solutions,L2,3,5237,"=ROUND(F11*12*IF(E11=4,0.15,0.10),0)",2026,32,Male
+14,Research & Development,Discovery Solutions,L1,3,2426,"=ROUND(F12*12*IF(E12=4,0.15,0.10),0)",2026,32,Male
+15,Research & Development,Discovery Solutions,L2,3,4193,"=ROUND(F13*12*IF(E13=4,0.15,0.10),0)",2026,32,Female
+16,Research & Development,Discovery Solutions,L1,3,2911,"=ROUND(F14*12*IF(E14=4,0.15,0.10),0)",2026,32,Male
+18,Research & Development,Discovery Solutions,L1,3,2661,"=ROUND(F15*12*IF(E15=4,0.15,0.10),0)",2026,32,Male
+19,Research & Development,Discovery Solutions,L1,3,2028,"=ROUND(F16*12*IF(E16=4,0.15,0.10),0)",2026,32,Male
+20,Research & Development,Process Solutions,L3,3,9980,"=ROUND(F17*12*IF(E17=4,0.15,0.10),0)",2026,32,Female
+21,Research & Development,Discovery Solutions,L1,3,3298,"=ROUND(F18*12*IF(E18=4,0.15,0.10),0)",2026,32,Male
+22,Research & Development,Discovery Solutions,L1,3,2935,"=ROUND(F19*12*IF(E19=4,0.15,0.10),0)",2026,32,Male
+23,Sales,Management (Assumed),L4,3,15427,"=ROUND(F20*12*IF(E20=4,0.15,0.10),0)",2026,38,Female
+24,Research & Development,Discovery Solutions,L1,3,3944,"=ROUND(F21*12*IF(E21=4,0.15,0.10),0)",2026,32,Male
+26,Research & Development,Process Solutions,L2,3,4011,"=ROUND(F22*12*IF(E22=4,0.15,0.10),0)",2026,32,Female
+27,Sales,Sales (Assumed),L1,4,3407,"=ROUND(F23*12*IF(E23=4,0.15,0.10),0)",2026,38,Male
+28,Research & Development,Management (Assumed),L3,3,11994,"=ROUND(F24*12*IF(E24=4,0.15,0.10),0)",2026,32,Female
+30,Research & Development,Discovery Solutions,L1,3,1232,"=ROUND(F25*12*IF(E25=4,0.15,0.10),0)",2026,32,Male
+31,Research & Development,Discovery Solutions,L1,3,2960,"=ROUND(F26*12*IF(E26=4,0.15,0.10),0)",2026,32,Male
+32,Research & Development,Management (Assumed),L5,3,19094,"=ROUND(F27*12*IF(E27=4,0.15,0.10),0)",2026,,Female
+33,Research & Development,Discovery Solutions,L1,4,3919,"=ROUND(F28*12*IF(E28=4,0.15,0.10),0)",2026,32,Female
+35,Sales,Sales (Assumed),L2,3,6825,"=ROUND(F29*12*IF(E29=4,0.15,0.10),0)",2026,38,Male
+36,Research & Development,Advanced Solutions,L3,3,10248,"=ROUND(F30*12*IF(E30=4,0.15,0.10),0)",2026,32,Female
+38,Sales,Management (Assumed),L5,3,18947,"=ROUND(F31*12*IF(E31=4,0.15,0.10),0)",2026,,Female
+39,Research & Development,Discovery Solutions,L1,3,2496,"=ROUND(F32*12*IF(E32=4,0.15,0.10),0)",2026,32,Male
+40,Research & Development,Advanced Solutions,L2,3,6465,"=ROUND(F33*12*IF(E33=4,0.15,0.10),0)",2026,32,Male
+41,Research & Development,Discovery Solutions,L1,3,2206,"=ROUND(F34*12*IF(E34=4,0.15,0.10),0)",2026,32,Male
+42,Sales,Sales (Assumed),L2,3,2086,"=ROUND(F35*12*IF(E35=4,0.15,0.10),0)",2026,38,Male
+45,Research & Development,Discovery Solutions,L1,3,2293,"=ROUND(F36*12*IF(E36=4,0.15,0.10),0)",2026,32,Male
+46,Research & Development,Discovery Solutions,L1,3,2645,"=ROUND(F37*12*IF(E37=4,0.15,0.10),0)",2026,32,Female
+47,Sales,Sales (Assumed),L1,3,2683,"=ROUND(F38*12*IF(E38=4,0.15,0.10),0)",2026,38,Male
+49,Sales,Sales (Assumed),L1,3,2014,"=ROUND(F39*12*IF(E39=4,0.15,0.10),0)",2026,38,Female
+51,Research & Development,Discovery Solutions,L1,3,3419,"=ROUND(F40*12*IF(E40=4,0.15,0.10),0)",2026,32,Female
+52,Sales,Sales (Assumed),L2,3,5376,"=ROUND(F41*12*IF(E41=4,0.15,0.10),0)",2026,38,Female
+53,Research & Development,Discovery Solutions,L1,3,1951,"=ROUND(F42*12*IF(E42=4,0.15,0.10),0)",2026,32,Male
+54,Research & Development,Discovery Solutions,L1,3,2341,"=ROUND(F43*12*IF(E43=4,0.15,0.10),0)",2026,32,Female
+55,Research & Development,Discovery Solutions,L1,3,2293,"=ROUND(F44*12*IF(E44=4,0.15,0.10),0)",2026,32,Male
+56,Sales,Sales (Assumed),L3,3,8726,"=ROUND(F45*12*IF(E45=4,0.15,0.10),0)",2026,38,Male
+57,Research & Development,Discovery Solutions,L2,4,4011,"=ROUND(F46*12*IF(E46=4,0.15,0.10),0)",2026,32,Female
+58,Research & Development,Management (Assumed),L5,3,19545,"=ROUND(F47*12*IF(E47=4,0.15,0.10),0)",2026,32,Female
+60,Sales,Sales (Assumed),L2,4,4568,"=ROUND(F48*12*IF(E48=4,0.15,0.10),0)",2026,38,Male
+61,Research & Development,Discovery Solutions,L1,4,3022,"=ROUND(F49*12*IF(E49=4,0.15,0.10),0)",2026,32,Male
+62,Sales,Sales (Assumed),L2,4,5772,"=ROUND(F50*12*IF(E50=4,0.15,0.10),0)",2026,38,Male
+63,Research & Development,Discovery Solutions,L1,3,2269,"=ROUND(F51*12*IF(E51=4,0.15,0.10),0)",2026,32,Male
+64,Research & Development,Discovery Solutions,L3,3,5381,"=ROUND(F52*12*IF(E52=4,0.15,0.10),0)",2026,32,Male
+65,Research & Development,Discovery Solutions,L1,3,3441,"=ROUND(F53*12*IF(E53=4,0.15,0.10),0)",2026,32,Male
+68,Sales,Sales (Assumed),L2,4,5454,"=ROUND(F54*12*IF(E54=4,0.15,0.10),0)",2026,38,Female
+70,Research & Development,Advanced Solutions,L3,3,9884,"=ROUND(F55*12*IF(E55=4,0.15,0.10),0)",2026,32,Male
+72,Sales,Sales (Assumed),L2,3,4157,"=ROUND(F56*12*IF(E56=4,0.15,0.10),0)",2026,38,Female
+73,Research & Development,Management (Assumed),L3,3,13458,"=ROUND(F57*12*IF(E57=4,0.15,0.10),0)",2026,32,Female
+74,Sales,Sales (Assumed),L3,4,9069,"=ROUND(F58*12*IF(E58=4,0.15,0.10),0)",2026,38,Male
+75,Research & Development,Discovery Solutions,L1,3,4014,"=ROUND(F59*12*IF(E59=4,0.15,0.10),0)",2026,32,Female
+76,Research & Development,Discovery Solutions,L2,4,5915,"=ROUND(F60*12*IF(E60=4,0.15,0.10),0)",2026,32,Male
+77,Research & Development,Process Solutions,L2,3,5993,"=ROUND(F61*12*IF(E61=4,0.15,0.10),0)",2026,32,Male
+78,Research & Development,Process Solutions,L2,4,6162,"=ROUND(F62*12*IF(E62=4,0.15,0.10),0)",2026,32,Male
+79,Research & Development,Discovery Solutions,L2,3,2406,"=ROUND(F63*12*IF(E63=4,0.15,0.10),0)",2026,32,Female
+80,Research & Development,Management (Assumed),L5,3,18740,"=ROUND(F64*12*IF(E64=4,0.15,0.10),0)",2026,32,Female
+81,Sales,Sales (Assumed),L3,3,7637,"=ROUND(F65*12*IF(E65=4,0.15,0.10),0)",2026,38,Female
+83,Research & Development,Advanced Solutions,L3,3,10096,"=ROUND(F66*12*IF(E66=4,0.15,0.10),0)",2026,32,Female
+84,Research & Development,Management (Assumed),L4,3,14756,"=ROUND(F67*12*IF(E67=4,0.15,0.10),0)",2026,32,Female
+85,Research & Development,Process Solutions,L2,3,6499,"=ROUND(F68*12*IF(E68=4,0.15,0.10),0)",2026,32,Male
+86,Research & Development,Discovery Solutions,L3,3,9724,"=ROUND(F69*12*IF(E69=4,0.15,0.10),0)",2026,32,Male
+88,Research & Development,Discovery Solutions,L1,3,2194,"=ROUND(F70*12*IF(E70=4,0.15,0.10),0)",2026,32,Male
+90,Research & Development,Discovery Solutions,L1,3,3388,"=ROUND(F71*12*IF(E71=4,0.15,0.10),0)",2026,32,Male
+91,Sales,Sales (Assumed),L2,3,5473,"=ROUND(F72*12*IF(E72=4,0.15,0.10),0)",2026,38,Female
+94,Research & Development,Discovery Solutions,L1,4,2703,"=ROUND(F73*12*IF(E73=4,0.15,0.10),0)",2026,32,Male
+95,Research & Development,Discovery Solutions,L1,3,2501,"=ROUND(F74*12*IF(E74=4,0.15,0.10),0)",2026,32,Male
+96,Research & Development,Discovery Solutions,L2,3,6220,"=ROUND(F75*12*IF(E75=4,0.15,0.10),0)",2026,32,Male
+97,Research & Development,Discovery Solutions,L1,3,3038,"=ROUND(F76*12*IF(E76=4,0.15,0.10),0)",2026,32,Female
+98,Research & Development,Process Solutions,L2,4,4424,"=ROUND(F77*12*IF(E77=4,0.15,0.10),0)",2026,32,Female
+100,Sales,Sales (Assumed),L2,3,4312,"=ROUND(F78*12*IF(E78=4,0.15,0.10),0)",2026,38,Male
+101,Research & Development,Management (Assumed),L3,3,13245,"=ROUND(F79*12*IF(E79=4,0.15,0.10),0)",2026,32,Male
+102,Research & Development,Management (Assumed),L3,3,13664,"=ROUND(F80*12*IF(E80=4,0.15,0.10),0)",2026,32,Male
+103,Human Resources,Human Resources,L2,4,5021,"=ROUND(F81*12*IF(E81=4,0.15,0.10),0)",2026,140,Male
+104,Research & Development,Discovery Solutions,L2,3,5126,"=ROUND(F82*12*IF(E82=4,0.15,0.10),0)",2026,32,Male
+105,Research & Development,Discovery Solutions,L1,3,2859,"=ROUND(F83*12*IF(E83=4,0.15,0.10),0)",2026,32,Male
+106,Sales,Sales (Assumed),L3,3,10239,"=ROUND(F84*12*IF(E84=4,0.15,0.10),0)",2026,38,Male
+107,Research & Development,Discovery Solutions,L2,3,5329,"=ROUND(F85*12*IF(E85=4,0.15,0.10),0)",2026,32,Female
+110,Research & Development,Process Solutions,L2,3,4325,"=ROUND(F86*12*IF(E86=4,0.15,0.10),0)",2026,32,Male
+112,Research & Development,Process Solutions,L3,3,7260,"=ROUND(F87*12*IF(E87=4,0.15,0.10),0)",2026,32,Male
+113,Sales,Sales (Assumed),L1,3,2322,"=ROUND(F88*12*IF(E88=4,0.15,0.10),0)",2026,38,Male
+116,Research & Development,Discovery Solutions,L1,4,2075,"=ROUND(F89*12*IF(E89=4,0.15,0.10),0)",2026,32,Male
+117,Research & Development,Advanced Solutions,L2,3,4152,"=ROUND(F90*12*IF(E90=4,0.15,0.10),0)",2026,32,Male
+118,Sales,Sales (Assumed),L3,3,9619,"=ROUND(F91*12*IF(E91=4,0.15,0.10),0)",2026,38,Male
+119,Research & Development,Advanced Solutions,L4,4,13503,"=ROUND(F92*12*IF(E92=4,0.15,0.10),0)",2026,32,Male
+120,Sales,Sales (Assumed),L2,4,5441,"=ROUND(F93*12*IF(E93=4,0.15,0.10),0)",2026,38,Male
+121,Sales,Sales (Assumed),L2,3,5209,"=ROUND(F94*12*IF(E94=4,0.15,0.10),0)",2026,38,Female
+124,Research & Development,Advanced Solutions,L3,3,10673,"=ROUND(F95*12*IF(E95=4,0.15,0.10),0)",2026,32,Male
+125,Sales,Sales (Assumed),L2,3,5010,"=ROUND(F96*12*IF(E96=4,0.15,0.10),0)",2026,38,Male
+126,Research & Development,Management (Assumed),L3,3,13549,"=ROUND(F97*12*IF(E97=4,0.15,0.10),0)",2026,32,Female
+128,Sales,Sales (Assumed),L2,4,4999,"=ROUND(F98*12*IF(E98=4,0.15,0.10),0)",2026,38,Female
+129,Sales,Sales (Assumed),L2,3,4221,"=ROUND(F99*12*IF(E99=4,0.15,0.10),0)",2026,38,Male
+131,Sales,Sales (Assumed),L4,3,13872,"=ROUND(F100*12*IF(E100=4,0.15,0.10),0)",2026,38,Male
+132,Research & Development,Discovery Solutions,L2,3,2042,"=ROUND(F101*12*IF(E101=4,0.15,0.10),0)",2026,32,Male
+133,Human Resources,Human Resources,L1,4,2073,"=ROUND(F102*12*IF(E102=4,0.15,0.10),0)",2026,140,Male
+134,Research & Development,Discovery Solutions,L1,3,2956,"=ROUND(F103*12*IF(E103=4,0.15,0.10),0)",2026,32,Male
+137,Research & Development,Discovery Solutions,L1,3,2926,"=ROUND(F104*12*IF(E104=4,0.15,0.10),0)",2026,32,Female
+138,Research & Development,Discovery Solutions,L2,3,4809,"=ROUND(F105*12*IF(E105=4,0.15,0.10),0)",2026,32,Female
+139,Research & Development,Advanced Solutions,L2,3,5163,"=ROUND(F106*12*IF(E106=4,0.15,0.10),0)",2026,32,Male
+140,Human Resources,Human Resources,L5,4,18844,"=ROUND(F107*12*IF(E107=4,0.15,0.10),0)",2026,,Female
+141,Research & Development,Management (Assumed),L5,3,18172,"=ROUND(F108*12*IF(E108=4,0.15,0.10),0)",2026,32,Female
+142,Sales,Sales (Assumed),L2,3,5744,"=ROUND(F109*12*IF(E109=4,0.15,0.10),0)",2026,38,Male
+143,Research & Development,Discovery Solutions,L1,3,2889,"=ROUND(F110*12*IF(E110=4,0.15,0.10),0)",2026,32,Male
+144,Research & Development,Discovery Solutions,L1,3,2871,"=ROUND(F111*12*IF(E111=4,0.15,0.10),0)",2026,32,Female
+145,Research & Development,Advanced Solutions,L3,4,7484,"=ROUND(F112*12*IF(E112=4,0.15,0.10),0)",2026,32,Female
+147,Research & Development,Discovery Solutions,L2,4,6074,"=ROUND(F113*12*IF(E113=4,0.15,0.10),0)",2026,32,Male
+148,Human Resources,Human Resources,L4,3,17328,"=ROUND(F114*12*IF(E114=4,0.15,0.10),0)",2026,140,Female
+150,Research & Development,Discovery Solutions,L1,3,2774,"=ROUND(F115*12*IF(E115=4,0.15,0.10),0)",2026,32,Male
+151,Research & Development,Discovery Solutions,L2,3,4505,"=ROUND(F116*12*IF(E116=4,0.15,0.10),0)",2026,32,Female
+152,Sales,Sales (Assumed),L3,3,7428,"=ROUND(F117*12*IF(E117=4,0.15,0.10),0)",2026,38,Male
+153,Research & Development,Management (Assumed),L3,3,11631,"=ROUND(F118*12*IF(E118=4,0.15,0.10),0)",2026,32,Female
+154,Sales,Sales (Assumed),L3,3,9738,"=ROUND(F119*12*IF(E119=4,0.15,0.10),0)",2026,38,Female
+155,Research & Development,Discovery Solutions,L1,4,2835,"=ROUND(F120*12*IF(E120=4,0.15,0.10),0)",2026,32,Female
+158,Sales,Management (Assumed),L4,3,16959,"=ROUND(F121*12*IF(E121=4,0.15,0.10),0)",2026,38,Male
+159,Research & Development,Discovery Solutions,L1,4,2613,"=ROUND(F122*12*IF(E122=4,0.15,0.10),0)",2026,32,Male
+160,Sales,Sales (Assumed),L2,3,6146,"=ROUND(F123*12*IF(E123=4,0.15,0.10),0)",2026,38,Male
+161,Research & Development,Discovery Solutions,L1,3,4963,"=ROUND(F124*12*IF(E124=4,0.15,0.10),0)",2026,32,Female
+162,Research & Development,Management (Assumed),L5,3,19537,"=ROUND(F125*12*IF(E125=4,0.15,0.10),0)",2026,32,Male
+163,Sales,Sales (Assumed),L2,3,6172,"=ROUND(F126*12*IF(E126=4,0.15,0.10),0)",2026,38,Male
+164,Research & Development,Discovery Solutions,L1,3,2368,"=ROUND(F127*12*IF(E127=4,0.15,0.10),0)",2026,32,Female
+165,Research & Development,Advanced Solutions,L3,3,10312,"=ROUND(F128*12*IF(E128=4,0.15,0.10),0)",2026,32,Female
+167,Sales,Sales (Assumed),L1,3,1675,"=ROUND(F129*12*IF(E129=4,0.15,0.10),0)",2026,38,Male
+169,Research & Development,Discovery Solutions,L1,3,2523,"=ROUND(F130*12*IF(E130=4,0.15,0.10),0)",2026,32,Male
+170,Research & Development,Process Solutions,L2,3,6567,"=ROUND(F131*12*IF(E131=4,0.15,0.10),0)",2026,32,Female
+171,Research & Development,Discovery Solutions,L1,3,4739,"=ROUND(F132*12*IF(E132=4,0.15,0.10),0)",2026,32,Female
+174,Sales,Sales (Assumed),L3,3,9208,"=ROUND(F133*12*IF(E133=4,0.15,0.10),0)",2026,38,Female
+175,Sales,Sales (Assumed),L2,3,4559,"=ROUND(F134*12*IF(E134=4,0.15,0.10),0)",2026,38,Female
+176,Sales,Sales (Assumed),L3,3,8189,"=ROUND(F135*12*IF(E135=4,0.15,0.10),0)",2026,38,Male
+177,Human Resources,Human Resources,L1,4,2942,"=ROUND(F136*12*IF(E136=4,0.15,0.10),0)",2026,140,Female
+178,Research & Development,Process Solutions,L2,4,4941,"=ROUND(F137*12*IF(E137=4,0.15,0.10),0)",2026,32,Male
+179,Research & Development,Process Solutions,L3,3,10650,"=ROUND(F138*12*IF(E138=4,0.15,0.10),0)",2026,32,Male
+182,Sales,Sales (Assumed),L2,3,5902,"=ROUND(F139*12*IF(E139=4,0.15,0.10),0)",2026,38,Female
+183,Sales,Sales (Assumed),L2,3,8639,"=ROUND(F140*12*IF(E140=4,0.15,0.10),0)",2026,38,Male
+184,Human Resources,Human Resources,L2,3,6347,"=ROUND(F141*12*IF(E141=4,0.15,0.10),0)",2026,140,Male
+190,Research & Development,Discovery Solutions,L1,4,4200,"=ROUND(F142*12*IF(E142=4,0.15,0.10),0)",2026,32,Female
+192,Research & Development,Discovery Solutions,L1,3,3452,"=ROUND(F143*12*IF(E143=4,0.15,0.10),0)",2026,32,Male
+193,Research & Development,Discovery Solutions,L2,4,4317,"=ROUND(F144*12*IF(E144=4,0.15,0.10),0)",2026,32,Female
+194,Research & Development,Discovery Solutions,L1,3,2632,"=ROUND(F145*12*IF(E145=4,0.15,0.10),0)",2026,32,Female
+195,Sales,Sales (Assumed),L2,3,4668,"=ROUND(F146*12*IF(E146=4,0.15,0.10),0)",2026,38,Male
+197,Research & Development,Discovery Solutions,L1,3,3204,"=ROUND(F147*12*IF(E147=4,0.15,0.10),0)",2026,32,Female
+198,Research & Development,Discovery Solutions,L1,3,2720,"=ROUND(F148*12*IF(E148=4,0.15,0.10),0)",2026,32,Male
+199,Research & Development,Management (Assumed),L4,3,17181,"=ROUND(F149*12*IF(E149=4,0.15,0.10),0)",2026,32,Male
+200,Research & Development,Discovery Solutions,L1,4,2238,"=ROUND(F150*12*IF(E150=4,0.15,0.10),0)",2026,32,Male
+201,Research & Development,Discovery Solutions,L1,3,1483,"=ROUND(F151*12*IF(E151=4,0.15,0.10),0)",2026,32,Female
+202,Research & Development,Discovery Solutions,L2,3,5605,"=ROUND(F152*12*IF(E152=4,0.15,0.10),0)",2026,32,Female
+204,Sales,Sales (Assumed),L3,3,7295,"=ROUND(F153*12*IF(E153=4,0.15,0.10),0)",2026,38,Male
+205,Sales,Sales (Assumed),L2,4,2306,"=ROUND(F154*12*IF(E154=4,0.15,0.10),0)",2026,38,Male
+206,Research & Development,Discovery Solutions,L2,3,2348,"=ROUND(F155*12*IF(E155=4,0.15,0.10),0)",2026,32,Male
+207,Sales,Sales (Assumed),L3,3,8998,"=ROUND(F156*12*IF(E156=4,0.15,0.10),0)",2026,38,Female
+208,Research & Development,Process Solutions,L2,3,4319,"=ROUND(F157*12*IF(E157=4,0.15,0.10),0)",2026,32,Male
+211,Research & Development,Process Solutions,L2,3,6132,"=ROUND(F158*12*IF(E158=4,0.15,0.10),0)",2026,32,Male
+214,Research & Development,Discovery Solutions,L1,4,3346,"=ROUND(F159*12*IF(E159=4,0.15,0.10),0)",2026,32,Female
+215,Sales,Sales (Assumed),L3,3,10855,"=ROUND(F160*12*IF(E160=4,0.15,0.10),0)",2026,38,Male
+216,Sales,Sales (Assumed),L1,3,2231,"=ROUND(F161*12*IF(E161=4,0.15,0.10),0)",2026,38,Female
+217,Research & Development,Discovery Solutions,L1,4,2323,"=ROUND(F162*12*IF(E162=4,0.15,0.10),0)",2026,32,Male
+218,Research & Development,Discovery Solutions,L1,3,2024,"=ROUND(F163*12*IF(E163=4,0.15,0.10),0)",2026,32,Male
+221,Research & Development,Discovery Solutions,L1,3,2713,"=ROUND(F164*12*IF(E164=4,0.15,0.10),0)",2026,32,Male
+223,Research & Development,Advanced Solutions,L3,3,9439,"=ROUND(F165*12*IF(E165=4,0.15,0.10),0)",2026,32,Male
+224,Research & Development,Discovery Solutions,L1,3,2566,"=ROUND(F166*12*IF(E166=4,0.15,0.10),0)",2026,32,Male
+226,Research & Development,Management (Assumed),L5,3,19926,"=ROUND(F167*12*IF(E167=4,0.15,0.10),0)",2026,32,Female
+227,Research & Development,Discovery Solutions,L1,3,2451,"=ROUND(F168*12*IF(E168=4,0.15,0.10),0)",2026,32,Male
+228,Sales,Sales (Assumed),L3,3,9419,"=ROUND(F169*12*IF(E169=4,0.15,0.10),0)",2026,38,Female
+230,Sales,Sales (Assumed),L2,4,8686,"=ROUND(F170*12*IF(E170=4,0.15,0.10),0)",2026,38,Female
+231,Research & Development,Discovery Solutions,L1,4,3038,"=ROUND(F171*12*IF(E171=4,0.15,0.10),0)",2026,32,Male
+233,Research & Development,Discovery Solutions,L1,3,3058,"=ROUND(F172*12*IF(E172=4,0.15,0.10),0)",2026,32,Male
+235,Sales,Sales (Assumed),L1,4,2325,"=ROUND(F173*12*IF(E173=4,0.15,0.10),0)",2026,38,Female
+238,Research & Development,Discovery Solutions,L1,3,2088,"=ROUND(F174*12*IF(E174=4,0.15,0.10),0)",2026,32,Male
+239,Research & Development,Discovery Solutions,L2,3,3072,"=ROUND(F175*12*IF(E175=4,0.15,0.10),0)",2026,32,Male
+240,Sales,Sales (Assumed),L2,3,5006,"=ROUND(F176*12*IF(E176=4,0.15,0.10),0)",2026,38,Female
+241,Research & Development,Discovery Solutions,L1,3,4257,"=ROUND(F177*12*IF(E177=4,0.15,0.10),0)",2026,32,Female
+242,Research & Development,Discovery Solutions,L1,3,2500,"=ROUND(F178*12*IF(E178=4,0.15,0.10),0)",2026,32,Male
+243,Research & Development,Discovery Solutions,L1,4,1102,"=ROUND(F179*12*IF(E179=4,0.15,0.10),0)",2026,32,Male
+244,Sales,Sales (Assumed),L3,4,10453,"=ROUND(F180*12*IF(E180=4,0.15,0.10),0)",2026,38,Female
+245,Research & Development,Discovery Solutions,L1,3,2288,"=ROUND(F181*12*IF(E181=4,0.15,0.10),0)",2026,32,Female
+246,Research & Development,Discovery Solutions,L1,4,3929,"=ROUND(F182*12*IF(E182=4,0.15,0.10),0)",2026,32,Female
+247,Research & Development,Discovery Solutions,L1,3,2311,"=ROUND(F183*12*IF(E183=4,0.15,0.10),0)",2026,32,Female
+248,Sales,Sales (Assumed),L1,4,3140,"=ROUND(F184*12*IF(E184=4,0.15,0.10),0)",2026,38,Female
+249,Research & Development,Discovery Solutions,L1,3,3690,"=ROUND(F185*12*IF(E185=4,0.15,0.10),0)",2026,32,Male
+250,Research & Development,Process Solutions,L2,3,4450,"=ROUND(F186*12*IF(E186=4,0.15,0.10),0)",2026,32,Female
+252,Research & Development,Discovery Solutions,L1,3,2756,"=ROUND(F187*12*IF(E187=4,0.15,0.10),0)",2026,32,Female
+253,Research & Development,Management (Assumed),L5,3,19033,"=ROUND(F188*12*IF(E188=4,0.15,0.10),0)",2026,32,Female
+254,Research & Development,Management (Assumed),L5,3,18722,"=ROUND(F189*12*IF(E189=4,0.15,0.10),0)",2026,32,Male
+256,Research & Development,Process Solutions,L2,3,9547,"=ROUND(F190*12*IF(E190=4,0.15,0.10),0)",2026,32,Male
+258,Research & Development,Advanced Solutions,L4,3,13734,"=ROUND(F191*12*IF(E191=4,0.15,0.10),0)",2026,32,Female
+259,Research & Development,Management (Assumed),L5,3,19999,"=ROUND(F192*12*IF(E192=4,0.15,0.10),0)",2026,32,Male
+260,Research & Development,Discovery Solutions,L1,3,2279,"=ROUND(F193*12*IF(E193=4,0.15,0.10),0)",2026,32,Female
+261,Research & Development,Process Solutions,L2,3,5916,"=ROUND(F194*12*IF(E194=4,0.15,0.10),0)",2026,32,Male
+262,Research & Development,Discovery Solutions,L1,3,2089,"=ROUND(F195*12*IF(E195=4,0.15,0.10),0)",2026,32,Male
+264,Research & Development,Management (Assumed),L4,4,16792,"=ROUND(F196*12*IF(E196=4,0.15,0.10),0)",2026,32,Male
+267,Research & Development,Discovery Solutions,L1,3,3564,"=ROUND(F197*12*IF(E197=4,0.15,0.10),0)",2026,32,Male
+269,Research & Development,Discovery Solutions,L2,3,4425,"=ROUND(F198*12*IF(E198=4,0.15,0.10),0)",2026,32,Female
+270,Research & Development,Process Solutions,L2,3,5265,"=ROUND(F199*12*IF(E199=4,0.15,0.10),0)",2026,32,Female
+271,Research & Development,Process Solutions,L2,3,6553,"=ROUND(F200*12*IF(E200=4,0.15,0.10),0)",2026,32,Male
+273,Research & Development,Process Solutions,L2,3,6261,"=ROUND(F201*12*IF(E201=4,0.15,0.10),0)",2026,32,Male
+274,Research & Development,Process Solutions,L2,3,4298,"=ROUND(F202*12*IF(E202=4,0.15,0.10),0)",2026,32,Male
+275,Research & Development,Process Solutions,L2,3,6804,"=ROUND(F203*12*IF(E203=4,0.15,0.10),0)",2026,32,Male
+277,Research & Development,Discovery Solutions,L1,3,3815,"=ROUND(F204*12*IF(E204=4,0.15,0.10),0)",2026,32,Male
+281,Research & Development,Discovery Solutions,L2,3,2741,"=ROUND(F205*12*IF(E205=4,0.15,0.10),0)",2026,32,Male
+282,Research & Development,Advanced Solutions,L2,3,6673,"=ROUND(F206*12*IF(E206=4,0.15,0.10),0)",2026,32,Male
+283,Sales,Sales (Assumed),L3,4,7639,"=ROUND(F207*12*IF(E207=4,0.15,0.10),0)",2026,38,Female
+284,Research & Development,Discovery Solutions,L1,3,2328,"=ROUND(F208*12*IF(E208=4,0.15,0.10),0)",2026,32,Male
+286,Research & Development,Discovery Solutions,L1,3,2153,"=ROUND(F209*12*IF(E209=4,0.15,0.10),0)",2026,32,Female
+287,Research & Development,Advanced Solutions,L2,3,4876,"=ROUND(F210*12*IF(E210=4,0.15,0.10),0)",2026,32,Male
+288,Research & Development,Advanced Solutions,L3,3,9396,"=ROUND(F211*12*IF(E211=4,0.15,0.10),0)",2026,32,Male
+291,Sales,Sales (Assumed),L3,3,10400,"=ROUND(F212*12*IF(E212=4,0.15,0.10),0)",2026,38,Male
+292,Research & Development,Process Solutions,L3,4,8474,"=ROUND(F213*12*IF(E213=4,0.15,0.10),0)",2026,32,Male
+293,Sales,Sales (Assumed),L2,3,9981,"=ROUND(F214*12*IF(E214=4,0.15,0.10),0)",2026,38,Female
+296,Research & Development,Management (Assumed),L3,3,12490,"=ROUND(F215*12*IF(E215=4,0.15,0.10),0)",2026,32,Male
+297,Research & Development,Discovery Solutions,L1,3,2657,"=ROUND(F216*12*IF(E216=4,0.15,0.10),0)",2026,32,Female
+298,Sales,Management (Assumed),L3,3,13591,"=ROUND(F217*12*IF(E217=4,0.15,0.10),0)",2026,38,Female
+299,Sales,Sales (Assumed),L2,3,6696,"=ROUND(F218*12*IF(E218=4,0.15,0.10),0)",2026,38,Female
+300,Research & Development,Discovery Solutions,L1,3,2058,"=ROUND(F219*12*IF(E219=4,0.15,0.10),0)",2026,32,Male
+302,Sales,Sales (Assumed),L3,3,8865,"=ROUND(F220*12*IF(E220=4,0.15,0.10),0)",2026,38,Female
+303,Sales,Sales (Assumed),L2,3,5940,"=ROUND(F221*12*IF(E221=4,0.15,0.10),0)",2026,38,Female
+304,Research & Development,Discovery Solutions,L2,3,5914,"=ROUND(F222*12*IF(E222=4,0.15,0.10),0)",2026,32,Male
+305,Research & Development,Discovery Solutions,L1,4,2622,"=ROUND(F223*12*IF(E223=4,0.15,0.10),0)",2026,32,Female
+306,Research & Development,Management (Assumed),L3,3,12185,"=ROUND(F224*12*IF(E224=4,0.15,0.10),0)",2026,32,Male
+307,Sales,Sales (Assumed),L3,3,10609,"=ROUND(F225*12*IF(E225=4,0.15,0.10),0)",2026,38,Male
+308,Research & Development,Process Solutions,L2,3,4345,"=ROUND(F226*12*IF(E226=4,0.15,0.10),0)",2026,32,Male
+309,Research & Development,Discovery Solutions,L1,3,2177,"=ROUND(F227*12*IF(E227=4,0.15,0.10),0)",2026,32,Male
+311,Sales,Sales (Assumed),L1,3,2793,"=ROUND(F228*12*IF(E228=4,0.15,0.10),0)",2026,38,Male
+312,Sales,Sales (Assumed),L3,3,7918,"=ROUND(F229*12*IF(E229=4,0.15,0.10),0)",2026,38,Female
+314,Sales,Sales (Assumed),L3,3,8789,"=ROUND(F230*12*IF(E230=4,0.15,0.10),0)",2026,38,Female
+315,Research & Development,Discovery Solutions,L1,3,2389,"=ROUND(F231*12*IF(E231=4,0.15,0.10),0)",2026,32,Male
+316,Research & Development,Discovery Solutions,L1,3,3212,"=ROUND(F232*12*IF(E232=4,0.15,0.10),0)",2026,32,Female
+319,Research & Development,Management (Assumed),L5,3,19232,"=ROUND(F233*12*IF(E233=4,0.15,0.10),0)",2026,32,Male
+321,Human Resources,Human Resources,L1,3,2267,"=ROUND(F234*12*IF(E234=4,0.15,0.10),0)",2026,140,Male
+323,Sales,Management (Assumed),L5,3,19517,"=ROUND(F235*12*IF(E235=4,0.15,0.10),0)",2026,38,Female
+325,Research & Development,Discovery Solutions,L1,3,2436,"=ROUND(F236*12*IF(E236=4,0.15,0.10),0)",2026,32,Male
+327,Sales,Management (Assumed),L4,4,16064,"=ROUND(F237*12*IF(E237=4,0.15,0.10),0)",2026,38,Female
+328,Research & Development,Discovery Solutions,L1,4,2707,"=ROUND(F238*12*IF(E238=4,0.15,0.10),0)",2026,32,Female
+329,Sales,Management (Assumed),L5,3,19068,"=ROUND(F239*12*IF(E239=4,0.15,0.10),0)",2026,38,Male
+330,Sales,Sales (Assumed),L1,3,3931,"=ROUND(F240*12*IF(E240=4,0.15,0.10),0)",2026,38,Female
+331,Research & Development,Discovery Solutions,L1,3,3730,"=ROUND(F241*12*IF(E241=4,0.15,0.10),0)",2026,32,Male
+332,Research & Development,Discovery Solutions,L1,3,2232,"=ROUND(F242*12*IF(E242=4,0.15,0.10),0)",2026,32,Female
+333,Sales,Sales (Assumed),L2,3,4465,"=ROUND(F243*12*IF(E243=4,0.15,0.10),0)",2026,38,Male
+334,Research & Development,Discovery Solutions,L2,3,3072,"=ROUND(F244*12*IF(E244=4,0.15,0.10),0)",2026,32,Male
+335,Research & Development,Discovery Solutions,L2,3,3319,"=ROUND(F245*12*IF(E245=4,0.15,0.10),0)",2026,32,Male
+336,Research & Development,Management (Assumed),L5,3,19202,"=ROUND(F246*12*IF(E246=4,0.15,0.10),0)",2026,32,Male
+337,Research & Development,Management (Assumed),L3,3,13675,"=ROUND(F247*12*IF(E247=4,0.15,0.10),0)",2026,32,Male
+338,Research & Development,Discovery Solutions,L1,3,2911,"=ROUND(F248*12*IF(E248=4,0.15,0.10),0)",2026,32,Female
+339,Research & Development,Process Solutions,L2,3,5957,"=ROUND(F249*12*IF(E249=4,0.15,0.10),0)",2026,32,Male
+340,Research & Development,Discovery Solutions,L1,3,3920,"=ROUND(F250*12*IF(E250=4,0.15,0.10),0)",2026,32,Female
+341,Research & Development,Process Solutions,L2,3,6434,"=ROUND(F251*12*IF(E251=4,0.15,0.10),0)",2026,32,Male
+342,Research & Development,Process Solutions,L3,3,10048,"=ROUND(F252*12*IF(E252=4,0.15,0.10),0)",2026,32,Male
+343,Research & Development,Advanced Solutions,L3,4,10938,"=ROUND(F253*12*IF(E253=4,0.15,0.10),0)",2026,32,Female
+346,Research & Development,Discovery Solutions,L1,3,2340,"=ROUND(F254*12*IF(E254=4,0.15,0.10),0)",2026,32,Male
+347,Research & Development,Discovery Solutions,L2,3,6545,"=ROUND(F255*12*IF(E255=4,0.15,0.10),0)",2026,32,Female
+349,Sales,Sales (Assumed),L2,3,6931,"=ROUND(F256*12*IF(E256=4,0.15,0.10),0)",2026,38,Male
+350,Research & Development,Process Solutions,L2,3,4898,"=ROUND(F257*12*IF(E257=4,0.15,0.10),0)",2026,32,Female
+351,Research & Development,Discovery Solutions,L1,3,2593,"=ROUND(F258*12*IF(E258=4,0.15,0.10),0)",2026,32,Female
+352,Research & Development,Management (Assumed),L5,3,19436,"=ROUND(F259*12*IF(E259=4,0.15,0.10),0)",2026,32,Male
+353,Research & Development,Discovery Solutions,L1,3,2723,"=ROUND(F260*12*IF(E260=4,0.15,0.10),0)",2026,32,Male
+355,Research & Development,Discovery Solutions,L1,3,3479,"=ROUND(F261*12*IF(E261=4,0.15,0.10),0)",2026,32,Male
+359,Research & Development,Discovery Solutions,L1,4,2794,"=ROUND(F262*12*IF(E262=4,0.15,0.10),0)",2026,32,Male
+361,Sales,Sales (Assumed),L2,3,5249,"=ROUND(F263*12*IF(E263=4,0.15,0.10),0)",2026,38,Male
+362,Research & Development,Discovery Solutions,L2,3,2176,"=ROUND(F264*12*IF(E264=4,0.15,0.10),0)",2026,32,Male
+363,Sales,Management (Assumed),L4,3,16872,"=ROUND(F265*12*IF(E265=4,0.15,0.10),0)",2026,38,Female
+364,Research & Development,Discovery Solutions,L1,3,3485,"=ROUND(F266*12*IF(E266=4,0.15,0.10),0)",2026,32,Male
+366,Sales,Sales (Assumed),L2,3,6644,"=ROUND(F267*12*IF(E267=4,0.15,0.10),0)",2026,38,Male
+367,Research & Development,Advanced Solutions,L2,4,5582,"=ROUND(F268*12*IF(E268=4,0.15,0.10),0)",2026,32,Male
+369,Research & Development,Advanced Solutions,L2,3,4000,"=ROUND(F269*12*IF(E269=4,0.15,0.10),0)",2026,32,Male
+372,Research & Development,Advanced Solutions,L4,3,13496,"=ROUND(F270*12*IF(E270=4,0.15,0.10),0)",2026,32,Male
+373,Research & Development,Discovery Solutions,L1,3,3210,"=ROUND(F271*12*IF(E271=4,0.15,0.10),0)",2026,32,Male
+374,Research & Development,Management (Assumed),L5,3,19045,"=ROUND(F272*12*IF(E272=4,0.15,0.10),0)",2026,32,Male
+376,Research & Development,Management (Assumed),L3,3,11849,"=ROUND(F273*12*IF(E273=4,0.15,0.10),0)",2026,32,Male
+377,Research & Development,Discovery Solutions,L1,4,2070,"=ROUND(F274*12*IF(E274=4,0.15,0.10),0)",2026,32,Male
+378,Sales,Sales (Assumed),L2,3,6502,"=ROUND(F275*12*IF(E275=4,0.15,0.10),0)",2026,38,Male
+379,Research & Development,Discovery Solutions,L1,3,3230,"=ROUND(F276*12*IF(E276=4,0.15,0.10),0)",2026,32,Male
+380,Research & Development,Management (Assumed),L3,3,13603,"=ROUND(F277*12*IF(E277=4,0.15,0.10),0)",2026,32,Female
+381,Research & Development,Management (Assumed),L3,3,11996,"=ROUND(F278*12*IF(E278=4,0.15,0.10),0)",2026,32,Female
+382,Sales,Sales (Assumed),L2,4,5605,"=ROUND(F279*12*IF(E279=4,0.15,0.10),0)",2026,38,Female
+384,Research & Development,Process Solutions,L2,4,6397,"=ROUND(F280*12*IF(E280=4,0.15,0.10),0)",2026,32,Female
+385,Research & Development,Management (Assumed),L5,3,19144,"=ROUND(F281*12*IF(E281=4,0.15,0.10),0)",2026,32,Male
+386,Research & Development,Management (Assumed),L4,3,17584,"=ROUND(F282*12*IF(E282=4,0.15,0.10),0)",2026,32,Male
+387,Sales,Sales (Assumed),L2,4,4907,"=ROUND(F283*12*IF(E283=4,0.15,0.10),0)",2026,38,Male
+388,Sales,Sales (Assumed),L2,3,4554,"=ROUND(F284*12*IF(E284=4,0.15,0.10),0)",2026,38,Male
+389,Research & Development,Discovery Solutions,L2,3,5415,"=ROUND(F285*12*IF(E285=4,0.15,0.10),0)",2026,32,Male
+390,Research & Development,Advanced Solutions,L2,3,4741,"=ROUND(F286*12*IF(E286=4,0.15,0.10),0)",2026,32,Male
+391,Research & Development,Discovery Solutions,L1,3,2115,"=ROUND(F287*12*IF(E287=4,0.15,0.10),0)",2026,32,Female
+392,Research & Development,Discovery Solutions,L1,4,3161,"=ROUND(F288*12*IF(E288=4,0.15,0.10),0)",2026,32,Male
+393,Research & Development,Advanced Solutions,L2,3,5745,"=ROUND(F289*12*IF(E289=4,0.15,0.10),0)",2026,32,Male
+394,Research & Development,Discovery Solutions,L1,3,2373,"=ROUND(F290*12*IF(E290=4,0.15,0.10),0)",2026,32,Male
+395,Research & Development,Discovery Solutions,L1,4,3310,"=ROUND(F291*12*IF(E291=4,0.15,0.10),0)",2026,32,Female
+396,Research & Development,Management (Assumed),L5,3,18665,"=ROUND(F292*12*IF(E292=4,0.15,0.10),0)",2026,32,Female
+397,Research & Development,Discovery Solutions,L2,3,4485,"=ROUND(F293*12*IF(E293=4,0.15,0.10),0)",2026,32,Male
+399,Sales,Sales (Assumed),L1,3,2789,"=ROUND(F294*12*IF(E294=4,0.15,0.10),0)",2026,38,Female
+401,Sales,Sales (Assumed),L2,3,5828,"=ROUND(F295*12*IF(E295=4,0.15,0.10),0)",2026,38,Male
+403,Research & Development,Discovery Solutions,L1,3,2326,"=ROUND(F296*12*IF(E296=4,0.15,0.10),0)",2026,32,Male
+404,Sales,Sales (Assumed),L4,3,13525,"=ROUND(F297*12*IF(E297=4,0.15,0.10),0)",2026,38,Female
+405,Research & Development,Discovery Solutions,L1,3,1420,"=ROUND(F298*12*IF(E298=4,0.15,0.10),0)",2026,32,Male
+406,Sales,Sales (Assumed),L3,3,8020,"=ROUND(F299*12*IF(E299=4,0.15,0.10),0)",2026,38,Male
+407,Research & Development,Discovery Solutions,L1,3,3688,"=ROUND(F300*12*IF(E300=4,0.15,0.10),0)",2026,32,Male
+408,Research & Development,Process Solutions,L2,3,5482,"=ROUND(F301*12*IF(E301=4,0.15,0.10),0)",2026,32,Male
+410,Sales,Management (Assumed),L4,3,16015,"=ROUND(F302*12*IF(E302=4,0.15,0.10),0)",2026,38,Male
+411,Sales,Sales (Assumed),L1,3,1200,"=ROUND(F303*12*IF(E303=4,0.15,0.10),0)",2026,38,Female
+412,Research & Development,Advanced Solutions,L2,3,5661,"=ROUND(F304*12*IF(E304=4,0.15,0.10),0)",2026,32,Male
+416,Sales,Sales (Assumed),L2,3,6929,"=ROUND(F305*12*IF(E305=4,0.15,0.10),0)",2026,38,Male
+417,Research & Development,Advanced Solutions,L3,3,9613,"=ROUND(F306*12*IF(E306=4,0.15,0.10),0)",2026,32,Male
+419,Research & Development,Discovery Solutions,L2,3,5674,"=ROUND(F307*12*IF(E307=4,0.15,0.10),0)",2026,32,Female
+420,Sales,Sales (Assumed),L2,3,5484,"=ROUND(F308*12*IF(E308=4,0.15,0.10),0)",2026,38,Male
+421,Research & Development,Management (Assumed),L3,3,12061,"=ROUND(F309*12*IF(E309=4,0.15,0.10),0)",2026,32,Female
+422,Research & Development,Advanced Solutions,L2,3,5660,"=ROUND(F310*12*IF(E310=4,0.15,0.10),0)",2026,32,Male
+423,Research & Development,Discovery Solutions,L1,3,4821,"=ROUND(F311*12*IF(E311=4,0.15,0.10),0)",2026,32,Male
+424,Human Resources,Human Resources,L2,3,6410,"=ROUND(F312*12*IF(E312=4,0.15,0.10),0)",2026,140,Male
+425,Research & Development,Discovery Solutions,L3,3,5210,"=ROUND(F313*12*IF(E313=4,0.15,0.10),0)",2026,32,Male
+426,Research & Development,Discovery Solutions,L1,3,2695,"=ROUND(F314*12*IF(E314=4,0.15,0.10),0)",2026,32,Male
+428,Research & Development,Management (Assumed),L3,3,11878,"=ROUND(F315*12*IF(E315=4,0.15,0.10),0)",2026,32,Female
+429,Research & Development,Management (Assumed),L4,3,17068,"=ROUND(F316*12*IF(E316=4,0.15,0.10),0)",2026,32,Male
+430,Research & Development,Discovery Solutions,L1,3,2455,"=ROUND(F317*12*IF(E317=4,0.15,0.10),0)",2026,32,Female
+431,Research & Development,Advanced Solutions,L4,3,13964,"=ROUND(F318*12*IF(E318=4,0.15,0.10),0)",2026,32,Female
+433,Research & Development,Discovery Solutions,L2,3,4941,"=ROUND(F319*12*IF(E319=4,0.15,0.10),0)",2026,32,Male
+434,Research & Development,Discovery Solutions,L1,3,2478,"=ROUND(F320*12*IF(E320=4,0.15,0.10),0)",2026,32,Female
+436,Sales,Sales (Assumed),L2,3,5228,"=ROUND(F321*12*IF(E321=4,0.15,0.10),0)",2026,38,Female
+437,Sales,Sales (Assumed),L2,3,4478,"=ROUND(F322*12*IF(E322=4,0.15,0.10),0)",2026,38,Male
+438,Sales,Sales (Assumed),L2,3,7547,"=ROUND(F323*12*IF(E323=4,0.15,0.10),0)",2026,38,Male
+439,Research & Development,Discovery Solutions,L2,3,5055,"=ROUND(F324*12*IF(E324=4,0.15,0.10),0)",2026,32,Female
+440,Research & Development,Discovery Solutions,L1,3,3464,"=ROUND(F325*12*IF(E325=4,0.15,0.10),0)",2026,32,Male
+441,Research & Development,Discovery Solutions,L2,3,5775,"=ROUND(F326*12*IF(E326=4,0.15,0.10),0)",2026,32,Female
+442,Research & Development,Process Solutions,L3,4,8943,"=ROUND(F327*12*IF(E327=4,0.15,0.10),0)",2026,32,Female
+444,Research & Development,Management (Assumed),L5,3,19272,"=ROUND(F328*12*IF(E328=4,0.15,0.10),0)",2026,32,Male
+445,Sales,Sales (Assumed),L2,3,5238,"=ROUND(F329*12*IF(E329=4,0.15,0.10),0)",2026,38,Female
+446,Sales,Sales (Assumed),L2,3,4682,"=ROUND(F330*12*IF(E330=4,0.15,0.10),0)",2026,38,Male
+447,Research & Development,Management (Assumed),L5,3,18300,"=ROUND(F331*12*IF(E331=4,0.15,0.10),0)",2026,32,Male
+448,Research & Development,Discovery Solutions,L2,3,5257,"=ROUND(F332*12*IF(E332=4,0.15,0.10),0)",2026,32,Female
+449,Sales,Sales (Assumed),L2,3,6349,"=ROUND(F333*12*IF(E333=4,0.15,0.10),0)",2026,38,Male
+450,Research & Development,Discovery Solutions,L2,3,4869,"=ROUND(F334*12*IF(E334=4,0.15,0.10),0)",2026,32,Female
+451,Research & Development,Advanced Solutions,L3,3,9985,"=ROUND(F335*12*IF(E335=4,0.15,0.10),0)",2026,32,Female
+452,Research & Development,Discovery Solutions,L2,3,3697,"=ROUND(F336*12*IF(E336=4,0.15,0.10),0)",2026,32,Male
+453,Sales,Sales (Assumed),L2,4,7457,"=ROUND(F337*12*IF(E337=4,0.15,0.10),0)",2026,38,Male
+454,Research & Development,Discovery Solutions,L1,3,2119,"=ROUND(F338*12*IF(E338=4,0.15,0.10),0)",2026,32,Male
+455,Research & Development,Discovery Solutions,L1,3,3983,"=ROUND(F339*12*IF(E339=4,0.15,0.10),0)",2026,32,Male
+456,Sales,Sales (Assumed),L2,3,6118,"=ROUND(F340*12*IF(E340=4,0.15,0.10),0)",2026,38,Female
+458,Sales,Sales (Assumed),L2,3,6214,"=ROUND(F341*12*IF(E341=4,0.15,0.10),0)",2026,38,Female
+460,Research & Development,Process Solutions,L2,3,6347,"=ROUND(F342*12*IF(E342=4,0.15,0.10),0)",2026,32,Male
+461,Research & Development,Management (Assumed),L3,3,11510,"=ROUND(F343*12*IF(E343=4,0.15,0.10),0)",2026,32,Male
+462,Research & Development,Process Solutions,L3,3,7143,"=ROUND(F344*12*IF(E344=4,0.15,0.10),0)",2026,32,Female
+463,Sales,Sales (Assumed),L2,3,8268,"=ROUND(F345*12*IF(E345=4,0.15,0.10),0)",2026,38,Female
+464,Research & Development,Process Solutions,L3,3,8095,"=ROUND(F346*12*IF(E346=4,0.15,0.10),0)",2026,32,Male
+465,Research & Development,Discovery Solutions,L1,3,2904,"=ROUND(F347*12*IF(E347=4,0.15,0.10),0)",2026,32,Male
+466,Research & Development,Process Solutions,L2,3,6032,"=ROUND(F348*12*IF(E348=4,0.15,0.10),0)",2026,32,Male
+467,Sales,Sales (Assumed),L2,3,2976,"=ROUND(F349*12*IF(E349=4,0.15,0.10),0)",2026,38,Male
+468,Research & Development,Management (Assumed),L4,3,15992,"=ROUND(F350*12*IF(E350=4,0.15,0.10),0)",2026,32,Female
+469,Sales,Sales (Assumed),L2,3,4649,"=ROUND(F351*12*IF(E351=4,0.15,0.10),0)",2026,38,Male
+470,Human Resources,Human Resources,L1,3,2696,"=ROUND(F352*12*IF(E352=4,0.15,0.10),0)",2026,140,Male
+471,Research & Development,Discovery Solutions,L1,3,2370,"=ROUND(F353*12*IF(E353=4,0.15,0.10),0)",2026,32,Female
+473,Sales,Management (Assumed),L3,4,12504,"=ROUND(F354*12*IF(E354=4,0.15,0.10),0)",2026,38,Female
+474,Research & Development,Discovery Solutions,L2,3,5974,"=ROUND(F355*12*IF(E355=4,0.15,0.10),0)",2026,32,Male
+475,Sales,Sales (Assumed),L2,3,4736,"=ROUND(F356*12*IF(E356=4,0.15,0.10),0)",2026,38,Female
+476,Sales,Sales (Assumed),L2,3,5296,"=ROUND(F357*12*IF(E357=4,0.15,0.10),0)",2026,38,Male
+477,Research & Development,Advanced Solutions,L2,4,6781,"=ROUND(F358*12*IF(E358=4,0.15,0.10),0)",2026,32,Male
+478,Sales,Sales (Assumed),L1,3,2174,"=ROUND(F359*12*IF(E359=4,0.15,0.10),0)",2026,38,Female
+479,Sales,Sales (Assumed),L2,3,6653,"=ROUND(F360*12*IF(E360=4,0.15,0.10),0)",2026,38,Female
+481,Sales,Sales (Assumed),L3,3,9699,"=ROUND(F361*12*IF(E361=4,0.15,0.10),0)",2026,38,Male
+482,Research & Development,Advanced Solutions,L2,3,6755,"=ROUND(F362*12*IF(E362=4,0.15,0.10),0)",2026,32,Male
+483,Research & Development,Discovery Solutions,L1,3,2213,"=ROUND(F363*12*IF(E363=4,0.15,0.10),0)",2026,32,Female
+484,Sales,Sales (Assumed),L1,4,2610,"=ROUND(F364*12*IF(E364=4,0.15,0.10),0)",2026,38,Male
+485,Sales,Sales (Assumed),L1,3,2851,"=ROUND(F365*12*IF(E365=4,0.15,0.10),0)",2026,38,Female
+486,Research & Development,Discovery Solutions,L1,4,3452,"=ROUND(F366*12*IF(E366=4,0.15,0.10),0)",2026,32,Female
+487,Research & Development,Process Solutions,L2,3,5258,"=ROUND(F367*12*IF(E367=4,0.15,0.10),0)",2026,32,Female
+488,Sales,Sales (Assumed),L2,3,9355,"=ROUND(F368*12*IF(E368=4,0.15,0.10),0)",2026,38,Male
+491,Research & Development,Advanced Solutions,L3,3,10496,"=ROUND(F369*12*IF(E369=4,0.15,0.10),0)",2026,32,Male
+492,Sales,Sales (Assumed),L2,3,6380,"=ROUND(F370*12*IF(E370=4,0.15,0.10),0)",2026,38,Male
+493,Research & Development,Discovery Solutions,L1,3,2657,"=ROUND(F371*12*IF(E371=4,0.15,0.10),0)",2026,32,Male
+494,Sales,Sales (Assumed),L1,3,2716,"=ROUND(F372*12*IF(E372=4,0.15,0.10),0)",2026,38,Female
+495,Research & Development,Discovery Solutions,L1,3,2201,"=ROUND(F373*12*IF(E373=4,0.15,0.10),0)",2026,32,Male
+496,Research & Development,Advanced Solutions,L2,3,6540,"=ROUND(F374*12*IF(E374=4,0.15,0.10),0)",2026,32,Male
+497,Research & Development,Discovery Solutions,L1,3,3816,"=ROUND(F375*12*IF(E375=4,0.15,0.10),0)",2026,32,Male
+498,Sales,Sales (Assumed),L2,3,5253,"=ROUND(F376*12*IF(E376=4,0.15,0.10),0)",2026,38,Male
+499,Research & Development,Advanced Solutions,L3,4,10965,"=ROUND(F377*12*IF(E377=4,0.15,0.10),0)",2026,32,Male
+500,Sales,Sales (Assumed),L2,3,4936,"=ROUND(F378*12*IF(E378=4,0.15,0.10),0)",2026,38,Female
+501,Research & Development,Discovery Solutions,L1,3,2543,"=ROUND(F379*12*IF(E379=4,0.15,0.10),0)",2026,32,Female
+502,Sales,Sales (Assumed),L2,3,5304,"=ROUND(F380*12*IF(E380=4,0.15,0.10),0)",2026,38,Male
+505,Research & Development,Management (Assumed),L4,3,16659,"=ROUND(F381*12*IF(E381=4,0.15,0.10),0)",2026,32,Female
+507,Sales,Sales (Assumed),L2,3,4260,"=ROUND(F382*12*IF(E382=4,0.15,0.10),0)",2026,38,Female
+508,Sales,Sales (Assumed),L1,3,2476,"=ROUND(F383*12*IF(E383=4,0.15,0.10),0)",2026,38,Male
+510,Research & Development,Discovery Solutions,L1,4,3102,"=ROUND(F384*12*IF(E384=4,0.15,0.10),0)",2026,32,Male
+511,Research & Development,Discovery Solutions,L1,3,2244,"=ROUND(F385*12*IF(E385=4,0.15,0.10),0)",2026,32,Female
+513,Sales,Sales (Assumed),L3,3,7596,"=ROUND(F386*12*IF(E386=4,0.15,0.10),0)",2026,38,Male
+514,Research & Development,Discovery Solutions,L1,4,2285,"=ROUND(F387*12*IF(E387=4,0.15,0.10),0)",2026,32,Male
+515,Research & Development,Discovery Solutions,L1,3,3034,"=ROUND(F388*12*IF(E388=4,0.15,0.10),0)",2026,32,Female
+516,Sales,Sales (Assumed),L2,3,5715,"=ROUND(F389*12*IF(E389=4,0.15,0.10),0)",2026,38,Female
+517,Research & Development,Discovery Solutions,L1,3,2576,"=ROUND(F390*12*IF(E390=4,0.15,0.10),0)",2026,32,Female
+518,Research & Development,Process Solutions,L2,3,4197,"=ROUND(F391*12*IF(E391=4,0.15,0.10),0)",2026,32,Male
+520,Research & Development,Management (Assumed),L4,3,14336,"=ROUND(F392*12*IF(E392=4,0.15,0.10),0)",2026,32,Male
+521,Research & Development,Discovery Solutions,L2,4,3448,"=ROUND(F393*12*IF(E393=4,0.15,0.10),0)",2026,32,Female
+522,Research & Development,Management (Assumed),L5,3,19406,"=ROUND(F394*12*IF(E394=4,0.15,0.10),0)",2026,32,Male
+523,Sales,Sales (Assumed),L2,3,6538,"=ROUND(F395*12*IF(E395=4,0.15,0.10),0)",2026,38,Female
+524,Research & Development,Process Solutions,L2,3,4306,"=ROUND(F396*12*IF(E396=4,0.15,0.10),0)",2026,32,Female
+525,Research & Development,Discovery Solutions,L1,4,2258,"=ROUND(F397*12*IF(E397=4,0.15,0.10),0)",2026,32,Male
+526,Research & Development,Advanced Solutions,L2,3,4522,"=ROUND(F398*12*IF(E398=4,0.15,0.10),0)",2026,32,Female
+527,Sales,Sales (Assumed),L2,3,4487,"=ROUND(F399*12*IF(E399=4,0.15,0.10),0)",2026,38,Female
+529,Research & Development,Discovery Solutions,L2,3,4449,"=ROUND(F400*12*IF(E400=4,0.15,0.10),0)",2026,32,Female
+530,Research & Development,Discovery Solutions,L1,3,2218,"=ROUND(F401*12*IF(E401=4,0.15,0.10),0)",2026,32,Male
+531,Research & Development,Management (Assumed),L5,3,19197,"=ROUND(F402*12*IF(E402=4,0.15,0.10),0)",2026,32,Male
+532,Sales,Sales (Assumed),L4,3,13212,"=ROUND(F403*12*IF(E403=4,0.15,0.10),0)",2026,38,Female
+533,Sales,Sales (Assumed),L2,3,6577,"=ROUND(F404*12*IF(E404=4,0.15,0.10),0)",2026,38,Female
+534,Sales,Sales (Assumed),L3,3,8392,"=ROUND(F405*12*IF(E405=4,0.15,0.10),0)",2026,38,Male
+536,Research & Development,Discovery Solutions,L2,3,4558,"=ROUND(F406*12*IF(E406=4,0.15,0.10),0)",2026,32,Male
+538,Research & Development,Discovery Solutions,L1,3,4031,"=ROUND(F407*12*IF(E407=4,0.15,0.10),0)",2026,32,Male
+543,Research & Development,Process Solutions,L3,3,7969,"=ROUND(F408*12*IF(E408=4,0.15,0.10),0)",2026,32,Male
+544,Research & Development,Discovery Solutions,L1,4,2654,"=ROUND(F409*12*IF(E409=4,0.15,0.10),0)",2026,32,Male
+546,Research & Development,Management (Assumed),L4,3,16555,"=ROUND(F410*12*IF(E410=4,0.15,0.10),0)",2026,32,Female
+547,Research & Development,Discovery Solutions,L2,3,4556,"=ROUND(F411*12*IF(E411=4,0.15,0.10),0)",2026,32,Female
+548,Research & Development,Process Solutions,L2,4,6091,"=ROUND(F412*12*IF(E412=4,0.15,0.10),0)",2026,32,Female
+549,Research & Development,Management (Assumed),L5,3,19566,"=ROUND(F413*12*IF(E413=4,0.15,0.10),0)",2026,32,Female
+550,Research & Development,Process Solutions,L2,3,4810,"=ROUND(F414*12*IF(E414=4,0.15,0.10),0)",2026,32,Female
+551,Research & Development,Advanced Solutions,L2,3,4523,"=ROUND(F415*12*IF(E415=4,0.15,0.10),0)",2026,32,Female
+554,Sales,Sales (Assumed),L1,3,3202,"=ROUND(F416*12*IF(E416=4,0.15,0.10),0)",2026,38,Female
+555,Sales,Sales (Assumed),L1,3,2351,"=ROUND(F417*12*IF(E417=4,0.15,0.10),0)",2026,38,Female
+556,Research & Development,Discovery Solutions,L1,4,1702,"=ROUND(F418*12*IF(E418=4,0.15,0.10),0)",2026,32,Male
+558,Sales,Management (Assumed),L5,3,18041,"=ROUND(F419*12*IF(E419=4,0.15,0.10),0)",2026,38,Female
+560,Research & Development,Discovery Solutions,L1,4,2886,"=ROUND(F420*12*IF(E420=4,0.15,0.10),0)",2026,32,Female
+562,Research & Development,Discovery Solutions,L1,3,2097,"=ROUND(F421*12*IF(E421=4,0.15,0.10),0)",2026,32,Male
+564,Research & Development,Management (Assumed),L3,3,11935,"=ROUND(F422*12*IF(E422=4,0.15,0.10),0)",2026,32,Male
+565,Research & Development,Discovery Solutions,L1,3,2546,"=ROUND(F423*12*IF(E423=4,0.15,0.10),0)",2026,32,Female
+566,Human Resources,Human Resources,L1,3,2564,"=ROUND(F424*12*IF(E424=4,0.15,0.10),0)",2026,140,Male
+567,Sales,Sales (Assumed),L3,3,8412,"=ROUND(F425*12*IF(E425=4,0.15,0.10),0)",2026,38,Female
+568,Sales,Management (Assumed),L4,3,14118,"=ROUND(F426*12*IF(E426=4,0.15,0.10),0)",2026,38,Male
+569,Research & Development,Management (Assumed),L4,3,17046,"=ROUND(F427*12*IF(E427=4,0.15,0.10),0)",2026,32,Male
+571,Research & Development,Discovery Solutions,L1,3,2564,"=ROUND(F428*12*IF(E428=4,0.15,0.10),0)",2026,32,Female
+573,Sales,Sales (Assumed),L3,3,10266,"=ROUND(F429*12*IF(E429=4,0.15,0.10),0)",2026,38,Female
+574,Research & Development,Process Solutions,L2,3,5070,"=ROUND(F430*12*IF(E430=4,0.15,0.10),0)",2026,32,Female
+575,Research & Development,Management (Assumed),L4,3,17861,"=ROUND(F431*12*IF(E431=4,0.15,0.10),0)",2026,32,Male
+577,Research & Development,Discovery Solutions,L1,3,4230,"=ROUND(F432*12*IF(E432=4,0.15,0.10),0)",2026,32,Male
+578,Research & Development,Discovery Solutions,L2,3,3780,"=ROUND(F433*12*IF(E433=4,0.15,0.10),0)",2026,32,Female
+579,Research & Development,Discovery Solutions,L1,3,2768,"=ROUND(F434*12*IF(E434=4,0.15,0.10),0)",2026,32,Male
+580,Sales,Sales (Assumed),L3,3,9071,"=ROUND(F435*12*IF(E435=4,0.15,0.10),0)",2026,38,Female
+581,Research & Development,Process Solutions,L3,4,10648,"=ROUND(F436*12*IF(E436=4,0.15,0.10),0)",2026,32,Male
+582,Research & Development,Management (Assumed),L3,3,13610,"=ROUND(F437*12*IF(E437=4,0.15,0.10),0)",2026,32,Male
+584,Research & Development,Discovery Solutions,L1,3,3408,"=ROUND(F438*12*IF(E438=4,0.15,0.10),0)",2026,32,Male
+585,Sales,Sales (Assumed),L1,3,2983,"=ROUND(F439*12*IF(E439=4,0.15,0.10),0)",2026,38,Male
+586,Research & Development,Advanced Solutions,L3,3,7632,"=ROUND(F440*12*IF(E440=4,0.15,0.10),0)",2026,32,Male
+587,Research & Development,Advanced Solutions,L3,3,9824,"=ROUND(F441*12*IF(E441=4,0.15,0.10),0)",2026,32,Male
+590,Human Resources,Human Resources,L3,3,9950,"=ROUND(F442*12*IF(E442=4,0.15,0.10),0)",2026,140,Female
+591,Research & Development,Discovery Solutions,L1,3,2093,"=ROUND(F443*12*IF(E443=4,0.15,0.10),0)",2026,32,Male
+592,Sales,Sales (Assumed),L3,3,9980,"=ROUND(F444*12*IF(E444=4,0.15,0.10),0)",2026,38,Male
+593,Research & Development,Discovery Solutions,L1,3,3894,"=ROUND(F445*12*IF(E445=4,0.15,0.10),0)",2026,32,Male
+595,Sales,Sales (Assumed),L2,3,4051,"=ROUND(F446*12*IF(E446=4,0.15,0.10),0)",2026,38,Female
+597,Sales,Management (Assumed),L4,4,16835,"=ROUND(F447*12*IF(E447=4,0.15,0.10),0)",2026,38,Female
+599,Sales,Sales (Assumed),L2,3,6230,"=ROUND(F448*12*IF(E448=4,0.15,0.10),0)",2026,38,Male
+600,Sales,Sales (Assumed),L2,3,4717,"=ROUND(F449*12*IF(E449=4,0.15,0.10),0)",2026,38,Male
+601,Research & Development,Process Solutions,L4,3,13237,"=ROUND(F450*12*IF(E450=4,0.15,0.10),0)",2026,32,Female
+602,Research & Development,Discovery Solutions,L1,3,3755,"=ROUND(F451*12*IF(E451=4,0.15,0.10),0)",2026,32,Female
+604,Sales,Sales (Assumed),L2,3,6582,"=ROUND(F452*12*IF(E452=4,0.15,0.10),0)",2026,38,Male
+605,Research & Development,Process Solutions,L3,4,7406,"=ROUND(F453*12*IF(E453=4,0.15,0.10),0)",2026,32,Male
+606,Sales,Sales (Assumed),L2,3,4805,"=ROUND(F454*12*IF(E454=4,0.15,0.10),0)",2026,38,Male
+608,Human Resources,Human Resources,L1,3,2741,"=ROUND(F455*12*IF(E455=4,0.15,0.10),0)",2026,140,Female
+611,Research & Development,Process Solutions,L2,3,4262,"=ROUND(F456*12*IF(E456=4,0.15,0.10),0)",2026,32,Male
+612,Research & Development,Management (Assumed),L4,3,16184,"=ROUND(F457*12*IF(E457=4,0.15,0.10),0)",2026,32,Female
+613,Sales,Management (Assumed),L3,4,11557,"=ROUND(F458*12*IF(E458=4,0.15,0.10),0)",2026,38,Male
+614,Sales,Sales (Assumed),L1,3,1878,"=ROUND(F459*12*IF(E459=4,0.15,0.10),0)",2026,38,Male
+615,Sales,Sales (Assumed),L3,3,10932,"=ROUND(F460*12*IF(E460=4,0.15,0.10),0)",2026,38,Male
+616,Research & Development,Advanced Solutions,L2,3,6811,"=ROUND(F461*12*IF(E461=4,0.15,0.10),0)",2026,32,Female
+618,Sales,Sales (Assumed),L2,3,4306,"=ROUND(F462*12*IF(E462=4,0.15,0.10),0)",2026,38,Male
+620,Sales,Sales (Assumed),L2,3,4859,"=ROUND(F463*12*IF(E463=4,0.15,0.10),0)",2026,38,Female
+621,Sales,Sales (Assumed),L2,3,5337,"=ROUND(F464*12*IF(E464=4,0.15,0.10),0)",2026,38,Male
+622,Research & Development,Discovery Solutions,L1,3,2340,"=ROUND(F465*12*IF(E465=4,0.15,0.10),0)",2026,32,Male
+623,Research & Development,Process Solutions,L3,3,7491,"=ROUND(F466*12*IF(E466=4,0.15,0.10),0)",2026,32,Female
+624,Research & Development,Advanced Solutions,L3,3,10527,"=ROUND(F467*12*IF(E467=4,0.15,0.10),0)",2026,32,Female
+625,Sales,Management (Assumed),L4,3,16595,"=ROUND(F468*12*IF(E468=4,0.15,0.10),0)",2026,38,Female
+626,Sales,Sales (Assumed),L3,3,8834,"=ROUND(F469*12*IF(E469=4,0.15,0.10),0)",2026,38,Male
+630,Research & Development,Discovery Solutions,L2,3,5577,"=ROUND(F470*12*IF(E470=4,0.15,0.10),0)",2026,32,Male
+631,Sales,Sales (Assumed),L2,3,4707,"=ROUND(F471*12*IF(E471=4,0.15,0.10),0)",2026,38,Male
+632,Sales,Sales (Assumed),L1,3,2400,"=ROUND(F472*12*IF(E472=4,0.15,0.10),0)",2026,38,Male
+634,Research & Development,Advanced Solutions,L2,3,9824,"=ROUND(F473*12*IF(E473=4,0.15,0.10),0)",2026,32,Female
+635,Research & Development,Process Solutions,L2,3,6447,"=ROUND(F474*12*IF(E474=4,0.15,0.10),0)",2026,32,Female
+638,Research & Development,Management (Assumed),L5,3,19502,"=ROUND(F475*12*IF(E475=4,0.15,0.10),0)",2026,32,Male
+639,Research & Development,Discovery Solutions,L1,3,2725,"=ROUND(F476*12*IF(E476=4,0.15,0.10),0)",2026,32,Male
+641,Sales,Sales (Assumed),L2,4,6272,"=ROUND(F477*12*IF(E477=4,0.15,0.10),0)",2026,38,Male
+643,Research & Development,Discovery Solutions,L1,4,2127,"=ROUND(F478*12*IF(E478=4,0.15,0.10),0)",2026,32,Male
+644,Human Resources,Human Resources,L5,3,18200,"=ROUND(F479*12*IF(E479=4,0.15,0.10),0)",2026,140,Male
+645,Sales,Sales (Assumed),L1,3,2096,"=ROUND(F480*12*IF(E480=4,0.15,0.10),0)",2026,38,Male
+647,Research & Development,Discovery Solutions,L1,3,2886,"=ROUND(F481*12*IF(E481=4,0.15,0.10),0)",2026,32,Female
+648,Sales,Sales (Assumed),L1,3,2033,"=ROUND(F482*12*IF(E482=4,0.15,0.10),0)",2026,38,Male
+649,Research & Development,Discovery Solutions,L1,3,3622,"=ROUND(F483*12*IF(E483=4,0.15,0.10),0)",2026,32,Male
+650,Sales,Sales (Assumed),L2,3,4233,"=ROUND(F484*12*IF(E484=4,0.15,0.10),0)",2026,38,Male
+652,Research & Development,Discovery Solutions,L2,3,3681,"=ROUND(F485*12*IF(E485=4,0.15,0.10),0)",2026,32,Male
+653,Sales,Sales (Assumed),L2,4,5460,"=ROUND(F486*12*IF(E486=4,0.15,0.10),0)",2026,38,Male
+655,Research & Development,Discovery Solutions,L1,3,2187,"=ROUND(F487*12*IF(E487=4,0.15,0.10),0)",2026,32,Female
+656,Sales,Sales (Assumed),L2,3,9602,"=ROUND(F488*12*IF(E488=4,0.15,0.10),0)",2026,38,Male
+657,Research & Development,Discovery Solutions,L1,3,2836,"=ROUND(F489*12*IF(E489=4,0.15,0.10),0)",2026,32,Female
+659,Research & Development,Advanced Solutions,L2,3,4089,"=ROUND(F490*12*IF(E490=4,0.15,0.10),0)",2026,32,Female
+661,Research & Development,Management (Assumed),L4,3,16627,"=ROUND(F491*12*IF(E491=4,0.15,0.10),0)",2026,32,Male
+662,Research & Development,Discovery Solutions,L1,3,2619,"=ROUND(F492*12*IF(E492=4,0.15,0.10),0)",2026,32,Female
+663,Research & Development,Discovery Solutions,L2,3,5679,"=ROUND(F493*12*IF(E493=4,0.15,0.10),0)",2026,32,Male
+664,Research & Development,Management (Assumed),L4,3,15402,"=ROUND(F494*12*IF(E494=4,0.15,0.10),0)",2026,32,Female
+665,Human Resources,Human Resources,L2,3,5985,"=ROUND(F495*12*IF(E495=4,0.15,0.10),0)",2026,140,Female
+666,Sales,Sales (Assumed),L1,3,2579,"=ROUND(F496*12*IF(E496=4,0.15,0.10),0)",2026,38,Female
+667,Sales,Sales (Assumed),L1,3,3041,"=ROUND(F497*12*IF(E497=4,0.15,0.10),0)",2026,38,Male
+669,Sales,Sales (Assumed),L1,3,3447,"=ROUND(F498*12*IF(E498=4,0.15,0.10),0)",2026,38,Male
+671,Research & Development,Management (Assumed),L5,3,19513,"=ROUND(F499*12*IF(E499=4,0.15,0.10),0)",2026,32,Male
+675,Research & Development,Discovery Solutions,L1,4,2773,"=ROUND(F500*12*IF(E500=4,0.15,0.10),0)",2026,32,Male
+677,Sales,Sales (Assumed),L2,3,7104,"=ROUND(F501*12*IF(E501=4,0.15,0.10),0)",2026,38,Male
+679,Research & Development,Discovery Solutions,L2,3,6322,"=ROUND(F502*12*IF(E502=4,0.15,0.10),0)",2026,32,Female
+680,Research & Development,Discovery Solutions,L1,4,2083,"=ROUND(F503*12*IF(E503=4,0.15,0.10),0)",2026,32,Female
+682,Sales,Sales (Assumed),L2,4,8381,"=ROUND(F504*12*IF(E504=4,0.15,0.10),0)",2026,38,Female
+683,Research & Development,Discovery Solutions,L1,3,2691,"=ROUND(F505*12*IF(E505=4,0.15,0.10),0)",2026,32,Male
+684,Sales,Sales (Assumed),L2,3,4286,"=ROUND(F506*12*IF(E506=4,0.15,0.10),0)",2026,38,Female
+686,Research & Development,Discovery Solutions,L1,3,2659,"=ROUND(F507*12*IF(E507=4,0.15,0.10),0)",2026,32,Female
+689,Research & Development,Process Solutions,L3,3,9434,"=ROUND(F508*12*IF(E508=4,0.15,0.10),0)",2026,32,Male
+690,Sales,Sales (Assumed),L2,3,5561,"=ROUND(F509*12*IF(E509=4,0.15,0.10),0)",2026,38,Female
+691,Research & Development,Discovery Solutions,L2,3,6646,"=ROUND(F510*12*IF(E510=4,0.15,0.10),0)",2026,32,Male
+692,Research & Development,Advanced Solutions,L2,4,7725,"=ROUND(F511*12*IF(E511=4,0.15,0.10),0)",2026,32,Male
+698,Human Resources,Human Resources,L3,3,10725,"=ROUND(F512*12*IF(E512=4,0.15,0.10),0)",2026,140,Male
+699,Research & Development,Process Solutions,L2,3,8847,"=ROUND(F513*12*IF(E513=4,0.15,0.10),0)",2026,32,Male
+700,Research & Development,Discovery Solutions,L1,3,2045,"=ROUND(F514*12*IF(E514=4,0.15,0.10),0)",2026,32,Male
+701,Research & Development,Discovery Solutions,L1,3,1009,"=ROUND(F515*12*IF(E515=4,0.15,0.10),0)",2026,32,Male
+702,Research & Development,Discovery Solutions,L1,3,3348,"=ROUND(F516*12*IF(E516=4,0.15,0.10),0)",2026,32,Male
+704,Research & Development,Discovery Solutions,L1,3,1281,"=ROUND(F517*12*IF(E517=4,0.15,0.10),0)",2026,32,Male
+705,Research & Development,Discovery Solutions,L1,3,2819,"=ROUND(F518*12*IF(E518=4,0.15,0.10),0)",2026,32,Male
+707,Sales,Sales (Assumed),L2,4,4851,"=ROUND(F519*12*IF(E519=4,0.15,0.10),0)",2026,38,Male
+709,Sales,Sales (Assumed),L2,4,4028,"=ROUND(F520*12*IF(E520=4,0.15,0.10),0)",2026,38,Female
+710,Research & Development,Discovery Solutions,L1,3,2720,"=ROUND(F521*12*IF(E521=4,0.15,0.10),0)",2026,32,Male
+712,Sales,Sales (Assumed),L2,3,8120,"=ROUND(F522*12*IF(E522=4,0.15,0.10),0)",2026,38,Male
+714,Sales,Sales (Assumed),L2,4,4647,"=ROUND(F523*12*IF(E523=4,0.15,0.10),0)",2026,38,Female
+715,Research & Development,Discovery Solutions,L1,3,4680,"=ROUND(F524*12*IF(E524=4,0.15,0.10),0)",2026,32,Male
+716,Research & Development,Discovery Solutions,L1,3,3221,"=ROUND(F525*12*IF(E525=4,0.15,0.10),0)",2026,32,Male
+717,Research & Development,Advanced Solutions,L3,3,8621,"=ROUND(F526*12*IF(E526=4,0.15,0.10),0)",2026,32,Female
+720,Sales,Sales (Assumed),L2,3,4577,"=ROUND(F527*12*IF(E527=4,0.15,0.10),0)",2026,38,Female
+721,Research & Development,Advanced Solutions,L2,3,4553,"=ROUND(F528*12*IF(E528=4,0.15,0.10),0)",2026,32,Female
+722,Sales,Sales (Assumed),L2,3,5396,"=ROUND(F529*12*IF(E529=4,0.15,0.10),0)",2026,38,Male
+723,Sales,Sales (Assumed),L2,3,6796,"=ROUND(F530*12*IF(E530=4,0.15,0.10),0)",2026,38,Male
+724,Research & Development,Advanced Solutions,L2,3,7625,"=ROUND(F531*12*IF(E531=4,0.15,0.10),0)",2026,32,Female
+725,Research & Development,Process Solutions,L3,3,7412,"=ROUND(F532*12*IF(E532=4,0.15,0.10),0)",2026,32,Female
+727,Research & Development,Management (Assumed),L3,3,11159,"=ROUND(F533*12*IF(E533=4,0.15,0.10),0)",2026,32,Female
+728,Sales,Sales (Assumed),L2,3,4960,"=ROUND(F534*12*IF(E534=4,0.15,0.10),0)",2026,38,Male
+729,Sales,Sales (Assumed),L3,4,10475,"=ROUND(F535*12*IF(E535=4,0.15,0.10),0)",2026,38,Male
+730,Research & Development,Management (Assumed),L4,3,14814,"=ROUND(F536*12*IF(E536=4,0.15,0.10),0)",2026,32,Male
+731,Human Resources,Human Resources,L5,3,19141,"=ROUND(F537*12*IF(E537=4,0.15,0.10),0)",2026,140,Male
+732,Sales,Sales (Assumed),L2,3,5405,"=ROUND(F538*12*IF(E538=4,0.15,0.10),0)",2026,38,Male
+733,Research & Development,Process Solutions,L3,4,8793,"=ROUND(F539*12*IF(E539=4,0.15,0.10),0)",2026,32,Male
+734,Human Resources,Human Resources,L5,3,19189,"=ROUND(F540*12*IF(E540=4,0.15,0.10),0)",2026,140,Male
+738,Sales,Sales (Assumed),L1,3,3875,"=ROUND(F541*12*IF(E541=4,0.15,0.10),0)",2026,38,Male
+741,Research & Development,Discovery Solutions,L1,3,2216,"=ROUND(F542*12*IF(E542=4,0.15,0.10),0)",2026,32,Female
+742,Research & Development,Management (Assumed),L3,3,11713,"=ROUND(F543*12*IF(E543=4,0.15,0.10),0)",2026,32,Female
+743,Research & Development,Process Solutions,L3,3,7861,"=ROUND(F544*12*IF(E544=4,0.15,0.10),0)",2026,32,Female
+744,Research & Development,Discovery Solutions,L1,3,3708,"=ROUND(F545*12*IF(E545=4,0.15,0.10),0)",2026,32,Male
+746,Sales,Sales (Assumed),L4,3,13770,"=ROUND(F546*12*IF(E546=4,0.15,0.10),0)",2026,38,Female
+747,Sales,Sales (Assumed),L2,4,5304,"=ROUND(F547*12*IF(E547=4,0.15,0.10),0)",2026,38,Male
+749,Sales,Sales (Assumed),L1,3,2642,"=ROUND(F548*12*IF(E548=4,0.15,0.10),0)",2026,38,Male
+752,Research & Development,Discovery Solutions,L1,3,2759,"=ROUND(F549*12*IF(E549=4,0.15,0.10),0)",2026,32,Male
+754,Sales,Sales (Assumed),L2,3,6804,"=ROUND(F550*12*IF(E550=4,0.15,0.10),0)",2026,38,Male
+757,Research & Development,Advanced Solutions,L2,3,6142,"=ROUND(F551*12*IF(E551=4,0.15,0.10),0)",2026,32,Female
+758,Research & Development,Discovery Solutions,L1,3,2500,"=ROUND(F552*12*IF(E552=4,0.15,0.10),0)",2026,32,Male
+760,Human Resources,Human Resources,L2,3,6389,"=ROUND(F553*12*IF(E553=4,0.15,0.10),0)",2026,140,Female
+762,Research & Development,Advanced Solutions,L4,3,11103,"=ROUND(F554*12*IF(E554=4,0.15,0.10),0)",2026,32,Male
+763,Research & Development,Discovery Solutions,L1,4,2342,"=ROUND(F555*12*IF(E555=4,0.15,0.10),0)",2026,32,Female
+764,Research & Development,Advanced Solutions,L2,3,6811,"=ROUND(F556*12*IF(E556=4,0.15,0.10),0)",2026,32,Female
+766,Sales,Sales (Assumed),L1,3,2297,"=ROUND(F557*12*IF(E557=4,0.15,0.10),0)",2026,38,Male
+769,Research & Development,Discovery Solutions,L2,3,2450,"=ROUND(F558*12*IF(E558=4,0.15,0.10),0)",2026,32,Male
+771,Research & Development,Advanced Solutions,L2,3,5093,"=ROUND(F559*12*IF(E559=4,0.15,0.10),0)",2026,32,Female
+772,Research & Development,Discovery Solutions,L2,3,5309,"=ROUND(F560*12*IF(E560=4,0.15,0.10),0)",2026,32,Male
+773,Research & Development,Discovery Solutions,L1,3,3057,"=ROUND(F561*12*IF(E561=4,0.15,0.10),0)",2026,32,Male
+775,Research & Development,Process Solutions,L2,3,5121,"=ROUND(F562*12*IF(E562=4,0.15,0.10),0)",2026,32,Female
+776,Sales,Management (Assumed),L4,3,16856,"=ROUND(F563*12*IF(E563=4,0.15,0.10),0)",2026,38,Male
+780,Research & Development,Discovery Solutions,L1,3,2686,"=ROUND(F564*12*IF(E564=4,0.15,0.10),0)",2026,32,Male
+781,Sales,Sales (Assumed),L2,4,6180,"=ROUND(F565*12*IF(E565=4,0.15,0.10),0)",2026,38,Female
+783,Sales,Sales (Assumed),L2,3,6632,"=ROUND(F566*12*IF(E566=4,0.15,0.10),0)",2026,38,Male
+784,Research & Development,Discovery Solutions,L1,3,3505,"=ROUND(F567*12*IF(E567=4,0.15,0.10),0)",2026,32,Male
+785,Sales,Sales (Assumed),L2,3,6397,"=ROUND(F568*12*IF(E568=4,0.15,0.10),0)",2026,38,Female
+786,Sales,Sales (Assumed),L2,4,6274,"=ROUND(F569*12*IF(E569=4,0.15,0.10),0)",2026,38,Male
+787,Research & Development,Management (Assumed),L5,3,19859,"=ROUND(F570*12*IF(E570=4,0.15,0.10),0)",2026,32,Male
+789,Sales,Sales (Assumed),L3,3,7587,"=ROUND(F571*12*IF(E571=4,0.15,0.10),0)",2026,38,Male
+791,Research & Development,Discovery Solutions,L1,3,4258,"=ROUND(F572*12*IF(E572=4,0.15,0.10),0)",2026,32,Male
+792,Research & Development,Discovery Solutions,L1,3,4364,"=ROUND(F573*12*IF(E573=4,0.15,0.10),0)",2026,32,Female
+793,Research & Development,Advanced Solutions,L2,3,4335,"=ROUND(F574*12*IF(E574=4,0.15,0.10),0)",2026,32,Female
+796,Sales,Sales (Assumed),L2,3,5326,"=ROUND(F575*12*IF(E575=4,0.15,0.10),0)",2026,38,Male
+797,Research & Development,Discovery Solutions,L1,3,3280,"=ROUND(F576*12*IF(E576=4,0.15,0.10),0)",2026,32,Female
+799,Research & Development,Process Solutions,L2,3,5485,"=ROUND(F577*12*IF(E577=4,0.15,0.10),0)",2026,32,Female
+800,Sales,Sales (Assumed),L2,3,4342,"=ROUND(F578*12*IF(E578=4,0.15,0.10),0)",2026,38,Male
+802,Research & Development,Discovery Solutions,L1,3,2782,"=ROUND(F579*12*IF(E579=4,0.15,0.10),0)",2026,32,Female
+803,Research & Development,Process Solutions,L2,3,5980,"=ROUND(F580*12*IF(E580=4,0.15,0.10),0)",2026,32,Female
+804,Research & Development,Discovery Solutions,L1,3,4381,"=ROUND(F581*12*IF(E581=4,0.15,0.10),0)",2026,32,Female
+805,Sales,Sales (Assumed),L1,3,2572,"=ROUND(F582*12*IF(E582=4,0.15,0.10),0)",2026,38,Female
+806,Research & Development,Discovery Solutions,L1,4,3833,"=ROUND(F583*12*IF(E583=4,0.15,0.10),0)",2026,32,Male
+807,Research & Development,Advanced Solutions,L2,4,4244,"=ROUND(F584*12*IF(E584=4,0.15,0.10),0)",2026,32,Female
+808,Sales,Sales (Assumed),L2,3,6500,"=ROUND(F585*12*IF(E585=4,0.15,0.10),0)",2026,38,Female
+809,Research & Development,Management (Assumed),L5,3,18430,"=ROUND(F586*12*IF(E586=4,0.15,0.10),0)",2026,32,Male
+811,Research & Development,Discovery Solutions,L1,4,1601,"=ROUND(F587*12*IF(E587=4,0.15,0.10),0)",2026,32,Male
+812,Research & Development,Discovery Solutions,L1,3,2694,"=ROUND(F588*12*IF(E588=4,0.15,0.10),0)",2026,32,Male
+813,Research & Development,Discovery Solutions,L2,4,3149,"=ROUND(F589*12*IF(E589=4,0.15,0.10),0)",2026,32,Female
+815,Research & Development,Management (Assumed),L4,3,17639,"=ROUND(F590*12*IF(E590=4,0.15,0.10),0)",2026,32,Male
+816,Research & Development,Discovery Solutions,L1,3,2319,"=ROUND(F591*12*IF(E591=4,0.15,0.10),0)",2026,32,Female
+817,Research & Development,Management (Assumed),L3,3,11691,"=ROUND(F592*12*IF(E592=4,0.15,0.10),0)",2026,32,Male
+819,Sales,Sales (Assumed),L2,3,5324,"=ROUND(F593*12*IF(E593=4,0.15,0.10),0)",2026,38,Female
+820,Research & Development,Management (Assumed),L4,3,16752,"=ROUND(F594*12*IF(E594=4,0.15,0.10),0)",2026,32,Female
+823,Research & Development,Process Solutions,L2,3,5228,"=ROUND(F595*12*IF(E595=4,0.15,0.10),0)",2026,32,Female
+824,Research & Development,Discovery Solutions,L1,4,2700,"=ROUND(F596*12*IF(E596=4,0.15,0.10),0)",2026,32,Male
+825,Research & Development,Management (Assumed),L5,3,19246,"=ROUND(F597*12*IF(E597=4,0.15,0.10),0)",2026,32,Male
+826,Research & Development,Discovery Solutions,L1,3,2506,"=ROUND(F598*12*IF(E598=4,0.15,0.10),0)",2026,32,Female
+827,Research & Development,Process Solutions,L2,3,6062,"=ROUND(F599*12*IF(E599=4,0.15,0.10),0)",2026,32,Female
+828,Research & Development,Discovery Solutions,L1,3,4382,"=ROUND(F600*12*IF(E600=4,0.15,0.10),0)",2026,32,Male
+829,Human Resources,Human Resources,L1,3,2143,"=ROUND(F601*12*IF(E601=4,0.15,0.10),0)",2026,140,Male
+830,Research & Development,Process Solutions,L2,3,6162,"=ROUND(F602*12*IF(E602=4,0.15,0.10),0)",2026,32,Female
+832,Research & Development,Discovery Solutions,L2,3,5094,"=ROUND(F603*12*IF(E603=4,0.15,0.10),0)",2026,32,Male
+833,Research & Development,Process Solutions,L2,4,6877,"=ROUND(F604*12*IF(E604=4,0.15,0.10),0)",2026,32,Female
+834,Research & Development,Discovery Solutions,L1,3,2274,"=ROUND(F605*12*IF(E605=4,0.15,0.10),0)",2026,32,Female
+836,Research & Development,Process Solutions,L2,3,4434,"=ROUND(F606*12*IF(E606=4,0.15,0.10),0)",2026,32,Male
+837,Research & Development,Advanced Solutions,L2,3,6288,"=ROUND(F607*12*IF(E607=4,0.15,0.10),0)",2026,32,Male
+838,Research & Development,Discovery Solutions,L1,3,2553,"=ROUND(F608*12*IF(E608=4,0.15,0.10),0)",2026,32,Female
+840,Sales,Sales (Assumed),L3,3,7654,"=ROUND(F609*12*IF(E609=4,0.15,0.10),0)",2026,38,Female
+842,Sales,Sales (Assumed),L2,3,5160,"=ROUND(F610*12*IF(E610=4,0.15,0.10),0)",2026,38,Male
+843,Research & Development,Management (Assumed),L4,4,17159,"=ROUND(F611*12*IF(E611=4,0.15,0.10),0)",2026,32,Male
+844,Research & Development,Management (Assumed),L3,3,12808,"=ROUND(F612*12*IF(E612=4,0.15,0.10),0)",2026,32,Male
+845,Research & Development,Process Solutions,L3,4,10221,"=ROUND(F613*12*IF(E613=4,0.15,0.10),0)",2026,32,Male
+846,Sales,Sales (Assumed),L2,4,4779,"=ROUND(F614*12*IF(E614=4,0.15,0.10),0)",2026,38,Female
+847,Human Resources,Human Resources,L1,3,3737,"=ROUND(F615*12*IF(E615=4,0.15,0.10),0)",2026,140,Male
+848,Research & Development,Discovery Solutions,L1,3,2366,"=ROUND(F616*12*IF(E616=4,0.15,0.10),0)",2026,32,Female
+850,Research & Development,Discovery Solutions,L1,3,1706,"=ROUND(F617*12*IF(E617=4,0.15,0.10),0)",2026,32,Male
+851,Sales,Management (Assumed),L4,3,16307,"=ROUND(F618*12*IF(E618=4,0.15,0.10),0)",2026,38,Female
+852,Research & Development,Advanced Solutions,L2,3,5933,"=ROUND(F619*12*IF(E619=4,0.15,0.10),0)",2026,32,Male
+854,Research & Development,Discovery Solutions,L1,3,3424,"=ROUND(F620*12*IF(E620=4,0.15,0.10),0)",2026,32,Male
+855,Sales,Sales (Assumed),L2,4,4037,"=ROUND(F621*12*IF(E621=4,0.15,0.10),0)",2026,38,Male
+856,Research & Development,Discovery Solutions,L1,3,2559,"=ROUND(F622*12*IF(E622=4,0.15,0.10),0)",2026,32,Female
+857,Sales,Sales (Assumed),L2,3,6201,"=ROUND(F623*12*IF(E623=4,0.15,0.10),0)",2026,38,Male
+859,Sales,Sales (Assumed),L2,3,4403,"=ROUND(F624*12*IF(E624=4,0.15,0.10),0)",2026,38,Male
+861,Research & Development,Discovery Solutions,L1,3,3761,"=ROUND(F625*12*IF(E625=4,0.15,0.10),0)",2026,32,Male
+862,Sales,Sales (Assumed),L3,3,10934,"=ROUND(F626*12*IF(E626=4,0.15,0.10),0)",2026,38,Female
+864,Sales,Sales (Assumed),L3,3,10761,"=ROUND(F627*12*IF(E627=4,0.15,0.10),0)",2026,38,Male
+865,Research & Development,Discovery Solutions,L2,3,5175,"=ROUND(F628*12*IF(E628=4,0.15,0.10),0)",2026,32,Female
+867,Research & Development,Process Solutions,L4,4,13826,"=ROUND(F629*12*IF(E629=4,0.15,0.10),0)",2026,32,Female
+868,Sales,Sales (Assumed),L2,3,6334,"=ROUND(F630*12*IF(E630=4,0.15,0.10),0)",2026,38,Male
+869,Human Resources,Human Resources,L1,3,4936,"=ROUND(F631*12*IF(E631=4,0.15,0.10),0)",2026,140,Male
+872,Research & Development,Process Solutions,L2,4,4775,"=ROUND(F632*12*IF(E632=4,0.15,0.10),0)",2026,32,Male
+874,Research & Development,Discovery Solutions,L1,4,2818,"=ROUND(F633*12*IF(E633=4,0.15,0.10),0)",2026,32,Male
+875,Research & Development,Discovery Solutions,L1,3,2515,"=ROUND(F634*12*IF(E634=4,0.15,0.10),0)",2026,32,Male
+878,Human Resources,Human Resources,L1,4,2342,"=ROUND(F635*12*IF(E635=4,0.15,0.10),0)",2026,140,Male
+879,Sales,Sales (Assumed),L2,3,4194,"=ROUND(F636*12*IF(E636=4,0.15,0.10),0)",2026,38,Male
+880,Research & Development,Process Solutions,L3,4,10685,"=ROUND(F637*12*IF(E637=4,0.15,0.10),0)",2026,32,Female
+881,Research & Development,Discovery Solutions,L1,3,2022,"=ROUND(F638*12*IF(E638=4,0.15,0.10),0)",2026,32,Female
+882,Research & Development,Discovery Solutions,L1,3,2314,"=ROUND(F639*12*IF(E639=4,0.15,0.10),0)",2026,32,Male
+885,Sales,Sales (Assumed),L2,3,4256,"=ROUND(F640*12*IF(E640=4,0.15,0.10),0)",2026,38,Male
+887,Research & Development,Discovery Solutions,L1,3,3580,"=ROUND(F641*12*IF(E641=4,0.15,0.10),0)",2026,32,Female
+888,Research & Development,Discovery Solutions,L1,3,3162,"=ROUND(F642*12*IF(E642=4,0.15,0.10),0)",2026,32,Male
+889,Sales,Sales (Assumed),L2,3,6524,"=ROUND(F643*12*IF(E643=4,0.15,0.10),0)",2026,38,Male
+893,Sales,Sales (Assumed),L1,3,2899,"=ROUND(F644*12*IF(E644=4,0.15,0.10),0)",2026,38,Male
+894,Research & Development,Discovery Solutions,L2,3,5231,"=ROUND(F645*12*IF(E645=4,0.15,0.10),0)",2026,32,Female
+895,Research & Development,Discovery Solutions,L1,3,2356,"=ROUND(F646*12*IF(E646=4,0.15,0.10),0)",2026,32,Male
+896,Sales,Sales (Assumed),L1,3,2800,"=ROUND(F647*12*IF(E647=4,0.15,0.10),0)",2026,38,Female
+897,Sales,Sales (Assumed),L4,3,11836,"=ROUND(F648*12*IF(E648=4,0.15,0.10),0)",2026,38,Male
+899,Research & Development,Process Solutions,L3,3,10903,"=ROUND(F649*12*IF(E649=4,0.15,0.10),0)",2026,32,Male
+900,Sales,Sales (Assumed),L1,3,2973,"=ROUND(F650*12*IF(E650=4,0.15,0.10),0)",2026,38,Female
+901,Research & Development,Management (Assumed),L4,3,14275,"=ROUND(F651*12*IF(E651=4,0.15,0.10),0)",2026,32,Female
+902,Research & Development,Advanced Solutions,L2,3,5562,"=ROUND(F652*12*IF(E652=4,0.15,0.10),0)",2026,32,Female
+903,Sales,Sales (Assumed),L2,4,4537,"=ROUND(F653*12*IF(E653=4,0.15,0.10),0)",2026,38,Female
+904,Sales,Sales (Assumed),L3,3,7642,"=ROUND(F654*12*IF(E654=4,0.15,0.10),0)",2026,38,Male
+905,Research & Development,Management (Assumed),L4,3,17924,"=ROUND(F655*12*IF(E655=4,0.15,0.10),0)",2026,32,Male
+909,Human Resources,Human Resources,L2,3,5204,"=ROUND(F656*12*IF(E656=4,0.15,0.10),0)",2026,140,Female
+910,Human Resources,Human Resources,L1,3,2277,"=ROUND(F657*12*IF(E657=4,0.15,0.10),0)",2026,140,Male
+911,Research & Development,Discovery Solutions,L1,4,2795,"=ROUND(F658*12*IF(E658=4,0.15,0.10),0)",2026,32,Male
+912,Research & Development,Discovery Solutions,L1,3,2532,"=ROUND(F659*12*IF(E659=4,0.15,0.10),0)",2026,32,Female
+913,Research & Development,Discovery Solutions,L1,3,2559,"=ROUND(F660*12*IF(E660=4,0.15,0.10),0)",2026,32,Male
+916,Sales,Sales (Assumed),L2,3,4908,"=ROUND(F661*12*IF(E661=4,0.15,0.10),0)",2026,38,Male
+918,Research & Development,Discovery Solutions,L1,3,2380,"=ROUND(F662*12*IF(E662=4,0.15,0.10),0)",2026,32,Male
+920,Research & Development,Process Solutions,L2,4,4765,"=ROUND(F663*12*IF(E663=4,0.15,0.10),0)",2026,32,Female
+922,Sales,Sales (Assumed),L1,3,2044,"=ROUND(F664*12*IF(E664=4,0.15,0.10),0)",2026,38,Female
+923,Research & Development,Discovery Solutions,L1,3,2693,"=ROUND(F665*12*IF(E665=4,0.15,0.10),0)",2026,32,Female
+924,Research & Development,Advanced Solutions,L2,3,6586,"=ROUND(F666*12*IF(E666=4,0.15,0.10),0)",2026,32,Male
+925,Sales,Sales (Assumed),L1,3,3294,"=ROUND(F667*12*IF(E667=4,0.15,0.10),0)",2026,38,Female
+926,Research & Development,Process Solutions,L2,3,4171,"=ROUND(F668*12*IF(E668=4,0.15,0.10),0)",2026,32,Female
+927,Research & Development,Discovery Solutions,L1,3,2778,"=ROUND(F669*12*IF(E669=4,0.15,0.10),0)",2026,32,Female
+930,Research & Development,Discovery Solutions,L1,3,2377,"=ROUND(F670*12*IF(E670=4,0.15,0.10),0)",2026,32,Female
+932,Research & Development,Discovery Solutions,L1,4,2404,"=ROUND(F671*12*IF(E671=4,0.15,0.10),0)",2026,32,Male
+933,Research & Development,Discovery Solutions,L1,3,2318,"=ROUND(F672*12*IF(E672=4,0.15,0.10),0)",2026,32,Female
+934,Research & Development,Discovery Solutions,L1,3,2008,"=ROUND(F673*12*IF(E673=4,0.15,0.10),0)",2026,32,Male
+936,Sales,Sales (Assumed),L2,3,6244,"=ROUND(F674*12*IF(E674=4,0.15,0.10),0)",2026,38,Female
+939,Research & Development,Discovery Solutions,L1,3,2799,"=ROUND(F675*12*IF(E675=4,0.15,0.10),0)",2026,32,Male
+940,Research & Development,Advanced Solutions,L3,3,10552,"=ROUND(F676*12*IF(E676=4,0.15,0.10),0)",2026,32,Female
+941,Sales,Sales (Assumed),L1,3,2329,"=ROUND(F677*12*IF(E677=4,0.15,0.10),0)",2026,38,Male
+942,Research & Development,Advanced Solutions,L2,4,4014,"=ROUND(F678*12*IF(E678=4,0.15,0.10),0)",2026,32,Female
+944,Research & Development,Discovery Solutions,L3,3,7403,"=ROUND(F679*12*IF(E679=4,0.15,0.10),0)",2026,32,Female
+945,Research & Development,Discovery Solutions,L1,3,2259,"=ROUND(F680*12*IF(E680=4,0.15,0.10),0)",2026,32,Male
+947,Sales,Sales (Assumed),L2,3,6932,"=ROUND(F681*12*IF(E681=4,0.15,0.10),0)",2026,38,Female
+949,Research & Development,Discovery Solutions,L1,3,4678,"=ROUND(F682*12*IF(E682=4,0.15,0.10),0)",2026,32,Male
+950,Research & Development,Management (Assumed),L3,3,13582,"=ROUND(F683*12*IF(E683=4,0.15,0.10),0)",2026,32,Female
+951,Research & Development,Discovery Solutions,L1,4,2332,"=ROUND(F684*12*IF(E684=4,0.15,0.10),0)",2026,32,Female
+952,Sales,Sales (Assumed),L1,3,2413,"=ROUND(F685*12*IF(E685=4,0.15,0.10),0)",2026,38,Male
+954,Sales,Sales (Assumed),L3,3,9705,"=ROUND(F686*12*IF(E686=4,0.15,0.10),0)",2026,38,Male
+956,Sales,Sales (Assumed),L2,3,4294,"=ROUND(F687*12*IF(E687=4,0.15,0.10),0)",2026,38,Male
+957,Research & Development,Discovery Solutions,L1,3,4721,"=ROUND(F688*12*IF(E688=4,0.15,0.10),0)",2026,32,Male
+958,Research & Development,Discovery Solutions,L1,4,2519,"=ROUND(F689*12*IF(E689=4,0.15,0.10),0)",2026,32,Male
+959,Sales,Sales (Assumed),L1,3,2121,"=ROUND(F690*12*IF(E690=4,0.15,0.10),0)",2026,38,Male
+960,Research & Development,Discovery Solutions,L1,3,2973,"=ROUND(F691*12*IF(E691=4,0.15,0.10),0)",2026,32,Male
+961,Research & Development,Advanced Solutions,L2,3,5855,"=ROUND(F692*12*IF(E692=4,0.15,0.10),0)",2026,32,Female
+964,Research & Development,Discovery Solutions,L1,3,3617,"=ROUND(F693*12*IF(E693=4,0.15,0.10),0)",2026,32,Male
+966,Research & Development,Process Solutions,L2,3,6725,"=ROUND(F694*12*IF(E694=4,0.15,0.10),0)",2026,32,Female
+967,Sales,Sales (Assumed),L3,3,10325,"=ROUND(F695*12*IF(E695=4,0.15,0.10),0)",2026,38,Male
+969,Research & Development,Advanced Solutions,L2,3,6949,"=ROUND(F696*12*IF(E696=4,0.15,0.10),0)",2026,32,Female
+970,Sales,Sales (Assumed),L3,3,10609,"=ROUND(F697*12*IF(E697=4,0.15,0.10),0)",2026,38,Male
+972,Research & Development,Discovery Solutions,L2,3,4447,"=ROUND(F698*12*IF(E698=4,0.15,0.10),0)",2026,32,Male
+974,Sales,Sales (Assumed),L1,3,2157,"=ROUND(F699*12*IF(E699=4,0.15,0.10),0)",2026,38,Female
+975,Sales,Sales (Assumed),L2,3,4601,"=ROUND(F700*12*IF(E700=4,0.15,0.10),0)",2026,38,Female
+976,Research & Development,Management (Assumed),L4,3,17099,"=ROUND(F701*12*IF(E701=4,0.15,0.10),0)",2026,32,Male
+977,Research & Development,Discovery Solutions,L1,4,2479,"=ROUND(F702*12*IF(E702=4,0.15,0.10),0)",2026,32,Male
+981,Sales,Management (Assumed),L4,3,14852,"=ROUND(F703*12*IF(E703=4,0.15,0.10),0)",2026,38,Male
+982,Sales,Sales (Assumed),L3,3,7264,"=ROUND(F704*12*IF(E704=4,0.15,0.10),0)",2026,38,Male
+983,Sales,Sales (Assumed),L2,3,5666,"=ROUND(F705*12*IF(E705=4,0.15,0.10),0)",2026,38,Female
+984,Sales,Sales (Assumed),L3,3,7823,"=ROUND(F706*12*IF(E706=4,0.15,0.10),0)",2026,38,Male
+985,Sales,Sales (Assumed),L3,3,7880,"=ROUND(F707*12*IF(E707=4,0.15,0.10),0)",2026,38,Male
+986,Sales,Sales (Assumed),L4,3,13194,"=ROUND(F708*12*IF(E708=4,0.15,0.10),0)",2026,38,Female
+987,Research & Development,Process Solutions,L2,3,5067,"=ROUND(F709*12*IF(E709=4,0.15,0.10),0)",2026,32,Male
+990,Sales,Sales (Assumed),L2,3,5079,"=ROUND(F710*12*IF(E710=4,0.15,0.10),0)",2026,38,Male
+991,Research & Development,Discovery Solutions,L1,4,2321,"=ROUND(F711*12*IF(E711=4,0.15,0.10),0)",2026,32,Male
+992,Sales,Management (Assumed),L4,3,17444,"=ROUND(F712*12*IF(E712=4,0.15,0.10),0)",2026,38,Male
+994,Research & Development,Discovery Solutions,L1,4,2404,"=ROUND(F713*12*IF(E713=4,0.15,0.10),0)",2026,32,Female
+995,Research & Development,Discovery Solutions,L1,3,3452,"=ROUND(F714*12*IF(E714=4,0.15,0.10),0)",2026,32,Female
+996,Research & Development,Discovery Solutions,L1,3,2270,"=ROUND(F715*12*IF(E715=4,0.15,0.10),0)",2026,32,Female
+997,Research & Development,Management (Assumed),L4,4,17399,"=ROUND(F716*12*IF(E716=4,0.15,0.10),0)",2026,32,Male
+998,Research & Development,Advanced Solutions,L2,3,5488,"=ROUND(F717*12*IF(E717=4,0.15,0.10),0)",2026,32,Female
+999,Research & Development,Management (Assumed),L5,3,19419,"=ROUND(F718*12*IF(E718=4,0.15,0.10),0)",2026,32,Male
+1001,Research & Development,Discovery Solutions,L1,3,2811,"=ROUND(F719*12*IF(E719=4,0.15,0.10),0)",2026,32,Female
+1002,Research & Development,Discovery Solutions,L2,3,3633,"=ROUND(F720*12*IF(E720=4,0.15,0.10),0)",2026,32,Male
+1003,Sales,Sales (Assumed),L2,3,4163,"=ROUND(F721*12*IF(E721=4,0.15,0.10),0)",2026,38,Female
+1004,Research & Development,Discovery Solutions,L1,3,2132,"=ROUND(F722*12*IF(E722=4,0.15,0.10),0)",2026,32,Female
+1005,Research & Development,Process Solutions,L4,3,13973,"=ROUND(F723*12*IF(E723=4,0.15,0.10),0)",2026,32,Male
+1006,Research & Development,Discovery Solutions,L1,3,2684,"=ROUND(F724*12*IF(E724=4,0.15,0.10),0)",2026,32,Male
+1007,Research & Development,Process Solutions,L3,3,10845,"=ROUND(F725*12*IF(E725=4,0.15,0.10),0)",2026,32,Male
+1009,Research & Development,Process Solutions,L2,3,4377,"=ROUND(F726*12*IF(E726=4,0.15,0.10),0)",2026,32,Female
+1010,Research & Development,Discovery Solutions,L1,4,3743,"=ROUND(F727*12*IF(E727=4,0.15,0.10),0)",2026,32,Male
+1011,Research & Development,Process Solutions,L2,3,4148,"=ROUND(F728*12*IF(E728=4,0.15,0.10),0)",2026,32,Female
+1012,Research & Development,Discovery Solutions,L1,3,1051,"=ROUND(F729*12*IF(E729=4,0.15,0.10),0)",2026,32,Male
+1013,Research & Development,Process Solutions,L3,3,10739,"=ROUND(F730*12*IF(E730=4,0.15,0.10),0)",2026,32,Female
+1014,Research & Development,Advanced Solutions,L3,3,10388,"=ROUND(F731*12*IF(E731=4,0.15,0.10),0)",2026,32,Female
+1015,Research & Development,Management (Assumed),L3,3,11416,"=ROUND(F732*12*IF(E732=4,0.15,0.10),0)",2026,32,Female
+1016,Research & Development,Discovery Solutions,L1,3,2600,"=ROUND(F733*12*IF(E733=4,0.15,0.10),0)",2026,32,Female
+1017,Research & Development,Discovery Solutions,L1,3,2422,"=ROUND(F734*12*IF(E734=4,0.15,0.10),0)",2026,32,Female
+1018,Research & Development,Process Solutions,L2,3,5472,"=ROUND(F735*12*IF(E735=4,0.15,0.10),0)",2026,32,Male
+1019,Research & Development,Discovery Solutions,L1,3,2451,"=ROUND(F736*12*IF(E736=4,0.15,0.10),0)",2026,32,Male
+1022,Research & Development,Advanced Solutions,L2,3,4240,"=ROUND(F737*12*IF(E737=4,0.15,0.10),0)",2026,32,Male
+1024,Research & Development,Advanced Solutions,L3,3,10999,"=ROUND(F738*12*IF(E738=4,0.15,0.10),0)",2026,32,Male
+1025,Research & Development,Process Solutions,L2,3,5003,"=ROUND(F739*12*IF(E739=4,0.15,0.10),0)",2026,32,Female
+1026,Research & Development,Process Solutions,L4,3,12742,"=ROUND(F740*12*IF(E740=4,0.15,0.10),0)",2026,32,Female
+1027,Research & Development,Process Solutions,L2,3,4227,"=ROUND(F741*12*IF(E741=4,0.15,0.10),0)",2026,32,Female
+1028,Research & Development,Discovery Solutions,L1,4,3917,"=ROUND(F742*12*IF(E742=4,0.15,0.10),0)",2026,32,Male
+1029,Sales,Management (Assumed),L5,3,18303,"=ROUND(F743*12*IF(E743=4,0.15,0.10),0)",2026,38,Male
+1030,Research & Development,Discovery Solutions,L1,3,2380,"=ROUND(F744*12*IF(E744=4,0.15,0.10),0)",2026,32,Male
+1032,Research & Development,Process Solutions,L4,3,13726,"=ROUND(F745*12*IF(E745=4,0.15,0.10),0)",2026,32,Female
+1033,Research & Development,Advanced Solutions,L2,3,4777,"=ROUND(F746*12*IF(E746=4,0.15,0.10),0)",2026,32,Female
+1034,Research & Development,Advanced Solutions,L2,3,6385,"=ROUND(F747*12*IF(E747=4,0.15,0.10),0)",2026,32,Male
+1035,Research & Development,Management (Assumed),L5,4,19973,"=ROUND(F748*12*IF(E748=4,0.15,0.10),0)",2026,32,Female
+1036,Sales,Sales (Assumed),L2,3,6861,"=ROUND(F749*12*IF(E749=4,0.15,0.10),0)",2026,38,Male
+1037,Sales,Sales (Assumed),L2,3,4969,"=ROUND(F750*12*IF(E750=4,0.15,0.10),0)",2026,38,Male
+1038,Sales,Management (Assumed),L5,3,19845,"=ROUND(F751*12*IF(E751=4,0.15,0.10),0)",2026,38,Female
+1039,Sales,Sales (Assumed),L4,3,13320,"=ROUND(F752*12*IF(E752=4,0.15,0.10),0)",2026,38,Female
+1040,Sales,Sales (Assumed),L2,3,6347,"=ROUND(F753*12*IF(E753=4,0.15,0.10),0)",2026,38,Female
+1042,Research & Development,Discovery Solutions,L1,3,2743,"=ROUND(F754*12*IF(E754=4,0.15,0.10),0)",2026,32,Female
+1043,Research & Development,Process Solutions,L3,3,10880,"=ROUND(F755*12*IF(E755=4,0.15,0.10),0)",2026,32,Female
+1044,Sales,Sales (Assumed),L1,3,2342,"=ROUND(F756*12*IF(E756=4,0.15,0.10),0)",2026,38,Female
+1045,Sales,Management (Assumed),L4,3,17650,"=ROUND(F757*12*IF(E757=4,0.15,0.10),0)",2026,38,Female
+1046,Research & Development,Discovery Solutions,L1,3,4025,"=ROUND(F758*12*IF(E758=4,0.15,0.10),0)",2026,32,Female
+1047,Sales,Sales (Assumed),L2,3,9725,"=ROUND(F759*12*IF(E759=4,0.15,0.10),0)",2026,38,Male
+1048,Sales,Management (Assumed),L3,3,11904,"=ROUND(F760*12*IF(E760=4,0.15,0.10),0)",2026,38,Male
+1049,Human Resources,Human Resources,L1,3,2177,"=ROUND(F761*12*IF(E761=4,0.15,0.10),0)",2026,140,Male
+1050,Sales,Sales (Assumed),L3,3,7525,"=ROUND(F762*12*IF(E762=4,0.15,0.10),0)",2026,38,Female
+1052,Research & Development,Discovery Solutions,L2,3,4834,"=ROUND(F763*12*IF(E763=4,0.15,0.10),0)",2026,32,Male
+1053,Research & Development,Discovery Solutions,L1,3,2042,"=ROUND(F764*12*IF(E764=4,0.15,0.10),0)",2026,32,Male
+1055,Sales,Sales (Assumed),L1,3,2220,"=ROUND(F765*12*IF(E765=4,0.15,0.10),0)",2026,38,Female
+1056,Sales,Sales (Assumed),L1,4,1052,"=ROUND(F766*12*IF(E766=4,0.15,0.10),0)",2026,38,Male
+1060,Research & Development,Discovery Solutions,L1,3,2821,"=ROUND(F767*12*IF(E767=4,0.15,0.10),0)",2026,32,Male
+1061,Research & Development,Management (Assumed),L5,3,19237,"=ROUND(F768*12*IF(E768=4,0.15,0.10),0)",2026,32,Male
+1062,Research & Development,Advanced Solutions,L2,3,4107,"=ROUND(F769*12*IF(E769=4,0.15,0.10),0)",2026,32,Female
+1066,Sales,Sales (Assumed),L2,3,8396,"=ROUND(F770*12*IF(E770=4,0.15,0.10),0)",2026,38,Male
+1068,Research & Development,Discovery Solutions,L1,3,2007,"=ROUND(F771*12*IF(E771=4,0.15,0.10),0)",2026,32,Female
+1069,Research & Development,Management (Assumed),L5,3,19627,"=ROUND(F772*12*IF(E772=4,0.15,0.10),0)",2026,32,Male
+1070,Sales,Sales (Assumed),L3,3,10686,"=ROUND(F773*12*IF(E773=4,0.15,0.10),0)",2026,38,Female
+1071,Research & Development,Discovery Solutions,L1,3,2942,"=ROUND(F774*12*IF(E774=4,0.15,0.10),0)",2026,32,Female
+1073,Research & Development,Process Solutions,L3,3,8858,"=ROUND(F775*12*IF(E775=4,0.15,0.10),0)",2026,32,Female
+1074,Research & Development,Management (Assumed),L4,3,16756,"=ROUND(F776*12*IF(E776=4,0.15,0.10),0)",2026,32,Male
+1076,Sales,Sales (Assumed),L3,3,10798,"=ROUND(F777*12*IF(E777=4,0.15,0.10),0)",2026,38,Male
+1077,Sales,Sales (Assumed),L1,3,2323,"=ROUND(F778*12*IF(E778=4,0.15,0.10),0)",2026,38,Female
+1079,Research & Development,Discovery Solutions,L1,3,1416,"=ROUND(F779*12*IF(E779=4,0.15,0.10),0)",2026,32,Female
+1080,Research & Development,Discovery Solutions,L2,4,4615,"=ROUND(F780*12*IF(E780=4,0.15,0.10),0)",2026,32,Female
+1081,Research & Development,Discovery Solutions,L1,3,2461,"=ROUND(F781*12*IF(E781=4,0.15,0.10),0)",2026,32,Male
+1082,Research & Development,Advanced Solutions,L3,3,8722,"=ROUND(F782*12*IF(E782=4,0.15,0.10),0)",2026,32,Male
+1083,Research & Development,Discovery Solutions,L1,3,3955,"=ROUND(F783*12*IF(E783=4,0.15,0.10),0)",2026,32,Male
+1084,Research & Development,Process Solutions,L2,3,9957,"=ROUND(F784*12*IF(E784=4,0.15,0.10),0)",2026,32,Male
+1085,Research & Development,Discovery Solutions,L1,3,3376,"=ROUND(F785*12*IF(E785=4,0.15,0.10),0)",2026,32,Female
+1088,Research & Development,Advanced Solutions,L3,3,8823,"=ROUND(F786*12*IF(E786=4,0.15,0.10),0)",2026,32,Female
+1092,Research & Development,Advanced Solutions,L3,4,10322,"=ROUND(F787*12*IF(E787=4,0.15,0.10),0)",2026,32,Male
+1094,Research & Development,Discovery Solutions,L1,3,4621,"=ROUND(F788*12*IF(E788=4,0.15,0.10),0)",2026,32,Male
+1096,Research & Development,Process Solutions,L3,3,10976,"=ROUND(F789*12*IF(E789=4,0.15,0.10),0)",2026,32,Male
+1097,Research & Development,Discovery Solutions,L2,3,3660,"=ROUND(F790*12*IF(E790=4,0.15,0.10),0)",2026,32,Female
+1098,Human Resources,Human Resources,L3,3,10482,"=ROUND(F791*12*IF(E791=4,0.15,0.10),0)",2026,140,Male
+1099,Research & Development,Advanced Solutions,L3,3,7119,"=ROUND(F792*12*IF(E792=4,0.15,0.10),0)",2026,32,Male
+1100,Sales,Sales (Assumed),L3,4,9582,"=ROUND(F793*12*IF(E793=4,0.15,0.10),0)",2026,38,Male
+1101,Research & Development,Discovery Solutions,L2,4,4508,"=ROUND(F794*12*IF(E794=4,0.15,0.10),0)",2026,32,Female
+1102,Research & Development,Discovery Solutions,L1,3,2207,"=ROUND(F795*12*IF(E795=4,0.15,0.10),0)",2026,32,Male
+1103,Research & Development,Advanced Solutions,L2,3,7756,"=ROUND(F796*12*IF(E796=4,0.15,0.10),0)",2026,32,Male
+1105,Sales,Sales (Assumed),L2,3,6694,"=ROUND(F797*12*IF(E797=4,0.15,0.10),0)",2026,38,Female
+1106,Research & Development,Discovery Solutions,L1,3,3691,"=ROUND(F798*12*IF(E798=4,0.15,0.10),0)",2026,32,Male
+1107,Research & Development,Discovery Solutions,L1,4,2377,"=ROUND(F799*12*IF(E799=4,0.15,0.10),0)",2026,32,Male
+1108,Research & Development,Discovery Solutions,L1,4,2313,"=ROUND(F800*12*IF(E800=4,0.15,0.10),0)",2026,32,Male
+1109,Research & Development,Management (Assumed),L4,3,17665,"=ROUND(F801*12*IF(E801=4,0.15,0.10),0)",2026,32,Male
+1111,Research & Development,Discovery Solutions,L1,3,2596,"=ROUND(F802*12*IF(E802=4,0.15,0.10),0)",2026,32,Male
+1113,Sales,Sales (Assumed),L2,3,4728,"=ROUND(F803*12*IF(E803=4,0.15,0.10),0)",2026,38,Male
+1114,Sales,Sales (Assumed),L2,3,4302,"=ROUND(F804*12*IF(E804=4,0.15,0.10),0)",2026,38,Female
+1115,Research & Development,Discovery Solutions,L1,3,2979,"=ROUND(F805*12*IF(E805=4,0.15,0.10),0)",2026,32,Male
+1116,Research & Development,Management (Assumed),L4,4,16885,"=ROUND(F806*12*IF(E806=4,0.15,0.10),0)",2026,32,Male
+1117,Sales,Sales (Assumed),L2,3,5593,"=ROUND(F807*12*IF(E807=4,0.15,0.10),0)",2026,38,Female
+1118,Research & Development,Advanced Solutions,L3,3,10445,"=ROUND(F808*12*IF(E808=4,0.15,0.10),0)",2026,32,Male
+1119,Sales,Sales (Assumed),L3,3,8740,"=ROUND(F809*12*IF(E809=4,0.15,0.10),0)",2026,38,Male
+1120,Research & Development,Discovery Solutions,L1,4,2514,"=ROUND(F810*12*IF(E810=4,0.15,0.10),0)",2026,32,Female
+1121,Research & Development,Process Solutions,L3,3,7655,"=ROUND(F811*12*IF(E811=4,0.15,0.10),0)",2026,32,Female
+1124,Sales,Management (Assumed),L4,3,17465,"=ROUND(F812*12*IF(E812=4,0.15,0.10),0)",2026,38,Male
+1125,Sales,Sales (Assumed),L3,3,7351,"=ROUND(F813*12*IF(E813=4,0.15,0.10),0)",2026,38,Male
+1126,Research & Development,Process Solutions,L3,3,10820,"=ROUND(F814*12*IF(E814=4,0.15,0.10),0)",2026,32,Female
+1127,Research & Development,Advanced Solutions,L4,3,12169,"=ROUND(F815*12*IF(E815=4,0.15,0.10),0)",2026,32,Male
+1128,Research & Development,Management (Assumed),L5,3,19626,"=ROUND(F816*12*IF(E816=4,0.15,0.10),0)",2026,32,Male
+1131,Research & Development,Discovery Solutions,L1,3,2070,"=ROUND(F817*12*IF(E817=4,0.15,0.10),0)",2026,32,Female
+1132,Research & Development,Discovery Solutions,L2,3,6782,"=ROUND(F818*12*IF(E818=4,0.15,0.10),0)",2026,32,Male
+1133,Research & Development,Process Solutions,L2,4,7779,"=ROUND(F819*12*IF(E819=4,0.15,0.10),0)",2026,32,Male
+1135,Sales,Sales (Assumed),L1,3,2791,"=ROUND(F820*12*IF(E820=4,0.15,0.10),0)",2026,38,Male
+1136,Research & Development,Discovery Solutions,L1,3,3201,"=ROUND(F821*12*IF(E821=4,0.15,0.10),0)",2026,32,Male
+1137,Sales,Sales (Assumed),L2,3,4968,"=ROUND(F822*12*IF(E822=4,0.15,0.10),0)",2026,38,Male
+1138,Sales,Sales (Assumed),L4,3,13120,"=ROUND(F823*12*IF(E823=4,0.15,0.10),0)",2026,38,Male
+1140,Research & Development,Process Solutions,L2,3,4033,"=ROUND(F824*12*IF(E824=4,0.15,0.10),0)",2026,32,Male
+1143,Research & Development,Discovery Solutions,L1,3,3291,"=ROUND(F825*12*IF(E825=4,0.15,0.10),0)",2026,32,Female
+1148,Research & Development,Discovery Solutions,L2,3,4272,"=ROUND(F826*12*IF(E826=4,0.15,0.10),0)",2026,32,Male
+1150,Research & Development,Process Solutions,L2,3,5056,"=ROUND(F827*12*IF(E827=4,0.15,0.10),0)",2026,32,Male
+1152,Human Resources,Human Resources,L1,3,2844,"=ROUND(F828*12*IF(E828=4,0.15,0.10),0)",2026,140,Male
+1154,Research & Development,Discovery Solutions,L1,3,2703,"=ROUND(F829*12*IF(E829=4,0.15,0.10),0)",2026,32,Male
+1156,Research & Development,Discovery Solutions,L1,3,1904,"=ROUND(F830*12*IF(E830=4,0.15,0.10),0)",2026,32,Male
+1157,Sales,Sales (Assumed),L2,3,8224,"=ROUND(F831*12*IF(E831=4,0.15,0.10),0)",2026,38,Female
+1158,Research & Development,Discovery Solutions,L1,3,4766,"=ROUND(F832*12*IF(E832=4,0.15,0.10),0)",2026,32,Male
+1160,Research & Development,Discovery Solutions,L1,3,2610,"=ROUND(F833*12*IF(E833=4,0.15,0.10),0)",2026,32,Male
+1161,Research & Development,Advanced Solutions,L2,3,5731,"=ROUND(F834*12*IF(E834=4,0.15,0.10),0)",2026,32,Female
+1162,Research & Development,Discovery Solutions,L1,3,2539,"=ROUND(F835*12*IF(E835=4,0.15,0.10),0)",2026,32,Male
+1163,Sales,Sales (Assumed),L2,4,5714,"=ROUND(F836*12*IF(E836=4,0.15,0.10),0)",2026,38,Female
+1164,Human Resources,Human Resources,L1,3,4323,"=ROUND(F837*12*IF(E837=4,0.15,0.10),0)",2026,140,Male
+1165,Sales,Sales (Assumed),L3,3,7336,"=ROUND(F838*12*IF(E838=4,0.15,0.10),0)",2026,38,Female
+1166,Research & Development,Management (Assumed),L3,3,13499,"=ROUND(F839*12*IF(E839=4,0.15,0.10),0)",2026,32,Female
+1167,Sales,Sales (Assumed),L4,3,13758,"=ROUND(F840*12*IF(E840=4,0.15,0.10),0)",2026,38,Male
+1171,Sales,Sales (Assumed),L2,3,5155,"=ROUND(F841*12*IF(E841=4,0.15,0.10),0)",2026,38,Male
+1172,Research & Development,Discovery Solutions,L1,3,2258,"=ROUND(F842*12*IF(E842=4,0.15,0.10),0)",2026,32,Male
+1173,Research & Development,Discovery Solutions,L1,4,3597,"=ROUND(F843*12*IF(E843=4,0.15,0.10),0)",2026,32,Male
+1175,Research & Development,Discovery Solutions,L1,3,2515,"=ROUND(F844*12*IF(E844=4,0.15,0.10),0)",2026,32,Female
+1177,Research & Development,Discovery Solutions,L1,4,4420,"=ROUND(F845*12*IF(E845=4,0.15,0.10),0)",2026,32,Male
+1179,Sales,Sales (Assumed),L2,3,6578,"=ROUND(F846*12*IF(E846=4,0.15,0.10),0)",2026,38,Male
+1180,Research & Development,Discovery Solutions,L2,3,4422,"=ROUND(F847*12*IF(E847=4,0.15,0.10),0)",2026,32,Female
+1182,Research & Development,Process Solutions,L3,3,10274,"=ROUND(F848*12*IF(E848=4,0.15,0.10),0)",2026,32,Male
+1184,Research & Development,Advanced Solutions,L2,4,5343,"=ROUND(F849*12*IF(E849=4,0.15,0.10),0)",2026,32,Male
+1185,Research & Development,Discovery Solutions,L1,3,2376,"=ROUND(F850*12*IF(E850=4,0.15,0.10),0)",2026,32,Male
+1188,Sales,Sales (Assumed),L2,3,5346,"=ROUND(F851*12*IF(E851=4,0.15,0.10),0)",2026,38,Female
+1190,Sales,Sales (Assumed),L1,3,2827,"=ROUND(F852*12*IF(E852=4,0.15,0.10),0)",2026,38,Female
+1191,Research & Development,Management (Assumed),L5,3,19943,"=ROUND(F853*12*IF(E853=4,0.15,0.10),0)",2026,32,Female
+1192,Research & Development,Discovery Solutions,L1,3,3131,"=ROUND(F854*12*IF(E854=4,0.15,0.10),0)",2026,32,Female
+1193,Research & Development,Discovery Solutions,L1,4,2552,"=ROUND(F855*12*IF(E855=4,0.15,0.10),0)",2026,32,Male
+1195,Research & Development,Discovery Solutions,L1,3,4477,"=ROUND(F856*12*IF(E856=4,0.15,0.10),0)",2026,32,Female
+1196,Research & Development,Process Solutions,L2,3,6474,"=ROUND(F857*12*IF(E857=4,0.15,0.10),0)",2026,32,Female
+1198,Research & Development,Discovery Solutions,L1,3,3033,"=ROUND(F858*12*IF(E858=4,0.15,0.10),0)",2026,32,Male
+1200,Research & Development,Discovery Solutions,L1,3,2936,"=ROUND(F859*12*IF(E859=4,0.15,0.10),0)",2026,32,Male
+1201,Research & Development,Management (Assumed),L5,3,18606,"=ROUND(F860*12*IF(E860=4,0.15,0.10),0)",2026,32,Female
+1202,Research & Development,Discovery Solutions,L1,3,2168,"=ROUND(F861*12*IF(E861=4,0.15,0.10),0)",2026,32,Female
+1203,Research & Development,Discovery Solutions,L1,3,2853,"=ROUND(F862*12*IF(E862=4,0.15,0.10),0)",2026,32,Male
+1204,Sales,Management (Assumed),L4,4,17048,"=ROUND(F863*12*IF(E863=4,0.15,0.10),0)",2026,38,Female
+1206,Research & Development,Discovery Solutions,L1,3,2290,"=ROUND(F864*12*IF(E864=4,0.15,0.10),0)",2026,32,Male
+1207,Human Resources,Human Resources,L1,3,3600,"=ROUND(F865*12*IF(E865=4,0.15,0.10),0)",2026,140,Male
+1210,Research & Development,Discovery Solutions,L1,3,2107,"=ROUND(F866*12*IF(E866=4,0.15,0.10),0)",2026,32,Male
+1211,Sales,Sales (Assumed),L2,3,4115,"=ROUND(F867*12*IF(E867=4,0.15,0.10),0)",2026,38,Male
+1212,Sales,Sales (Assumed),L2,3,4327,"=ROUND(F868*12*IF(E868=4,0.15,0.10),0)",2026,38,Male
+1215,Research & Development,Management (Assumed),L4,4,17856,"=ROUND(F869*12*IF(E869=4,0.15,0.10),0)",2026,32,Female
+1216,Research & Development,Discovery Solutions,L1,3,3196,"=ROUND(F870*12*IF(E870=4,0.15,0.10),0)",2026,32,Male
+1217,Research & Development,Management (Assumed),L5,3,19081,"=ROUND(F871*12*IF(E871=4,0.15,0.10),0)",2026,32,Male
+1218,Sales,Sales (Assumed),L2,3,8966,"=ROUND(F872*12*IF(E872=4,0.15,0.10),0)",2026,38,Male
+1219,Research & Development,Discovery Solutions,L1,3,2210,"=ROUND(F873*12*IF(E873=4,0.15,0.10),0)",2026,32,Female
+1220,Sales,Sales (Assumed),L2,3,4539,"=ROUND(F874*12*IF(E874=4,0.15,0.10),0)",2026,38,Female
+1221,Research & Development,Discovery Solutions,L1,3,2741,"=ROUND(F875*12*IF(E875=4,0.15,0.10),0)",2026,32,Male
+1224,Research & Development,Discovery Solutions,L2,3,3491,"=ROUND(F876*12*IF(E876=4,0.15,0.10),0)",2026,32,Male
+1225,Research & Development,Discovery Solutions,L2,4,4541,"=ROUND(F877*12*IF(E877=4,0.15,0.10),0)",2026,32,Male
+1226,Sales,Sales (Assumed),L1,3,2678,"=ROUND(F878*12*IF(E878=4,0.15,0.10),0)",2026,38,Male
+1228,Research & Development,Process Solutions,L2,3,7379,"=ROUND(F879*12*IF(E879=4,0.15,0.10),0)",2026,32,Male
+1231,Human Resources,Human Resources,L2,3,6272,"=ROUND(F880*12*IF(E880=4,0.15,0.10),0)",2026,140,Male
+1233,Sales,Sales (Assumed),L2,3,5220,"=ROUND(F881*12*IF(E881=4,0.15,0.10),0)",2026,38,Male
+1234,Research & Development,Discovery Solutions,L1,4,2743,"=ROUND(F882*12*IF(E882=4,0.15,0.10),0)",2026,32,Female
+1235,Research & Development,Discovery Solutions,L2,3,4998,"=ROUND(F883*12*IF(E883=4,0.15,0.10),0)",2026,32,Female
+1237,Research & Development,Process Solutions,L3,4,10252,"=ROUND(F884*12*IF(E884=4,0.15,0.10),0)",2026,32,Female
+1238,Research & Development,Discovery Solutions,L1,3,2781,"=ROUND(F885*12*IF(E885=4,0.15,0.10),0)",2026,32,Male
+1239,Sales,Sales (Assumed),L2,3,6852,"=ROUND(F886*12*IF(E886=4,0.15,0.10),0)",2026,38,Female
+1240,Sales,Sales (Assumed),L2,3,4950,"=ROUND(F887*12*IF(E887=4,0.15,0.10),0)",2026,38,Male
+1241,Research & Development,Discovery Solutions,L1,4,3579,"=ROUND(F888*12*IF(E888=4,0.15,0.10),0)",2026,32,Male
+1242,Research & Development,Management (Assumed),L3,3,13191,"=ROUND(F889*12*IF(E889=4,0.15,0.10),0)",2026,32,Female
+1243,Sales,Sales (Assumed),L3,3,10377,"=ROUND(F890*12*IF(E890=4,0.15,0.10),0)",2026,38,Female
+1244,Research & Development,Discovery Solutions,L1,3,2235,"=ROUND(F891*12*IF(E891=4,0.15,0.10),0)",2026,32,Male
+1245,Research & Development,Process Solutions,L3,3,10502,"=ROUND(F892*12*IF(E892=4,0.15,0.10),0)",2026,32,Female
+1246,Research & Development,Discovery Solutions,L1,3,2011,"=ROUND(F893*12*IF(E893=4,0.15,0.10),0)",2026,32,Female
+1248,Research & Development,Discovery Solutions,L1,4,1859,"=ROUND(F894*12*IF(E894=4,0.15,0.10),0)",2026,32,Female
+1249,Research & Development,Discovery Solutions,L1,3,3760,"=ROUND(F895*12*IF(E895=4,0.15,0.10),0)",2026,32,Female
+1250,Research & Development,Management (Assumed),L4,3,17779,"=ROUND(F896*12*IF(E896=4,0.15,0.10),0)",2026,32,Male
+1251,Research & Development,Advanced Solutions,L2,3,6833,"=ROUND(F897*12*IF(E897=4,0.15,0.10),0)",2026,32,Male
+1252,Research & Development,Advanced Solutions,L2,3,6812,"=ROUND(F898*12*IF(E898=4,0.15,0.10),0)",2026,32,Female
+1254,Sales,Sales (Assumed),L2,3,5171,"=ROUND(F899*12*IF(E899=4,0.15,0.10),0)",2026,38,Female
+1255,Research & Development,Management (Assumed),L5,3,19740,"=ROUND(F900*12*IF(E900=4,0.15,0.10),0)",2026,32,Male
+1256,Research & Development,Management (Assumed),L5,3,18711,"=ROUND(F901*12*IF(E901=4,0.15,0.10),0)",2026,32,Male
+1257,Research & Development,Discovery Solutions,L1,3,3692,"=ROUND(F902*12*IF(E902=4,0.15,0.10),0)",2026,32,Male
+1258,Research & Development,Discovery Solutions,L1,3,2559,"=ROUND(F903*12*IF(E903=4,0.15,0.10),0)",2026,32,Male
+1259,Research & Development,Discovery Solutions,L1,3,2517,"=ROUND(F904*12*IF(E904=4,0.15,0.10),0)",2026,32,Male
+1260,Research & Development,Advanced Solutions,L2,3,6623,"=ROUND(F905*12*IF(E905=4,0.15,0.10),0)",2026,32,Male
+1263,Research & Development,Management (Assumed),L5,3,18265,"=ROUND(F906*12*IF(E906=4,0.15,0.10),0)",2026,32,Male
+1264,Research & Development,Management (Assumed),L4,3,16124,"=ROUND(F907*12*IF(E907=4,0.15,0.10),0)",2026,32,Female
+1265,Research & Development,Discovery Solutions,L1,3,2585,"=ROUND(F908*12*IF(E908=4,0.15,0.10),0)",2026,32,Female
+1267,Sales,Management (Assumed),L5,3,18213,"=ROUND(F909*12*IF(E909=4,0.15,0.10),0)",2026,38,Male
+1268,Sales,Sales (Assumed),L3,3,8380,"=ROUND(F910*12*IF(E910=4,0.15,0.10),0)",2026,38,Male
+1269,Research & Development,Discovery Solutions,L1,3,2994,"=ROUND(F911*12*IF(E911=4,0.15,0.10),0)",2026,32,Female
+1270,Research & Development,Discovery Solutions,L1,4,1223,"=ROUND(F912*12*IF(E912=4,0.15,0.10),0)",2026,32,Male
+1273,Sales,Sales (Assumed),L1,3,1118,"=ROUND(F913*12*IF(E913=4,0.15,0.10),0)",2026,38,Male
+1275,Research & Development,Discovery Solutions,L1,4,2875,"=ROUND(F914*12*IF(E914=4,0.15,0.10),0)",2026,32,Male
+1277,Sales,Management (Assumed),L5,3,18824,"=ROUND(F915*12*IF(E915=4,0.15,0.10),0)",2026,38,Female
+1278,Research & Development,Advanced Solutions,L4,3,13577,"=ROUND(F916*12*IF(E916=4,0.15,0.10),0)",2026,32,Male
+1279,Research & Development,Discovery Solutions,L1,4,2625,"=ROUND(F917*12*IF(E917=4,0.15,0.10),0)",2026,32,Female
+1280,Sales,Management (Assumed),L5,3,18789,"=ROUND(F918*12*IF(E918=4,0.15,0.10),0)",2026,38,Female
+1281,Sales,Sales (Assumed),L2,3,4538,"=ROUND(F919*12*IF(E919=4,0.15,0.10),0)",2026,38,Female
+1282,Sales,Management (Assumed),L5,4,19847,"=ROUND(F920*12*IF(E920=4,0.15,0.10),0)",2026,38,Male
+1283,Research & Development,Process Solutions,L3,3,10512,"=ROUND(F921*12*IF(E921=4,0.15,0.10),0)",2026,32,Male
+1285,Research & Development,Discovery Solutions,L2,3,4444,"=ROUND(F922*12*IF(E922=4,0.15,0.10),0)",2026,32,Female
+1286,Research & Development,Discovery Solutions,L1,3,2154,"=ROUND(F923*12*IF(E923=4,0.15,0.10),0)",2026,32,Male
+1288,Research & Development,Management (Assumed),L5,3,19190,"=ROUND(F924*12*IF(E924=4,0.15,0.10),0)",2026,32,Male
+1289,Human Resources,Human Resources,L2,3,4490,"=ROUND(F925*12*IF(E925=4,0.15,0.10),0)",2026,140,Male
+1291,Research & Development,Discovery Solutions,L1,3,3506,"=ROUND(F926*12*IF(E926=4,0.15,0.10),0)",2026,32,Male
+1292,Research & Development,Discovery Solutions,L2,3,2372,"=ROUND(F927*12*IF(E927=4,0.15,0.10),0)",2026,32,Female
+1293,Sales,Sales (Assumed),L3,3,10231,"=ROUND(F928*12*IF(E928=4,0.15,0.10),0)",2026,38,Female
+1294,Research & Development,Process Solutions,L2,3,5410,"=ROUND(F929*12*IF(E929=4,0.15,0.10),0)",2026,32,Female
+1295,Research & Development,Advanced Solutions,L3,3,7978,"=ROUND(F930*12*IF(E930=4,0.15,0.10),0)",2026,32,Female
+1296,Research & Development,Discovery Solutions,L1,3,3867,"=ROUND(F931*12*IF(E931=4,0.15,0.10),0)",2026,32,Male
+1297,Research & Development,Discovery Solutions,L1,3,2838,"=ROUND(F932*12*IF(E932=4,0.15,0.10),0)",2026,32,Female
+1298,Research & Development,Process Solutions,L2,3,4695,"=ROUND(F933*12*IF(E933=4,0.15,0.10),0)",2026,32,Female
+1299,Research & Development,Discovery Solutions,L1,3,3339,"=ROUND(F934*12*IF(E934=4,0.15,0.10),0)",2026,32,Female
+1301,Research & Development,Discovery Solutions,L1,3,2080,"=ROUND(F935*12*IF(E935=4,0.15,0.10),0)",2026,32,Male
+1303,Research & Development,Discovery Solutions,L1,3,2096,"=ROUND(F936*12*IF(E936=4,0.15,0.10),0)",2026,32,Female
+1304,Sales,Sales (Assumed),L2,3,6209,"=ROUND(F937*12*IF(E937=4,0.15,0.10),0)",2026,38,Male
+1306,Research & Development,Management (Assumed),L5,4,18061,"=ROUND(F938*12*IF(E938=4,0.15,0.10),0)",2026,32,Female
+1307,Research & Development,Management (Assumed),L4,3,17123,"=ROUND(F939*12*IF(E939=4,0.15,0.10),0)",2026,32,Female
+1308,Research & Development,Discovery Solutions,L1,3,2372,"=ROUND(F940*12*IF(E940=4,0.15,0.10),0)",2026,32,Male
+1309,Research & Development,Discovery Solutions,L2,3,4883,"=ROUND(F941*12*IF(E941=4,0.15,0.10),0)",2026,32,Male
+1310,Research & Development,Discovery Solutions,L1,3,3904,"=ROUND(F942*12*IF(E942=4,0.15,0.10),0)",2026,32,Male
+1311,Research & Development,Discovery Solutions,L2,3,4627,"=ROUND(F943*12*IF(E943=4,0.15,0.10),0)",2026,32,Female
+1312,Research & Development,Advanced Solutions,L3,3,7094,"=ROUND(F944*12*IF(E944=4,0.15,0.10),0)",2026,32,Female
+1314,Human Resources,Human Resources,L1,3,3423,"=ROUND(F945*12*IF(E945=4,0.15,0.10),0)",2026,140,Female
+1315,Research & Development,Discovery Solutions,L2,3,6674,"=ROUND(F946*12*IF(E946=4,0.15,0.10),0)",2026,32,Female
+1317,Research & Development,Management (Assumed),L4,3,16880,"=ROUND(F947*12*IF(E947=4,0.15,0.10),0)",2026,32,Female
+1318,Sales,Sales (Assumed),L3,3,9094,"=ROUND(F948*12*IF(E948=4,0.15,0.10),0)",2026,38,Male
+1319,Sales,Sales (Assumed),L3,3,8446,"=ROUND(F949*12*IF(E949=4,0.15,0.10),0)",2026,38,Male
+1321,Research & Development,Management (Assumed),L3,4,11916,"=ROUND(F950*12*IF(E950=4,0.15,0.10),0)",2026,32,Female
+1322,Research & Development,Process Solutions,L2,3,4534,"=ROUND(F951*12*IF(E951=4,0.15,0.10),0)",2026,32,Male
+1324,Sales,Sales (Assumed),L3,3,9852,"=ROUND(F952*12*IF(E952=4,0.15,0.10),0)",2026,38,Female
+1329,Sales,Sales (Assumed),L2,3,6151,"=ROUND(F953*12*IF(E953=4,0.15,0.10),0)",2026,38,Male
+1331,Sales,Sales (Assumed),L1,3,2302,"=ROUND(F954*12*IF(E954=4,0.15,0.10),0)",2026,38,Female
+1333,Research & Development,Discovery Solutions,L1,3,2362,"=ROUND(F955*12*IF(E955=4,0.15,0.10),0)",2026,32,Male
+1334,Research & Development,Management (Assumed),L4,3,17861,"=ROUND(F956*12*IF(E956=4,0.15,0.10),0)",2026,32,Male
+1336,Research & Development,Management (Assumed),L5,3,19187,"=ROUND(F957*12*IF(E957=4,0.15,0.10),0)",2026,32,Female
+1338,Human Resources,Human Resources,L5,3,19717,"=ROUND(F958*12*IF(E958=4,0.15,0.10),0)",2026,140,Male
+1340,Research & Development,Discovery Solutions,L1,3,3544,"=ROUND(F959*12*IF(E959=4,0.15,0.10),0)",2026,32,Male
+1344,Research & Development,Advanced Solutions,L3,3,8500,"=ROUND(F960*12*IF(E960=4,0.15,0.10),0)",2026,32,Male
+1346,Research & Development,Discovery Solutions,L2,3,4661,"=ROUND(F961*12*IF(E961=4,0.15,0.10),0)",2026,32,Male
+1349,Sales,Sales (Assumed),L2,3,4103,"=ROUND(F962*12*IF(E962=4,0.15,0.10),0)",2026,38,Female
+1350,Research & Development,Discovery Solutions,L2,3,4249,"=ROUND(F963*12*IF(E963=4,0.15,0.10),0)",2026,32,Male
+1352,Human Resources,Human Resources,L4,3,14026,"=ROUND(F964*12*IF(E964=4,0.15,0.10),0)",2026,140,Male
+1355,Sales,Sales (Assumed),L2,3,6893,"=ROUND(F965*12*IF(E965=4,0.15,0.10),0)",2026,38,Female
+1356,Sales,Sales (Assumed),L2,3,6125,"=ROUND(F966*12*IF(E966=4,0.15,0.10),0)",2026,38,Female
+1358,Research & Development,Discovery Solutions,L1,3,3669,"=ROUND(F967*12*IF(E967=4,0.15,0.10),0)",2026,32,Male
+1360,Research & Development,Process Solutions,L3,3,10008,"=ROUND(F968*12*IF(E968=4,0.15,0.10),0)",2026,32,Female
+1361,Research & Development,Discovery Solutions,L1,4,2387,"=ROUND(F969*12*IF(E969=4,0.15,0.10),0)",2026,32,Male
+1362,Sales,Sales (Assumed),L2,3,4639,"=ROUND(F970*12*IF(E970=4,0.15,0.10),0)",2026,38,Female
+1363,Research & Development,Process Solutions,L3,3,7898,"=ROUND(F971*12*IF(E971=4,0.15,0.10),0)",2026,32,Male
+1364,Sales,Sales (Assumed),L1,3,2534,"=ROUND(F972*12*IF(E972=4,0.15,0.10),0)",2026,38,Female
+1367,Research & Development,Process Solutions,L4,3,13142,"=ROUND(F973*12*IF(E973=4,0.15,0.10),0)",2026,32,Female
+1368,Research & Development,Discovery Solutions,L1,3,1611,"=ROUND(F974*12*IF(E974=4,0.15,0.10),0)",2026,32,Female
+1369,Research & Development,Discovery Solutions,L2,3,5363,"=ROUND(F975*12*IF(E975=4,0.15,0.10),0)",2026,32,Female
+1371,Sales,Sales (Assumed),L2,4,5071,"=ROUND(F976*12*IF(E976=4,0.15,0.10),0)",2026,38,Male
+1372,Sales,Sales (Assumed),L4,3,13695,"=ROUND(F977*12*IF(E977=4,0.15,0.10),0)",2026,38,Male
+1373,Research & Development,Process Solutions,L4,3,13402,"=ROUND(F978*12*IF(E978=4,0.15,0.10),0)",2026,32,Male
+1374,Research & Development,Discovery Solutions,L1,4,2029,"=ROUND(F979*12*IF(E979=4,0.15,0.10),0)",2026,32,Female
+1375,Research & Development,Advanced Solutions,L2,4,6377,"=ROUND(F980*12*IF(E980=4,0.15,0.10),0)",2026,32,Female
+1377,Research & Development,Discovery Solutions,L2,3,5429,"=ROUND(F981*12*IF(E981=4,0.15,0.10),0)",2026,32,Male
+1379,Sales,Sales (Assumed),L1,3,2785,"=ROUND(F982*12*IF(E982=4,0.15,0.10),0)",2026,38,Female
+1380,Sales,Sales (Assumed),L2,3,4614,"=ROUND(F983*12*IF(E983=4,0.15,0.10),0)",2026,38,Female
+1382,Research & Development,Discovery Solutions,L1,3,2610,"=ROUND(F984*12*IF(E984=4,0.15,0.10),0)",2026,32,Male
+1383,Research & Development,Advanced Solutions,L2,3,6687,"=ROUND(F985*12*IF(E985=4,0.15,0.10),0)",2026,32,Female
+1387,Sales,Sales (Assumed),L2,3,4724,"=ROUND(F986*12*IF(E986=4,0.15,0.10),0)",2026,38,Male
+1389,Research & Development,Process Solutions,L2,3,6179,"=ROUND(F987*12*IF(E987=4,0.15,0.10),0)",2026,32,Male
+1390,Sales,Sales (Assumed),L2,3,6120,"=ROUND(F988*12*IF(E988=4,0.15,0.10),0)",2026,38,Male
+1391,Sales,Sales (Assumed),L3,3,10596,"=ROUND(F989*12*IF(E989=4,0.15,0.10),0)",2026,38,Male
+1392,Research & Development,Discovery Solutions,L2,3,5467,"=ROUND(F990*12*IF(E990=4,0.15,0.10),0)",2026,32,Female
+1394,Research & Development,Discovery Solutions,L1,3,2996,"=ROUND(F991*12*IF(E991=4,0.15,0.10),0)",2026,32,Male
+1395,Sales,Sales (Assumed),L2,3,9998,"=ROUND(F992*12*IF(E992=4,0.15,0.10),0)",2026,38,Male
+1396,Sales,Sales (Assumed),L2,3,4078,"=ROUND(F993*12*IF(E993=4,0.15,0.10),0)",2026,38,Male
+1397,Research & Development,Advanced Solutions,L3,4,10920,"=ROUND(F994*12*IF(E994=4,0.15,0.10),0)",2026,32,Male
+1399,Sales,Sales (Assumed),L2,3,6232,"=ROUND(F995*12*IF(E995=4,0.15,0.10),0)",2026,38,Male
+1401,Research & Development,Process Solutions,L4,3,13247,"=ROUND(F996*12*IF(E996=4,0.15,0.10),0)",2026,32,Female
+1402,Research & Development,Discovery Solutions,L2,3,4081,"=ROUND(F997*12*IF(E997=4,0.15,0.10),0)",2026,32,Female
+1403,Sales,Sales (Assumed),L2,3,5769,"=ROUND(F998*12*IF(E998=4,0.15,0.10),0)",2026,38,Female
+1405,Research & Development,Discovery Solutions,L1,3,2394,"=ROUND(F999*12*IF(E999=4,0.15,0.10),0)",2026,32,Female
+1407,Research & Development,Discovery Solutions,L1,3,3904,"=ROUND(F1000*12*IF(E1000=4,0.15,0.10),0)",2026,32,Male
+1408,Human Resources,Human Resources,L4,3,16799,"=ROUND(F1001*12*IF(E1001=4,0.15,0.10),0)",2026,140,Female
+1409,Research & Development,Discovery Solutions,L1,3,2950,"=ROUND(F1002*12*IF(E1002=4,0.15,0.10),0)",2026,32,Female
+1411,Research & Development,Discovery Solutions,L1,3,3629,"=ROUND(F1003*12*IF(E1003=4,0.15,0.10),0)",2026,32,Female
+1412,Research & Development,Process Solutions,L3,3,9362,"=ROUND(F1004*12*IF(E1004=4,0.15,0.10),0)",2026,32,Male
+1415,Research & Development,Discovery Solutions,L1,3,3229,"=ROUND(F1005*12*IF(E1005=4,0.15,0.10),0)",2026,32,Male
+1417,Research & Development,Discovery Solutions,L1,3,3578,"=ROUND(F1006*12*IF(E1006=4,0.15,0.10),0)",2026,32,Male
+1419,Human Resources,Human Resources,L3,3,7988,"=ROUND(F1007*12*IF(E1007=4,0.15,0.10),0)",2026,140,Male
+1420,Research & Development,Discovery Solutions,L2,4,4284,"=ROUND(F1008*12*IF(E1008=4,0.15,0.10),0)",2026,32,Male
+1421,Research & Development,Advanced Solutions,L3,3,7553,"=ROUND(F1009*12*IF(E1009=4,0.15,0.10),0)",2026,32,Female
+1422,Research & Development,Management (Assumed),L4,3,17328,"=ROUND(F1010*12*IF(E1010=4,0.15,0.10),0)",2026,32,Female
+1423,Research & Development,Management (Assumed),L5,4,19701,"=ROUND(F1011*12*IF(E1011=4,0.15,0.10),0)",2026,32,Female
+1424,Research & Development,Management (Assumed),L4,3,14732,"=ROUND(F1012*12*IF(E1012=4,0.15,0.10),0)",2026,32,Male
+1425,Sales,Sales (Assumed),L2,3,9278,"=ROUND(F1013*12*IF(E1013=4,0.15,0.10),0)",2026,38,Female
+1427,Sales,Sales (Assumed),L1,3,1359,"=ROUND(F1014*12*IF(E1014=4,0.15,0.10),0)",2026,38,Female
+1428,Sales,Sales (Assumed),L2,3,4779,"=ROUND(F1015*12*IF(E1015=4,0.15,0.10),0)",2026,38,Female
+1430,Research & Development,Management (Assumed),L4,3,16422,"=ROUND(F1016*12*IF(E1016=4,0.15,0.10),0)",2026,32,Female
+1431,Research & Development,Discovery Solutions,L1,3,2996,"=ROUND(F1017*12*IF(E1017=4,0.15,0.10),0)",2026,32,Male
+1433,Research & Development,Discovery Solutions,L1,3,1261,"=ROUND(F1018*12*IF(E1018=4,0.15,0.10),0)",2026,32,Female
+1434,Research & Development,Discovery Solutions,L1,3,2099,"=ROUND(F1019*12*IF(E1019=4,0.15,0.10),0)",2026,32,Male
+1435,Research & Development,Discovery Solutions,L2,3,5810,"=ROUND(F1020*12*IF(E1020=4,0.15,0.10),0)",2026,32,Male
+1436,Sales,Sales (Assumed),L2,3,5647,"=ROUND(F1021*12*IF(E1021=4,0.15,0.10),0)",2026,38,Female
+1438,Research & Development,Discovery Solutions,L1,3,3420,"=ROUND(F1022*12*IF(E1022=4,0.15,0.10),0)",2026,32,Male
+1439,Sales,Sales (Assumed),L1,3,4400,"=ROUND(F1023*12*IF(E1023=4,0.15,0.10),0)",2026,38,Male
+1440,Research & Development,Discovery Solutions,L1,3,3500,"=ROUND(F1024*12*IF(E1024=4,0.15,0.10),0)",2026,32,Male
+1441,Research & Development,Discovery Solutions,L1,4,2066,"=ROUND(F1025*12*IF(E1025=4,0.15,0.10),0)",2026,32,Female
+1443,Research & Development,Management (Assumed),L4,3,17169,"=ROUND(F1026*12*IF(E1026=4,0.15,0.10),0)",2026,32,Female
+1445,Sales,Sales (Assumed),L2,3,4162,"=ROUND(F1027*12*IF(E1027=4,0.15,0.10),0)",2026,38,Female
+1446,Sales,Sales (Assumed),L2,3,9204,"=ROUND(F1028*12*IF(E1028=4,0.15,0.10),0)",2026,38,Male
+1447,Research & Development,Discovery Solutions,L1,3,3294,"=ROUND(F1029*12*IF(E1029=4,0.15,0.10),0)",2026,32,Female
+1448,Research & Development,Discovery Solutions,L1,3,2127,"=ROUND(F1030*12*IF(E1030=4,0.15,0.10),0)",2026,32,Male
+1449,Research & Development,Discovery Solutions,L2,3,3975,"=ROUND(F1031*12*IF(E1031=4,0.15,0.10),0)",2026,32,Male
+1453,Sales,Sales (Assumed),L3,3,10793,"=ROUND(F1032*12*IF(E1032=4,0.15,0.10),0)",2026,38,Male
+1457,Sales,Sales (Assumed),L3,3,10096,"=ROUND(F1033*12*IF(E1033=4,0.15,0.10),0)",2026,38,Male
+1458,Research & Development,Discovery Solutions,L1,4,3646,"=ROUND(F1034*12*IF(E1034=4,0.15,0.10),0)",2026,32,Female
+1459,Research & Development,Process Solutions,L3,3,7446,"=ROUND(F1035*12*IF(E1035=4,0.15,0.10),0)",2026,32,Female
+1460,Research & Development,Advanced Solutions,L3,3,10851,"=ROUND(F1036*12*IF(E1036=4,0.15,0.10),0)",2026,32,Male
+1461,Human Resources,Human Resources,L1,3,2109,"=ROUND(F1037*12*IF(E1037=4,0.15,0.10),0)",2026,140,Female
+1464,Research & Development,Discovery Solutions,L1,3,3722,"=ROUND(F1038*12*IF(E1038=4,0.15,0.10),0)",2026,32,Male
+1465,Research & Development,Process Solutions,L3,3,9380,"=ROUND(F1039*12*IF(E1039=4,0.15,0.10),0)",2026,32,Male
+1466,Sales,Sales (Assumed),L2,3,5486,"=ROUND(F1040*12*IF(E1040=4,0.15,0.10),0)",2026,38,Male
+1467,Human Resources,Human Resources,L1,3,2742,"=ROUND(F1041*12*IF(E1041=4,0.15,0.10),0)",2026,140,Female
+1468,Research & Development,Management (Assumed),L3,3,13757,"=ROUND(F1042*12*IF(E1042=4,0.15,0.10),0)",2026,32,Male
+1469,Sales,Sales (Assumed),L2,3,8463,"=ROUND(F1043*12*IF(E1043=4,0.15,0.10),0)",2026,38,Male
+1471,Research & Development,Discovery Solutions,L1,3,3162,"=ROUND(F1044*12*IF(E1044=4,0.15,0.10),0)",2026,32,Male
+1472,Research & Development,Management (Assumed),L4,3,16598,"=ROUND(F1045*12*IF(E1045=4,0.15,0.10),0)",2026,32,Male
+1473,Research & Development,Advanced Solutions,L2,3,6651,"=ROUND(F1046*12*IF(E1046=4,0.15,0.10),0)",2026,32,Male
+1474,Research & Development,Discovery Solutions,L1,3,2345,"=ROUND(F1047*12*IF(E1047=4,0.15,0.10),0)",2026,32,Male
+1475,Research & Development,Discovery Solutions,L1,3,3420,"=ROUND(F1048*12*IF(E1048=4,0.15,0.10),0)",2026,32,Male
+1477,Sales,Sales (Assumed),L2,3,4373,"=ROUND(F1049*12*IF(E1049=4,0.15,0.10),0)",2026,38,Male
+1478,Sales,Sales (Assumed),L2,3,4759,"=ROUND(F1050*12*IF(E1050=4,0.15,0.10),0)",2026,38,Male
+1479,Sales,Sales (Assumed),L2,3,5301,"=ROUND(F1051*12*IF(E1051=4,0.15,0.10),0)",2026,38,Male
+1480,Research & Development,Discovery Solutions,L1,3,3673,"=ROUND(F1052*12*IF(E1052=4,0.15,0.10),0)",2026,32,Female
+1481,Sales,Sales (Assumed),L2,3,4768,"=ROUND(F1053*12*IF(E1053=4,0.15,0.10),0)",2026,38,Female
+1482,Research & Development,Discovery Solutions,L1,3,1274,"=ROUND(F1054*12*IF(E1054=4,0.15,0.10),0)",2026,32,Male
+1483,Research & Development,Discovery Solutions,L2,4,4900,"=ROUND(F1055*12*IF(E1055=4,0.15,0.10),0)",2026,32,Male
+1484,Research & Development,Advanced Solutions,L3,3,10466,"=ROUND(F1056*12*IF(E1056=4,0.15,0.10),0)",2026,32,Male
+1485,Research & Development,Management (Assumed),L4,3,17007,"=ROUND(F1057*12*IF(E1057=4,0.15,0.10),0)",2026,32,Male
+1486,Sales,Sales (Assumed),L1,3,2909,"=ROUND(F1058*12*IF(E1058=4,0.15,0.10),0)",2026,38,Male
+1487,Sales,Sales (Assumed),L2,3,5765,"=ROUND(F1059*12*IF(E1059=4,0.15,0.10),0)",2026,38,Female
+1489,Sales,Sales (Assumed),L2,4,4599,"=ROUND(F1060*12*IF(E1060=4,0.15,0.10),0)",2026,38,Female
+1492,Sales,Sales (Assumed),L1,3,2404,"=ROUND(F1061*12*IF(E1061=4,0.15,0.10),0)",2026,38,Male
+1494,Research & Development,Discovery Solutions,L1,3,3172,"=ROUND(F1062*12*IF(E1062=4,0.15,0.10),0)",2026,32,Male
+1495,Sales,Sales (Assumed),L1,3,2033,"=ROUND(F1063*12*IF(E1063=4,0.15,0.10),0)",2026,38,Female
+1496,Research & Development,Process Solutions,L3,3,10209,"=ROUND(F1064*12*IF(E1064=4,0.15,0.10),0)",2026,32,Male
+1497,Sales,Sales (Assumed),L2,3,8620,"=ROUND(F1065*12*IF(E1065=4,0.15,0.10),0)",2026,38,Male
+1499,Human Resources,Human Resources,L1,4,2064,"=ROUND(F1066*12*IF(E1066=4,0.15,0.10),0)",2026,140,Male
+1501,Research & Development,Advanced Solutions,L2,3,4035,"=ROUND(F1067*12*IF(E1067=4,0.15,0.10),0)",2026,32,Male
+1502,Research & Development,Discovery Solutions,L1,3,3838,"=ROUND(F1068*12*IF(E1068=4,0.15,0.10),0)",2026,32,Female
+1503,Sales,Sales (Assumed),L2,3,4591,"=ROUND(F1069*12*IF(E1069=4,0.15,0.10),0)",2026,38,Female
+1504,Research & Development,Discovery Solutions,L1,3,2561,"=ROUND(F1070*12*IF(E1070=4,0.15,0.10),0)",2026,32,Male
+1506,Research & Development,Discovery Solutions,L1,3,1563,"=ROUND(F1071*12*IF(E1071=4,0.15,0.10),0)",2026,32,Male
+1507,Sales,Sales (Assumed),L2,3,4898,"=ROUND(F1072*12*IF(E1072=4,0.15,0.10),0)",2026,38,Male
+1509,Research & Development,Discovery Solutions,L2,4,4789,"=ROUND(F1073*12*IF(E1073=4,0.15,0.10),0)",2026,32,Female
+1513,Research & Development,Discovery Solutions,L1,3,3180,"=ROUND(F1074*12*IF(E1074=4,0.15,0.10),0)",2026,32,Female
+1514,Research & Development,Process Solutions,L2,3,6549,"=ROUND(F1075*12*IF(E1075=4,0.15,0.10),0)",2026,32,Male
+1515,Research & Development,Advanced Solutions,L2,3,6388,"=ROUND(F1076*12*IF(E1076=4,0.15,0.10),0)",2026,32,Male
+1516,Research & Development,Management (Assumed),L3,4,11244,"=ROUND(F1077*12*IF(E1077=4,0.15,0.10),0)",2026,32,Male
+1520,Research & Development,Management (Assumed),L4,4,16032,"=ROUND(F1078*12*IF(E1078=4,0.15,0.10),0)",2026,32,Female
+1522,Research & Development,Discovery Solutions,L1,3,2362,"=ROUND(F1079*12*IF(E1079=4,0.15,0.10),0)",2026,32,Male
+1523,Research & Development,Management (Assumed),L4,3,16328,"=ROUND(F1080*12*IF(E1080=4,0.15,0.10),0)",2026,32,Male
+1525,Research & Development,Process Solutions,L3,3,8376,"=ROUND(F1081*12*IF(E1081=4,0.15,0.10),0)",2026,32,Female
+1527,Sales,Management (Assumed),L4,3,16606,"=ROUND(F1082*12*IF(E1082=4,0.15,0.10),0)",2026,38,Female
+1529,Research & Development,Advanced Solutions,L3,3,8606,"=ROUND(F1083*12*IF(E1083=4,0.15,0.10),0)",2026,32,Female
+1533,Research & Development,Discovery Solutions,L2,3,2272,"=ROUND(F1084*12*IF(E1084=4,0.15,0.10),0)",2026,32,Male
+1534,Research & Development,Discovery Solutions,L1,3,2018,"=ROUND(F1085*12*IF(E1085=4,0.15,0.10),0)",2026,32,Male
+1535,Sales,Sales (Assumed),L3,3,7083,"=ROUND(F1086*12*IF(E1086=4,0.15,0.10),0)",2026,38,Male
+1537,Research & Development,Discovery Solutions,L1,3,4084,"=ROUND(F1087*12*IF(E1087=4,0.15,0.10),0)",2026,32,Female
+1539,Research & Development,Management (Assumed),L4,3,14411,"=ROUND(F1088*12*IF(E1088=4,0.15,0.10),0)",2026,32,Male
+1541,Sales,Sales (Assumed),L1,4,2308,"=ROUND(F1089*12*IF(E1089=4,0.15,0.10),0)",2026,38,Male
+1542,Research & Development,Discovery Solutions,L1,3,4841,"=ROUND(F1090*12*IF(E1090=4,0.15,0.10),0)",2026,32,Male
+1543,Research & Development,Discovery Solutions,L2,3,4285,"=ROUND(F1091*12*IF(E1091=4,0.15,0.10),0)",2026,32,Male
+1544,Research & Development,Advanced Solutions,L2,3,9715,"=ROUND(F1092*12*IF(E1092=4,0.15,0.10),0)",2026,32,Female
+1545,Research & Development,Process Solutions,L2,3,4320,"=ROUND(F1093*12*IF(E1093=4,0.15,0.10),0)",2026,32,Male
+1546,Research & Development,Discovery Solutions,L1,4,2132,"=ROUND(F1094*12*IF(E1094=4,0.15,0.10),0)",2026,32,Male
+1547,Research & Development,Advanced Solutions,L3,3,10124,"=ROUND(F1095*12*IF(E1095=4,0.15,0.10),0)",2026,32,Male
+1548,Sales,Sales (Assumed),L2,3,5473,"=ROUND(F1096*12*IF(E1096=4,0.15,0.10),0)",2026,38,Male
+1549,Research & Development,Discovery Solutions,L2,3,5207,"=ROUND(F1097*12*IF(E1097=4,0.15,0.10),0)",2026,32,Male
+1550,Human Resources,Human Resources,L4,4,16437,"=ROUND(F1098*12*IF(E1098=4,0.15,0.10),0)",2026,140,Male
+1551,Research & Development,Discovery Solutions,L1,3,2296,"=ROUND(F1099*12*IF(E1099=4,0.15,0.10),0)",2026,32,Male
+1552,Research & Development,Advanced Solutions,L2,3,4069,"=ROUND(F1100*12*IF(E1100=4,0.15,0.10),0)",2026,32,Male
+1553,Research & Development,Advanced Solutions,L3,3,7441,"=ROUND(F1101*12*IF(E1101=4,0.15,0.10),0)",2026,32,Male
+1554,Sales,Sales (Assumed),L1,4,2430,"=ROUND(F1102*12*IF(E1102=4,0.15,0.10),0)",2026,38,Female
+1555,Research & Development,Discovery Solutions,L2,3,5878,"=ROUND(F1103*12*IF(E1103=4,0.15,0.10),0)",2026,32,Female
+1556,Sales,Sales (Assumed),L1,4,2644,"=ROUND(F1104*12*IF(E1104=4,0.15,0.10),0)",2026,38,Male
+1557,Sales,Sales (Assumed),L2,3,6439,"=ROUND(F1105*12*IF(E1105=4,0.15,0.10),0)",2026,38,Female
+1558,Research & Development,Discovery Solutions,L1,3,2451,"=ROUND(F1106*12*IF(E1106=4,0.15,0.10),0)",2026,32,Male
+1560,Sales,Sales (Assumed),L2,3,6392,"=ROUND(F1107*12*IF(E1107=4,0.15,0.10),0)",2026,38,Male
+1562,Sales,Sales (Assumed),L2,3,9714,"=ROUND(F1108*12*IF(E1108=4,0.15,0.10),0)",2026,38,Male
+1563,Human Resources,Human Resources,L2,3,6077,"=ROUND(F1109*12*IF(E1109=4,0.15,0.10),0)",2026,140,Male
+1564,Research & Development,Discovery Solutions,L1,3,2450,"=ROUND(F1110*12*IF(E1110=4,0.15,0.10),0)",2026,32,Male
+1568,Sales,Sales (Assumed),L3,3,9250,"=ROUND(F1111*12*IF(E1111=4,0.15,0.10),0)",2026,38,Male
+1569,Research & Development,Discovery Solutions,L1,3,2074,"=ROUND(F1112*12*IF(E1112=4,0.15,0.10),0)",2026,32,Female
+1572,Research & Development,Process Solutions,L3,3,10169,"=ROUND(F1113*12*IF(E1113=4,0.15,0.10),0)",2026,32,Female
+1573,Research & Development,Process Solutions,L2,3,4855,"=ROUND(F1114*12*IF(E1114=4,0.15,0.10),0)",2026,32,Male
+1574,Research & Development,Discovery Solutions,L2,3,4087,"=ROUND(F1115*12*IF(E1115=4,0.15,0.10),0)",2026,32,Male
+1576,Research & Development,Discovery Solutions,L1,3,2367,"=ROUND(F1116*12*IF(E1116=4,0.15,0.10),0)",2026,32,Female
+1577,Research & Development,Discovery Solutions,L1,3,2972,"=ROUND(F1117*12*IF(E1117=4,0.15,0.10),0)",2026,32,Male
+1578,Sales,Management (Assumed),L5,4,19586,"=ROUND(F1118*12*IF(E1118=4,0.15,0.10),0)",2026,38,Male
+1580,Research & Development,Discovery Solutions,L2,3,5484,"=ROUND(F1119*12*IF(E1119=4,0.15,0.10),0)",2026,32,Male
+1581,Research & Development,Discovery Solutions,L1,4,2061,"=ROUND(F1120*12*IF(E1120=4,0.15,0.10),0)",2026,32,Female
+1582,Sales,Sales (Assumed),L2,3,9924,"=ROUND(F1121*12*IF(E1121=4,0.15,0.10),0)",2026,38,Male
+1583,Sales,Sales (Assumed),L2,3,4198,"=ROUND(F1122*12*IF(E1122=4,0.15,0.10),0)",2026,38,Female
+1585,Sales,Sales (Assumed),L2,3,6815,"=ROUND(F1123*12*IF(E1123=4,0.15,0.10),0)",2026,38,Female
+1586,Research & Development,Discovery Solutions,L1,3,4723,"=ROUND(F1124*12*IF(E1124=4,0.15,0.10),0)",2026,32,Male
+1587,Research & Development,Advanced Solutions,L2,3,6142,"=ROUND(F1125*12*IF(E1125=4,0.15,0.10),0)",2026,32,Female
+1588,Sales,Sales (Assumed),L3,3,8237,"=ROUND(F1126*12*IF(E1126=4,0.15,0.10),0)",2026,38,Male
+1590,Research & Development,Advanced Solutions,L2,3,8853,"=ROUND(F1127*12*IF(E1127=4,0.15,0.10),0)",2026,32,Male
+1591,Sales,Management (Assumed),L5,3,19331,"=ROUND(F1128*12*IF(E1128=4,0.15,0.10),0)",2026,38,Male
+1592,Research & Development,Discovery Solutions,L1,3,2073,"=ROUND(F1129*12*IF(E1129=4,0.15,0.10),0)",2026,32,Male
+1594,Research & Development,Discovery Solutions,L2,3,5562,"=ROUND(F1130*12*IF(E1130=4,0.15,0.10),0)",2026,32,Male
+1595,Research & Development,Management (Assumed),L5,4,19613,"=ROUND(F1131*12*IF(E1131=4,0.15,0.10),0)",2026,32,Male
+1596,Research & Development,Discovery Solutions,L2,3,3407,"=ROUND(F1132*12*IF(E1132=4,0.15,0.10),0)",2026,32,Male
+1597,Research & Development,Advanced Solutions,L2,3,5063,"=ROUND(F1133*12*IF(E1133=4,0.15,0.10),0)",2026,32,Male
+1598,Sales,Sales (Assumed),L2,3,4639,"=ROUND(F1134*12*IF(E1134=4,0.15,0.10),0)",2026,38,Female
+1599,Research & Development,Discovery Solutions,L1,3,4876,"=ROUND(F1135*12*IF(E1135=4,0.15,0.10),0)",2026,32,Male
+1601,Research & Development,Discovery Solutions,L1,3,2690,"=ROUND(F1136*12*IF(E1136=4,0.15,0.10),0)",2026,32,Male
+1602,Sales,Management (Assumed),L4,3,17567,"=ROUND(F1137*12*IF(E1137=4,0.15,0.10),0)",2026,38,Male
+1604,Research & Development,Discovery Solutions,L1,3,2408,"=ROUND(F1138*12*IF(E1138=4,0.15,0.10),0)",2026,32,Male
+1605,Research & Development,Discovery Solutions,L1,3,2814,"=ROUND(F1139*12*IF(E1139=4,0.15,0.10),0)",2026,32,Female
+1606,Research & Development,Advanced Solutions,L4,3,11245,"=ROUND(F1140*12*IF(E1140=4,0.15,0.10),0)",2026,32,Male
+1607,Research & Development,Discovery Solutions,L1,3,3312,"=ROUND(F1141*12*IF(E1141=4,0.15,0.10),0)",2026,32,Female
+1608,Research & Development,Management (Assumed),L5,3,19049,"=ROUND(F1142*12*IF(E1142=4,0.15,0.10),0)",2026,32,Female
+1609,Research & Development,Discovery Solutions,L1,3,2141,"=ROUND(F1143*12*IF(E1143=4,0.15,0.10),0)",2026,32,Male
+1611,Research & Development,Discovery Solutions,L2,3,5769,"=ROUND(F1144*12*IF(E1144=4,0.15,0.10),0)",2026,32,Female
+1612,Sales,Sales (Assumed),L2,3,4385,"=ROUND(F1145*12*IF(E1145=4,0.15,0.10),0)",2026,38,Male
+1613,Sales,Sales (Assumed),L2,3,5332,"=ROUND(F1146*12*IF(E1146=4,0.15,0.10),0)",2026,38,Male
+1614,Research & Development,Process Solutions,L2,3,4663,"=ROUND(F1147*12*IF(E1147=4,0.15,0.10),0)",2026,32,Female
+1615,Research & Development,Process Solutions,L2,3,4724,"=ROUND(F1148*12*IF(E1148=4,0.15,0.10),0)",2026,32,Male
+1617,Research & Development,Discovery Solutions,L1,3,3211,"=ROUND(F1149*12*IF(E1149=4,0.15,0.10),0)",2026,32,Female
+1618,Research & Development,Process Solutions,L2,3,5377,"=ROUND(F1150*12*IF(E1150=4,0.15,0.10),0)",2026,32,Male
+1619,Research & Development,Discovery Solutions,L1,3,4066,"=ROUND(F1151*12*IF(E1151=4,0.15,0.10),0)",2026,32,Male
+1621,Research & Development,Discovery Solutions,L2,3,5208,"=ROUND(F1152*12*IF(E1152=4,0.15,0.10),0)",2026,32,Male
+1622,Research & Development,Process Solutions,L2,4,4877,"=ROUND(F1153*12*IF(E1153=4,0.15,0.10),0)",2026,32,Female
+1623,Research & Development,Discovery Solutions,L1,3,3117,"=ROUND(F1154*12*IF(E1154=4,0.15,0.10),0)",2026,32,Male
+1624,Sales,Sales (Assumed),L1,3,1569,"=ROUND(F1155*12*IF(E1155=4,0.15,0.10),0)",2026,38,Female
+1625,Human Resources,Human Resources,L5,3,19658,"=ROUND(F1156*12*IF(E1156=4,0.15,0.10),0)",2026,140,Female
+1627,Research & Development,Discovery Solutions,L2,3,3069,"=ROUND(F1157*12*IF(E1157=4,0.15,0.10),0)",2026,32,Male
+1628,Research & Development,Process Solutions,L3,3,10435,"=ROUND(F1158*12*IF(E1158=4,0.15,0.10),0)",2026,32,Female
+1630,Research & Development,Advanced Solutions,L2,3,4148,"=ROUND(F1159*12*IF(E1159=4,0.15,0.10),0)",2026,32,Female
+1631,Research & Development,Process Solutions,L2,3,5768,"=ROUND(F1160*12*IF(E1160=4,0.15,0.10),0)",2026,32,Male
+1633,Research & Development,Process Solutions,L2,3,5042,"=ROUND(F1161*12*IF(E1161=4,0.15,0.10),0)",2026,32,Female
+1635,Research & Development,Process Solutions,L2,3,5770,"=ROUND(F1162*12*IF(E1162=4,0.15,0.10),0)",2026,32,Female
+1638,Research & Development,Process Solutions,L3,3,7756,"=ROUND(F1163*12*IF(E1163=4,0.15,0.10),0)",2026,32,Female
+1639,Sales,Sales (Assumed),L3,3,10306,"=ROUND(F1164*12*IF(E1164=4,0.15,0.10),0)",2026,38,Male
+1640,Research & Development,Discovery Solutions,L1,3,3936,"=ROUND(F1165*12*IF(E1165=4,0.15,0.10),0)",2026,32,Female
+1641,Research & Development,Process Solutions,L3,3,7945,"=ROUND(F1166*12*IF(E1166=4,0.15,0.10),0)",2026,32,Female
+1642,Human Resources,Human Resources,L2,3,5743,"=ROUND(F1167*12*IF(E1167=4,0.15,0.10),0)",2026,140,Male
+1644,Research & Development,Management (Assumed),L4,4,15202,"=ROUND(F1168*12*IF(E1168=4,0.15,0.10),0)",2026,32,Male
+1645,Sales,Sales (Assumed),L2,3,5440,"=ROUND(F1169*12*IF(E1169=4,0.15,0.10),0)",2026,38,Male
+1646,Research & Development,Discovery Solutions,L1,3,3760,"=ROUND(F1170*12*IF(E1170=4,0.15,0.10),0)",2026,32,Female
+1647,Research & Development,Discovery Solutions,L1,3,3517,"=ROUND(F1171*12*IF(E1171=4,0.15,0.10),0)",2026,32,Female
+1648,Research & Development,Discovery Solutions,L1,3,2580,"=ROUND(F1172*12*IF(E1172=4,0.15,0.10),0)",2026,32,Male
+1649,Research & Development,Discovery Solutions,L1,3,2166,"=ROUND(F1173*12*IF(E1173=4,0.15,0.10),0)",2026,32,Male
+1650,Sales,Sales (Assumed),L2,3,5869,"=ROUND(F1174*12*IF(E1174=4,0.15,0.10),0)",2026,38,Male
+1651,Research & Development,Advanced Solutions,L3,3,8008,"=ROUND(F1175*12*IF(E1175=4,0.15,0.10),0)",2026,32,Female
+1653,Research & Development,Process Solutions,L2,3,5206,"=ROUND(F1176*12*IF(E1176=4,0.15,0.10),0)",2026,32,Male
+1654,Research & Development,Process Solutions,L2,4,5295,"=ROUND(F1177*12*IF(E1177=4,0.15,0.10),0)",2026,32,Male
+1655,Research & Development,Management (Assumed),L4,3,16413,"=ROUND(F1178*12*IF(E1178=4,0.15,0.10),0)",2026,32,Female
+1656,Research & Development,Management (Assumed),L3,3,13269,"=ROUND(F1179*12*IF(E1179=4,0.15,0.10),0)",2026,32,Female
+1657,Sales,Sales (Assumed),L1,3,2783,"=ROUND(F1180*12*IF(E1180=4,0.15,0.10),0)",2026,38,Female
+1658,Research & Development,Discovery Solutions,L2,3,5433,"=ROUND(F1181*12*IF(E1181=4,0.15,0.10),0)",2026,32,Female
+1659,Research & Development,Discovery Solutions,L1,3,2013,"=ROUND(F1182*12*IF(E1182=4,0.15,0.10),0)",2026,32,Male
+1661,Research & Development,Advanced Solutions,L4,3,13966,"=ROUND(F1183*12*IF(E1183=4,0.15,0.10),0)",2026,32,Female
+1662,Research & Development,Process Solutions,L2,3,4374,"=ROUND(F1184*12*IF(E1184=4,0.15,0.10),0)",2026,32,Female
+1664,Research & Development,Advanced Solutions,L2,4,6842,"=ROUND(F1185*12*IF(E1185=4,0.15,0.10),0)",2026,32,Male
+1665,Research & Development,Management (Assumed),L4,4,17426,"=ROUND(F1186*12*IF(E1186=4,0.15,0.10),0)",2026,32,Female
+1666,Research & Development,Management (Assumed),L4,4,17603,"=ROUND(F1187*12*IF(E1187=4,0.15,0.10),0)",2026,32,Male
+1667,Sales,Sales (Assumed),L2,4,4581,"=ROUND(F1188*12*IF(E1188=4,0.15,0.10),0)",2026,38,Male
+1668,Research & Development,Discovery Solutions,L2,3,4735,"=ROUND(F1189*12*IF(E1189=4,0.15,0.10),0)",2026,32,Male
+1669,Sales,Sales (Assumed),L2,3,4187,"=ROUND(F1190*12*IF(E1190=4,0.15,0.10),0)",2026,38,Male
+1670,Sales,Sales (Assumed),L2,3,5505,"=ROUND(F1191*12*IF(E1191=4,0.15,0.10),0)",2026,38,Male
+1671,Research & Development,Discovery Solutions,L2,3,5470,"=ROUND(F1192*12*IF(E1192=4,0.15,0.10),0)",2026,32,Male
+1673,Sales,Sales (Assumed),L2,3,5476,"=ROUND(F1193*12*IF(E1193=4,0.15,0.10),0)",2026,38,Female
+1674,Research & Development,Discovery Solutions,L1,3,2587,"=ROUND(F1194*12*IF(E1194=4,0.15,0.10),0)",2026,32,Female
+1675,Research & Development,Discovery Solutions,L1,4,2440,"=ROUND(F1195*12*IF(E1195=4,0.15,0.10),0)",2026,32,Female
+1676,Sales,Management (Assumed),L4,3,15972,"=ROUND(F1196*12*IF(E1196=4,0.15,0.10),0)",2026,38,Female
+1677,Research & Development,Management (Assumed),L4,3,15379,"=ROUND(F1197*12*IF(E1197=4,0.15,0.10),0)",2026,32,Male
+1678,Sales,Sales (Assumed),L3,3,7082,"=ROUND(F1198*12*IF(E1198=4,0.15,0.10),0)",2026,38,Male
+1680,Sales,Sales (Assumed),L1,3,2728,"=ROUND(F1199*12*IF(E1199=4,0.15,0.10),0)",2026,38,Male
+1681,Sales,Sales (Assumed),L2,4,5368,"=ROUND(F1200*12*IF(E1200=4,0.15,0.10),0)",2026,38,Female
+1682,Research & Development,Advanced Solutions,L2,3,5347,"=ROUND(F1201*12*IF(E1201=4,0.15,0.10),0)",2026,32,Male
+1683,Human Resources,Human Resources,L1,3,3195,"=ROUND(F1202*12*IF(E1202=4,0.15,0.10),0)",2026,140,Female
+1684,Research & Development,Discovery Solutions,L1,3,3989,"=ROUND(F1203*12*IF(E1203=4,0.15,0.10),0)",2026,32,Male
+1687,Research & Development,Discovery Solutions,L1,3,3306,"=ROUND(F1204*12*IF(E1204=4,0.15,0.10),0)",2026,32,Female
+1689,Research & Development,Advanced Solutions,L3,3,7005,"=ROUND(F1205*12*IF(E1205=4,0.15,0.10),0)",2026,32,Male
+1691,Sales,Sales (Assumed),L1,3,2655,"=ROUND(F1206*12*IF(E1206=4,0.15,0.10),0)",2026,38,Female
+1692,Research & Development,Discovery Solutions,L1,3,1393,"=ROUND(F1207*12*IF(E1207=4,0.15,0.10),0)",2026,32,Male
+1693,Research & Development,Discovery Solutions,L1,4,2570,"=ROUND(F1208*12*IF(E1208=4,0.15,0.10),0)",2026,32,Male
+1694,Research & Development,Discovery Solutions,L1,3,3537,"=ROUND(F1209*12*IF(E1209=4,0.15,0.10),0)",2026,32,Male
+1696,Research & Development,Discovery Solutions,L2,3,3986,"=ROUND(F1210*12*IF(E1210=4,0.15,0.10),0)",2026,32,Male
+1697,Research & Development,Advanced Solutions,L3,4,10883,"=ROUND(F1211*12*IF(E1211=4,0.15,0.10),0)",2026,32,Male
+1698,Research & Development,Discovery Solutions,L1,3,2028,"=ROUND(F1212*12*IF(E1212=4,0.15,0.10),0)",2026,32,Male
+1700,Sales,Sales (Assumed),L2,3,9525,"=ROUND(F1213*12*IF(E1213=4,0.15,0.10),0)",2026,38,Male
+1701,Research & Development,Discovery Solutions,L1,3,2929,"=ROUND(F1214*12*IF(E1214=4,0.15,0.10),0)",2026,32,Female
+1702,Sales,Sales (Assumed),L1,4,2275,"=ROUND(F1215*12*IF(E1215=4,0.15,0.10),0)",2026,38,Male
+1703,Research & Development,Advanced Solutions,L3,3,7879,"=ROUND(F1216*12*IF(E1216=4,0.15,0.10),0)",2026,32,Female
+1704,Research & Development,Discovery Solutions,L1,3,4930,"=ROUND(F1217*12*IF(E1217=4,0.15,0.10),0)",2026,32,Male
+1706,Sales,Sales (Assumed),L2,3,7847,"=ROUND(F1218*12*IF(E1218=4,0.15,0.10),0)",2026,38,Male
+1707,Research & Development,Discovery Solutions,L1,3,4401,"=ROUND(F1219*12*IF(E1219=4,0.15,0.10),0)",2026,32,Male
+1708,Sales,Sales (Assumed),L3,3,9241,"=ROUND(F1220*12*IF(E1220=4,0.15,0.10),0)",2026,38,Male
+1709,Research & Development,Discovery Solutions,L1,3,2974,"=ROUND(F1221*12*IF(E1221=4,0.15,0.10),0)",2026,32,Female
+1710,Sales,Sales (Assumed),L2,3,4502,"=ROUND(F1222*12*IF(E1222=4,0.15,0.10),0)",2026,38,Female
+1712,Research & Development,Advanced Solutions,L3,4,10748,"=ROUND(F1223*12*IF(E1223=4,0.15,0.10),0)",2026,32,Male
+1714,Human Resources,Human Resources,L1,3,1555,"=ROUND(F1224*12*IF(E1224=4,0.15,0.10),0)",2026,140,Male
+1716,Sales,Sales (Assumed),L4,3,12936,"=ROUND(F1225*12*IF(E1225=4,0.15,0.10),0)",2026,38,Male
+1718,Research & Development,Discovery Solutions,L1,3,2305,"=ROUND(F1226*12*IF(E1226=4,0.15,0.10),0)",2026,32,Male
+1719,Research & Development,Management (Assumed),L4,3,16704,"=ROUND(F1227*12*IF(E1227=4,0.15,0.10),0)",2026,32,Female
+1720,Research & Development,Discovery Solutions,L1,3,3433,"=ROUND(F1228*12*IF(E1228=4,0.15,0.10),0)",2026,32,Male
+1721,Research & Development,Discovery Solutions,L1,3,3477,"=ROUND(F1229*12*IF(E1229=4,0.15,0.10),0)",2026,32,Male
+1722,Human Resources,Human Resources,L2,3,6430,"=ROUND(F1230*12*IF(E1230=4,0.15,0.10),0)",2026,140,Male
+1724,Research & Development,Process Solutions,L2,3,6516,"=ROUND(F1231*12*IF(E1231=4,0.15,0.10),0)",2026,32,Female
+1725,Research & Development,Discovery Solutions,L1,3,3907,"=ROUND(F1232*12*IF(E1232=4,0.15,0.10),0)",2026,32,Male
+1727,Research & Development,Advanced Solutions,L2,3,5562,"=ROUND(F1233*12*IF(E1233=4,0.15,0.10),0)",2026,32,Male
+1728,Research & Development,Process Solutions,L2,3,6883,"=ROUND(F1234*12*IF(E1234=4,0.15,0.10),0)",2026,32,Male
+1729,Research & Development,Discovery Solutions,L1,3,2862,"=ROUND(F1235*12*IF(E1235=4,0.15,0.10),0)",2026,32,Male
+1731,Sales,Sales (Assumed),L2,3,4978,"=ROUND(F1236*12*IF(E1236=4,0.15,0.10),0)",2026,38,Male
+1732,Sales,Sales (Assumed),L3,3,10368,"=ROUND(F1237*12*IF(E1237=4,0.15,0.10),0)",2026,38,Male
+1733,Sales,Sales (Assumed),L2,3,6134,"=ROUND(F1238*12*IF(E1238=4,0.15,0.10),0)",2026,38,Male
+1734,Sales,Sales (Assumed),L2,3,6735,"=ROUND(F1239*12*IF(E1239=4,0.15,0.10),0)",2026,38,Male
+1735,Research & Development,Discovery Solutions,L1,3,3295,"=ROUND(F1240*12*IF(E1240=4,0.15,0.10),0)",2026,32,Female
+1736,Research & Development,Process Solutions,L2,4,5238,"=ROUND(F1241*12*IF(E1241=4,0.15,0.10),0)",2026,32,Female
+1737,Research & Development,Discovery Solutions,L2,3,6472,"=ROUND(F1242*12*IF(E1242=4,0.15,0.10),0)",2026,32,Male
+1739,Sales,Sales (Assumed),L3,3,9610,"=ROUND(F1243*12*IF(E1243=4,0.15,0.10),0)",2026,38,Male
+1740,Sales,Management (Assumed),L5,3,19833,"=ROUND(F1244*12*IF(E1244=4,0.15,0.10),0)",2026,38,Male
+1744,Human Resources,Human Resources,L3,4,9756,"=ROUND(F1245*12*IF(E1245=4,0.15,0.10),0)",2026,140,Female
+1745,Research & Development,Discovery Solutions,L1,3,4968,"=ROUND(F1246*12*IF(E1246=4,0.15,0.10),0)",2026,32,Female
+1746,Human Resources,Human Resources,L1,3,2145,"=ROUND(F1247*12*IF(E1247=4,0.15,0.10),0)",2026,140,Male
+1747,Human Resources,Human Resources,L1,3,2180,"=ROUND(F1248*12*IF(E1248=4,0.15,0.10),0)",2026,140,Female
+1749,Sales,Sales (Assumed),L2,3,8346,"=ROUND(F1249*12*IF(E1249=4,0.15,0.10),0)",2026,38,Male
+1751,Research & Development,Discovery Solutions,L1,3,3445,"=ROUND(F1250*12*IF(E1250=4,0.15,0.10),0)",2026,32,Female
+1752,Sales,Sales (Assumed),L1,3,2760,"=ROUND(F1251*12*IF(E1251=4,0.15,0.10),0)",2026,38,Female
+1753,Research & Development,Advanced Solutions,L2,3,6294,"=ROUND(F1252*12*IF(E1252=4,0.15,0.10),0)",2026,32,Male
+1754,Sales,Sales (Assumed),L3,3,7140,"=ROUND(F1253*12*IF(E1253=4,0.15,0.10),0)",2026,38,Male
+1755,Research & Development,Discovery Solutions,L1,3,2932,"=ROUND(F1254*12*IF(E1254=4,0.15,0.10),0)",2026,32,Male
+1756,Sales,Sales (Assumed),L2,3,5147,"=ROUND(F1255*12*IF(E1255=4,0.15,0.10),0)",2026,38,Female
+1757,Sales,Sales (Assumed),L2,3,4507,"=ROUND(F1256*12*IF(E1256=4,0.15,0.10),0)",2026,38,Female
+1758,Sales,Sales (Assumed),L3,4,8564,"=ROUND(F1257*12*IF(E1257=4,0.15,0.10),0)",2026,38,Female
+1760,Research & Development,Discovery Solutions,L1,3,2468,"=ROUND(F1258*12*IF(E1258=4,0.15,0.10),0)",2026,32,Female
+1761,Sales,Sales (Assumed),L3,3,8161,"=ROUND(F1259*12*IF(E1259=4,0.15,0.10),0)",2026,38,Male
+1762,Research & Development,Discovery Solutions,L1,3,2109,"=ROUND(F1260*12*IF(E1260=4,0.15,0.10),0)",2026,32,Female
+1763,Research & Development,Advanced Solutions,L2,3,5294,"=ROUND(F1261*12*IF(E1261=4,0.15,0.10),0)",2026,32,Male
+1764,Research & Development,Discovery Solutions,L1,3,2718,"=ROUND(F1262*12*IF(E1262=4,0.15,0.10),0)",2026,32,Male
+1766,Research & Development,Advanced Solutions,L2,3,5811,"=ROUND(F1263*12*IF(E1263=4,0.15,0.10),0)",2026,32,Male
+1767,Research & Development,Discovery Solutions,L1,3,2437,"=ROUND(F1264*12*IF(E1264=4,0.15,0.10),0)",2026,32,Male
+1768,Research & Development,Discovery Solutions,L1,4,2766,"=ROUND(F1265*12*IF(E1265=4,0.15,0.10),0)",2026,32,Male
+1770,Research & Development,Management (Assumed),L5,3,19038,"=ROUND(F1266*12*IF(E1266=4,0.15,0.10),0)",2026,32,Male
+1771,Research & Development,Discovery Solutions,L2,3,3055,"=ROUND(F1267*12*IF(E1267=4,0.15,0.10),0)",2026,32,Male
+1772,Research & Development,Discovery Solutions,L1,4,2289,"=ROUND(F1268*12*IF(E1268=4,0.15,0.10),0)",2026,32,Male
+1774,Sales,Sales (Assumed),L2,3,4001,"=ROUND(F1269*12*IF(E1269=4,0.15,0.10),0)",2026,38,Male
+1775,Research & Development,Process Solutions,L4,4,12965,"=ROUND(F1270*12*IF(E1270=4,0.15,0.10),0)",2026,32,Female
+1778,Human Resources,Human Resources,L1,3,3539,"=ROUND(F1271*12*IF(E1271=4,0.15,0.10),0)",2026,140,Male
+1779,Sales,Sales (Assumed),L2,3,6029,"=ROUND(F1272*12*IF(E1272=4,0.15,0.10),0)",2026,38,Female
+1780,Sales,Sales (Assumed),L1,3,2679,"=ROUND(F1273*12*IF(E1273=4,0.15,0.10),0)",2026,38,Male
+1782,Research & Development,Discovery Solutions,L1,3,3702,"=ROUND(F1274*12*IF(E1274=4,0.15,0.10),0)",2026,32,Female
+1783,Research & Development,Discovery Solutions,L1,3,2398,"=ROUND(F1275*12*IF(E1275=4,0.15,0.10),0)",2026,32,Female
+1784,Sales,Sales (Assumed),L2,3,5468,"=ROUND(F1276*12*IF(E1276=4,0.15,0.10),0)",2026,38,Female
+1786,Research & Development,Management (Assumed),L3,3,13116,"=ROUND(F1277*12*IF(E1277=4,0.15,0.10),0)",2026,32,Female
+1787,Sales,Sales (Assumed),L2,3,4189,"=ROUND(F1278*12*IF(E1278=4,0.15,0.10),0)",2026,38,Male
+1789,Research & Development,Management (Assumed),L5,3,19328,"=ROUND(F1279*12*IF(E1279=4,0.15,0.10),0)",2026,32,Male
+1790,Research & Development,Advanced Solutions,L3,3,8321,"=ROUND(F1280*12*IF(E1280=4,0.15,0.10),0)",2026,32,Male
+1792,Research & Development,Discovery Solutions,L1,3,2342,"=ROUND(F1281*12*IF(E1281=4,0.15,0.10),0)",2026,32,Male
+1794,Human Resources,Human Resources,L2,3,4071,"=ROUND(F1282*12*IF(E1282=4,0.15,0.10),0)",2026,140,Male
+1797,Sales,Sales (Assumed),L2,3,5813,"=ROUND(F1283*12*IF(E1283=4,0.15,0.10),0)",2026,38,Male
+1798,Research & Development,Discovery Solutions,L1,3,3143,"=ROUND(F1284*12*IF(E1284=4,0.15,0.10),0)",2026,32,Male
+1799,Research & Development,Discovery Solutions,L1,3,2044,"=ROUND(F1285*12*IF(E1285=4,0.15,0.10),0)",2026,32,Male
+1800,Research & Development,Management (Assumed),L3,4,13464,"=ROUND(F1286*12*IF(E1286=4,0.15,0.10),0)",2026,32,Male
+1801,Sales,Sales (Assumed),L2,3,7991,"=ROUND(F1287*12*IF(E1287=4,0.15,0.10),0)",2026,38,Male
+1802,Research & Development,Discovery Solutions,L1,3,3377,"=ROUND(F1288*12*IF(E1288=4,0.15,0.10),0)",2026,32,Female
+1803,Research & Development,Advanced Solutions,L2,3,5538,"=ROUND(F1289*12*IF(E1289=4,0.15,0.10),0)",2026,32,Male
+1804,Research & Development,Process Solutions,L2,3,5762,"=ROUND(F1290*12*IF(E1290=4,0.15,0.10),0)",2026,32,Male
+1805,Human Resources,Human Resources,L1,3,2592,"=ROUND(F1291*12*IF(E1291=4,0.15,0.10),0)",2026,140,Male
+1807,Research & Development,Discovery Solutions,L2,3,5346,"=ROUND(F1292*12*IF(E1292=4,0.15,0.10),0)",2026,32,Male
+1809,Research & Development,Process Solutions,L2,3,4213,"=ROUND(F1293*12*IF(E1293=4,0.15,0.10),0)",2026,32,Male
+1812,Sales,Sales (Assumed),L2,3,4127,"=ROUND(F1294*12*IF(E1294=4,0.15,0.10),0)",2026,38,Male
+1813,Research & Development,Discovery Solutions,L1,3,2438,"=ROUND(F1295*12*IF(E1295=4,0.15,0.10),0)",2026,32,Male
+1814,Research & Development,Advanced Solutions,L2,3,6870,"=ROUND(F1296*12*IF(E1296=4,0.15,0.10),0)",2026,32,Male
+1815,Sales,Sales (Assumed),L3,3,10447,"=ROUND(F1297*12*IF(E1297=4,0.15,0.10),0)",2026,38,Female
+1816,Research & Development,Process Solutions,L3,3,9667,"=ROUND(F1298*12*IF(E1298=4,0.15,0.10),0)",2026,32,Female
+1818,Human Resources,Human Resources,L1,3,2148,"=ROUND(F1299*12*IF(E1299=4,0.15,0.10),0)",2026,140,Female
+1821,Research & Development,Advanced Solutions,L2,4,8926,"=ROUND(F1300*12*IF(E1300=4,0.15,0.10),0)",2026,32,Female
+1822,Research & Development,Advanced Solutions,L2,3,6513,"=ROUND(F1301*12*IF(E1301=4,0.15,0.10),0)",2026,32,Female
+1823,Sales,Sales (Assumed),L2,4,6799,"=ROUND(F1302*12*IF(E1302=4,0.15,0.10),0)",2026,38,Male
+1824,Sales,Management (Assumed),L4,4,16291,"=ROUND(F1303*12*IF(E1303=4,0.15,0.10),0)",2026,38,Male
+1826,Research & Development,Discovery Solutions,L1,3,2705,"=ROUND(F1304*12*IF(E1304=4,0.15,0.10),0)",2026,32,Male
+1827,Research & Development,Process Solutions,L3,3,10333,"=ROUND(F1305*12*IF(E1305=4,0.15,0.10),0)",2026,32,Female
+1829,Research & Development,Advanced Solutions,L2,3,4448,"=ROUND(F1306*12*IF(E1306=4,0.15,0.10),0)",2026,32,Female
+1830,Research & Development,Discovery Solutions,L2,3,6854,"=ROUND(F1307*12*IF(E1307=4,0.15,0.10),0)",2026,32,Female
+1833,Sales,Sales (Assumed),L3,3,9637,"=ROUND(F1308*12*IF(E1308=4,0.15,0.10),0)",2026,38,Female
+1834,Research & Development,Discovery Solutions,L1,4,3591,"=ROUND(F1309*12*IF(E1309=4,0.15,0.10),0)",2026,32,Female
+1835,Sales,Sales (Assumed),L2,4,5405,"=ROUND(F1310*12*IF(E1310=4,0.15,0.10),0)",2026,38,Female
+1836,Sales,Sales (Assumed),L2,3,4684,"=ROUND(F1311*12*IF(E1311=4,0.15,0.10),0)",2026,38,Male
+1837,Research & Development,Management (Assumed),L4,3,15787,"=ROUND(F1312*12*IF(E1312=4,0.15,0.10),0)",2026,32,Male
+1839,Research & Development,Discovery Solutions,L1,3,1514,"=ROUND(F1313*12*IF(E1313=4,0.15,0.10),0)",2026,32,Female
+1842,Human Resources,Human Resources,L1,3,2956,"=ROUND(F1314*12*IF(E1314=4,0.15,0.10),0)",2026,140,Male
+1844,Human Resources,Human Resources,L1,3,2335,"=ROUND(F1315*12*IF(E1315=4,0.15,0.10),0)",2026,140,Male
+1845,Sales,Sales (Assumed),L2,4,5154,"=ROUND(F1316*12*IF(E1316=4,0.15,0.10),0)",2026,38,Female
+1847,Research & Development,Discovery Solutions,L2,4,6962,"=ROUND(F1317*12*IF(E1317=4,0.15,0.10),0)",2026,32,Female
+1849,Sales,Sales (Assumed),L2,4,5675,"=ROUND(F1318*12*IF(E1318=4,0.15,0.10),0)",2026,38,Male
+1850,Research & Development,Discovery Solutions,L1,3,2379,"=ROUND(F1319*12*IF(E1319=4,0.15,0.10),0)",2026,32,Female
+1852,Research & Development,Discovery Solutions,L1,3,3812,"=ROUND(F1320*12*IF(E1320=4,0.15,0.10),0)",2026,32,Male
+1853,Sales,Sales (Assumed),L2,3,4648,"=ROUND(F1321*12*IF(E1321=4,0.15,0.10),0)",2026,38,Male
+1854,Research & Development,Discovery Solutions,L1,4,2936,"=ROUND(F1322*12*IF(E1322=4,0.15,0.10),0)",2026,32,Male
+1856,Research & Development,Discovery Solutions,L1,3,2105,"=ROUND(F1323*12*IF(E1323=4,0.15,0.10),0)",2026,32,Female
+1857,Research & Development,Process Solutions,L3,3,8578,"=ROUND(F1324*12*IF(E1324=4,0.15,0.10),0)",2026,32,Male
+1858,Human Resources,Human Resources,L1,3,2706,"=ROUND(F1325*12*IF(E1325=4,0.15,0.10),0)",2026,140,Male
+1859,Research & Development,Advanced Solutions,L2,3,6384,"=ROUND(F1326*12*IF(E1326=4,0.15,0.10),0)",2026,32,Male
+1860,Research & Development,Discovery Solutions,L1,3,3968,"=ROUND(F1327*12*IF(E1327=4,0.15,0.10),0)",2026,32,Male
+1862,Sales,Sales (Assumed),L2,3,9907,"=ROUND(F1328*12*IF(E1328=4,0.15,0.10),0)",2026,38,Male
+1863,Sales,Sales (Assumed),L4,3,13225,"=ROUND(F1329*12*IF(E1329=4,0.15,0.10),0)",2026,38,Female
+1864,Sales,Sales (Assumed),L2,4,3540,"=ROUND(F1330*12*IF(E1330=4,0.15,0.10),0)",2026,38,Female
+1865,Human Resources,Human Resources,L1,3,2804,"=ROUND(F1331*12*IF(E1331=4,0.15,0.10),0)",2026,140,Male
+1866,Research & Development,Management (Assumed),L5,3,19392,"=ROUND(F1332*12*IF(E1332=4,0.15,0.10),0)",2026,32,Female
+1867,Research & Development,Management (Assumed),L5,3,19665,"=ROUND(F1333*12*IF(E1333=4,0.15,0.10),0)",2026,32,Male
+1868,Research & Development,Discovery Solutions,L1,4,2439,"=ROUND(F1334*12*IF(E1334=4,0.15,0.10),0)",2026,32,Male
+1869,Sales,Sales (Assumed),L3,4,7314,"=ROUND(F1335*12*IF(E1335=4,0.15,0.10),0)",2026,38,Female
+1870,Research & Development,Discovery Solutions,L1,3,4774,"=ROUND(F1336*12*IF(E1336=4,0.15,0.10),0)",2026,32,Female
+1871,Research & Development,Discovery Solutions,L2,3,3902,"=ROUND(F1337*12*IF(E1337=4,0.15,0.10),0)",2026,32,Male
+1873,Research & Development,Discovery Solutions,L1,4,2662,"=ROUND(F1338*12*IF(E1338=4,0.15,0.10),0)",2026,32,Male
+1875,Sales,Sales (Assumed),L1,3,2856,"=ROUND(F1339*12*IF(E1339=4,0.15,0.10),0)",2026,38,Female
+1876,Sales,Sales (Assumed),L1,3,1081,"=ROUND(F1340*12*IF(E1340=4,0.15,0.10),0)",2026,38,Male
+1878,Research & Development,Discovery Solutions,L1,4,2472,"=ROUND(F1341*12*IF(E1341=4,0.15,0.10),0)",2026,32,Male
+1880,Sales,Sales (Assumed),L2,3,5673,"=ROUND(F1342*12*IF(E1342=4,0.15,0.10),0)",2026,38,Female
+1881,Research & Development,Discovery Solutions,L2,3,4197,"=ROUND(F1343*12*IF(E1343=4,0.15,0.10),0)",2026,32,Male
+1882,Sales,Sales (Assumed),L3,3,9713,"=ROUND(F1344*12*IF(E1344=4,0.15,0.10),0)",2026,38,Male
+1883,Research & Development,Discovery Solutions,L1,3,2062,"=ROUND(F1345*12*IF(E1345=4,0.15,0.10),0)",2026,32,Male
+1885,Research & Development,Discovery Solutions,L2,4,4284,"=ROUND(F1346*12*IF(E1346=4,0.15,0.10),0)",2026,32,Male
+1886,Research & Development,Process Solutions,L2,3,4788,"=ROUND(F1347*12*IF(E1347=4,0.15,0.10),0)",2026,32,Female
+1888,Research & Development,Process Solutions,L2,3,5906,"=ROUND(F1348*12*IF(E1348=4,0.15,0.10),0)",2026,32,Female
+1890,Human Resources,Human Resources,L2,4,3886,"=ROUND(F1349*12*IF(E1349=4,0.15,0.10),0)",2026,140,Male
+1892,Research & Development,Management (Assumed),L4,3,16823,"=ROUND(F1350*12*IF(E1350=4,0.15,0.10),0)",2026,32,Male
+1893,Research & Development,Discovery Solutions,L1,3,2933,"=ROUND(F1351*12*IF(E1351=4,0.15,0.10),0)",2026,32,Female
+1898,Sales,Sales (Assumed),L2,3,6500,"=ROUND(F1352*12*IF(E1352=4,0.15,0.10),0)",2026,38,Female
+1900,Research & Development,Management (Assumed),L4,3,17174,"=ROUND(F1353*12*IF(E1353=4,0.15,0.10),0)",2026,32,Female
+1903,Research & Development,Advanced Solutions,L2,3,5033,"=ROUND(F1354*12*IF(E1354=4,0.15,0.10),0)",2026,32,Male
+1905,Research & Development,Discovery Solutions,L1,4,2307,"=ROUND(F1355*12*IF(E1355=4,0.15,0.10),0)",2026,32,Male
+1907,Research & Development,Discovery Solutions,L1,3,2587,"=ROUND(F1356*12*IF(E1356=4,0.15,0.10),0)",2026,32,Male
+1908,Sales,Sales (Assumed),L2,3,5507,"=ROUND(F1357*12*IF(E1357=4,0.15,0.10),0)",2026,38,Male
+1909,Sales,Sales (Assumed),L2,4,4393,"=ROUND(F1358*12*IF(E1358=4,0.15,0.10),0)",2026,38,Female
+1911,Research & Development,Management (Assumed),L3,3,13348,"=ROUND(F1359*12*IF(E1359=4,0.15,0.10),0)",2026,32,Male
+1912,Sales,Sales (Assumed),L2,3,6583,"=ROUND(F1360*12*IF(E1360=4,0.15,0.10),0)",2026,38,Female
+1915,Sales,Sales (Assumed),L2,3,8103,"=ROUND(F1361*12*IF(E1361=4,0.15,0.10),0)",2026,38,Female
+1916,Research & Development,Discovery Solutions,L1,3,3978,"=ROUND(F1362*12*IF(E1362=4,0.15,0.10),0)",2026,32,Female
+1918,Research & Development,Discovery Solutions,L1,3,2544,"=ROUND(F1363*12*IF(E1363=4,0.15,0.10),0)",2026,32,Male
+1922,Research & Development,Advanced Solutions,L2,3,5399,"=ROUND(F1364*12*IF(E1364=4,0.15,0.10),0)",2026,32,Male
+1924,Sales,Sales (Assumed),L2,3,5487,"=ROUND(F1365*12*IF(E1365=4,0.15,0.10),0)",2026,38,Male
+1927,Sales,Sales (Assumed),L2,3,6834,"=ROUND(F1366*12*IF(E1366=4,0.15,0.10),0)",2026,38,Male
+1928,Sales,Sales (Assumed),L1,3,1091,"=ROUND(F1367*12*IF(E1367=4,0.15,0.10),0)",2026,38,Male
+1929,Sales,Sales (Assumed),L2,3,5736,"=ROUND(F1368*12*IF(E1368=4,0.15,0.10),0)",2026,38,Female
+1931,Research & Development,Discovery Solutions,L1,3,2226,"=ROUND(F1369*12*IF(E1369=4,0.15,0.10),0)",2026,32,Male
+1932,Research & Development,Discovery Solutions,L2,3,5747,"=ROUND(F1370*12*IF(E1370=4,0.15,0.10),0)",2026,32,Male
+1933,Sales,Sales (Assumed),L2,3,9854,"=ROUND(F1371*12*IF(E1371=4,0.15,0.10),0)",2026,38,Female
+1934,Research & Development,Discovery Solutions,L2,3,5467,"=ROUND(F1372*12*IF(E1372=4,0.15,0.10),0)",2026,32,Male
+1935,Sales,Sales (Assumed),L2,3,5380,"=ROUND(F1373*12*IF(E1373=4,0.15,0.10),0)",2026,38,Female
+1936,Research & Development,Process Solutions,L2,4,5151,"=ROUND(F1374*12*IF(E1374=4,0.15,0.10),0)",2026,32,Male
+1937,Research & Development,Discovery Solutions,L2,3,2133,"=ROUND(F1375*12*IF(E1375=4,0.15,0.10),0)",2026,32,Female
+1938,Sales,Management (Assumed),L4,3,17875,"=ROUND(F1376*12*IF(E1376=4,0.15,0.10),0)",2026,38,Female
+1939,Research & Development,Discovery Solutions,L1,3,2432,"=ROUND(F1377*12*IF(E1377=4,0.15,0.10),0)",2026,32,Female
+1940,Research & Development,Discovery Solutions,L1,3,4771,"=ROUND(F1378*12*IF(E1378=4,0.15,0.10),0)",2026,32,Male
+1941,Research & Development,Management (Assumed),L5,3,19161,"=ROUND(F1379*12*IF(E1379=4,0.15,0.10),0)",2026,32,Male
+1943,Sales,Sales (Assumed),L2,3,5087,"=ROUND(F1380*12*IF(E1380=4,0.15,0.10),0)",2026,38,Male
+1944,Human Resources,Human Resources,L1,3,2863,"=ROUND(F1381*12*IF(E1381=4,0.15,0.10),0)",2026,140,Female
+1945,Sales,Sales (Assumed),L2,3,5561,"=ROUND(F1382*12*IF(E1382=4,0.15,0.10),0)",2026,38,Male
+1947,Research & Development,Discovery Solutions,L1,3,2144,"=ROUND(F1383*12*IF(E1383=4,0.15,0.10),0)",2026,32,Male
+1948,Research & Development,Discovery Solutions,L1,3,3065,"=ROUND(F1384*12*IF(E1384=4,0.15,0.10),0)",2026,32,Male
+1949,Research & Development,Discovery Solutions,L1,4,2810,"=ROUND(F1385*12*IF(E1385=4,0.15,0.10),0)",2026,32,Male
+1950,Sales,Sales (Assumed),L3,4,9888,"=ROUND(F1386*12*IF(E1386=4,0.15,0.10),0)",2026,38,Male
+1951,Sales,Sales (Assumed),L3,3,8628,"=ROUND(F1387*12*IF(E1387=4,0.15,0.10),0)",2026,38,Male
+1952,Research & Development,Discovery Solutions,L1,3,2867,"=ROUND(F1388*12*IF(E1388=4,0.15,0.10),0)",2026,32,Male
+1954,Research & Development,Advanced Solutions,L2,3,5373,"=ROUND(F1389*12*IF(E1389=4,0.15,0.10),0)",2026,32,Male
+1955,Research & Development,Advanced Solutions,L2,3,6667,"=ROUND(F1390*12*IF(E1390=4,0.15,0.10),0)",2026,32,Female
+1956,Research & Development,Discovery Solutions,L2,4,5003,"=ROUND(F1391*12*IF(E1391=4,0.15,0.10),0)",2026,32,Male
+1960,Research & Development,Discovery Solutions,L1,3,2367,"=ROUND(F1392*12*IF(E1392=4,0.15,0.10),0)",2026,32,Male
+1961,Sales,Sales (Assumed),L1,3,2858,"=ROUND(F1393*12*IF(E1393=4,0.15,0.10),0)",2026,38,Male
+1962,Sales,Sales (Assumed),L2,3,5204,"=ROUND(F1394*12*IF(E1394=4,0.15,0.10),0)",2026,38,Female
+1965,Sales,Sales (Assumed),L2,3,4105,"=ROUND(F1395*12*IF(E1395=4,0.15,0.10),0)",2026,38,Male
+1966,Research & Development,Process Solutions,L2,4,9679,"=ROUND(F1396*12*IF(E1396=4,0.15,0.10),0)",2026,32,Male
+1967,Sales,Sales (Assumed),L2,3,5617,"=ROUND(F1397*12*IF(E1397=4,0.15,0.10),0)",2026,38,Male
+1968,Sales,Sales (Assumed),L3,3,10448,"=ROUND(F1398*12*IF(E1398=4,0.15,0.10),0)",2026,38,Male
+1969,Research & Development,Discovery Solutions,L2,3,2897,"=ROUND(F1399*12*IF(E1399=4,0.15,0.10),0)",2026,32,Female
+1970,Research & Development,Advanced Solutions,L2,4,5968,"=ROUND(F1400*12*IF(E1400=4,0.15,0.10),0)",2026,32,Male
+1971,Research & Development,Advanced Solutions,L3,3,7510,"=ROUND(F1401*12*IF(E1401=4,0.15,0.10),0)",2026,32,Male
+1972,Human Resources,Human Resources,L1,3,2991,"=ROUND(F1402*12*IF(E1402=4,0.15,0.10),0)",2026,140,Male
+1973,Human Resources,Human Resources,L5,3,19636,"=ROUND(F1403*12*IF(E1403=4,0.15,0.10),0)",2026,140,Male
+1974,Research & Development,Discovery Solutions,L1,3,1129,"=ROUND(F1404*12*IF(E1404=4,0.15,0.10),0)",2026,32,Female
+1975,Sales,Sales (Assumed),L4,3,13341,"=ROUND(F1405*12*IF(E1405=4,0.15,0.10),0)",2026,38,Male
+1976,Research & Development,Discovery Solutions,L2,3,4332,"=ROUND(F1406*12*IF(E1406=4,0.15,0.10),0)",2026,32,Male
+1979,Research & Development,Management (Assumed),L3,4,11031,"=ROUND(F1407*12*IF(E1407=4,0.15,0.10),0)",2026,32,Female
+1980,Research & Development,Process Solutions,L2,3,4440,"=ROUND(F1408*12*IF(E1408=4,0.15,0.10),0)",2026,32,Female
+1981,Research & Development,Advanced Solutions,L2,3,4617,"=ROUND(F1409*12*IF(E1409=4,0.15,0.10),0)",2026,32,Male
+1982,Research & Development,Discovery Solutions,L1,3,2647,"=ROUND(F1410*12*IF(E1410=4,0.15,0.10),0)",2026,32,Male
+1985,Research & Development,Discovery Solutions,L2,3,6323,"=ROUND(F1411*12*IF(E1411=4,0.15,0.10),0)",2026,32,Female
+1986,Sales,Sales (Assumed),L2,3,5677,"=ROUND(F1412*12*IF(E1412=4,0.15,0.10),0)",2026,38,Female
+1987,Human Resources,Human Resources,L1,3,2187,"=ROUND(F1413*12*IF(E1413=4,0.15,0.10),0)",2026,140,Female
+1989,Research & Development,Discovery Solutions,L1,3,3748,"=ROUND(F1414*12*IF(E1414=4,0.15,0.10),0)",2026,32,Male
+1992,Research & Development,Discovery Solutions,L1,3,3977,"=ROUND(F1415*12*IF(E1415=4,0.15,0.10),0)",2026,32,Male
+1993,Research & Development,Advanced Solutions,L3,4,8633,"=ROUND(F1416*12*IF(E1416=4,0.15,0.10),0)",2026,32,Male
+1994,Research & Development,Discovery Solutions,L1,3,2008,"=ROUND(F1417*12*IF(E1417=4,0.15,0.10),0)",2026,32,Male
+1995,Sales,Sales (Assumed),L2,3,4440,"=ROUND(F1418*12*IF(E1418=4,0.15,0.10),0)",2026,38,Male
+1996,Sales,Sales (Assumed),L1,3,3067,"=ROUND(F1419*12*IF(E1419=4,0.15,0.10),0)",2026,38,Male
+1997,Research & Development,Process Solutions,L2,3,5321,"=ROUND(F1420*12*IF(E1420=4,0.15,0.10),0)",2026,32,Male
+1998,Research & Development,Discovery Solutions,L2,3,5410,"=ROUND(F1421*12*IF(E1421=4,0.15,0.10),0)",2026,32,Male
+1999,Research & Development,Discovery Solutions,L1,4,2782,"=ROUND(F1422*12*IF(E1422=4,0.15,0.10),0)",2026,32,Male
+2000,Research & Development,Management (Assumed),L3,3,11957,"=ROUND(F1423*12*IF(E1423=4,0.15,0.10),0)",2026,32,Female
+2003,Research & Development,Discovery Solutions,L1,3,2660,"=ROUND(F1424*12*IF(E1424=4,0.15,0.10),0)",2026,32,Male
+2007,Research & Development,Discovery Solutions,L1,3,3375,"=ROUND(F1425*12*IF(E1425=4,0.15,0.10),0)",2026,32,Male
+2008,Research & Development,Discovery Solutions,L2,3,5098,"=ROUND(F1426*12*IF(E1426=4,0.15,0.10),0)",2026,32,Male
+2009,Research & Development,Advanced Solutions,L2,3,4878,"=ROUND(F1427*12*IF(E1427=4,0.15,0.10),0)",2026,32,Female
+2010,Research & Development,Discovery Solutions,L1,3,2837,"=ROUND(F1428*12*IF(E1428=4,0.15,0.10),0)",2026,32,Female
+2012,Research & Development,Discovery Solutions,L1,3,2406,"=ROUND(F1429*12*IF(E1429=4,0.15,0.10),0)",2026,32,Male
+2013,Sales,Sales (Assumed),L1,3,2269,"=ROUND(F1430*12*IF(E1430=4,0.15,0.10),0)",2026,38,Male
+2014,Research & Development,Discovery Solutions,L2,3,4108,"=ROUND(F1431*12*IF(E1431=4,0.15,0.10),0)",2026,32,Male
+2015,Research & Development,Management (Assumed),L3,3,13206,"=ROUND(F1432*12*IF(E1432=4,0.15,0.10),0)",2026,32,Female
+2016,Sales,Sales (Assumed),L3,3,10422,"=ROUND(F1433*12*IF(E1433=4,0.15,0.10),0)",2026,38,Female
+2017,Research & Development,Management (Assumed),L3,4,13744,"=ROUND(F1434*12*IF(E1434=4,0.15,0.10),0)",2026,32,Female
+2018,Sales,Sales (Assumed),L2,4,4907,"=ROUND(F1435*12*IF(E1435=4,0.15,0.10),0)",2026,38,Female
+2019,Sales,Sales (Assumed),L1,3,3482,"=ROUND(F1436*12*IF(E1436=4,0.15,0.10),0)",2026,38,Male
+2020,Research & Development,Discovery Solutions,L1,3,2436,"=ROUND(F1437*12*IF(E1437=4,0.15,0.10),0)",2026,32,Male
+2021,Sales,Sales (Assumed),L1,3,2380,"=ROUND(F1438*12*IF(E1438=4,0.15,0.10),0)",2026,38,Male
+2022,Research & Development,Management (Assumed),L5,3,19431,"=ROUND(F1439*12*IF(E1439=4,0.15,0.10),0)",2026,32,Male
+2023,Sales,Sales (Assumed),L1,3,1790,"=ROUND(F1440*12*IF(E1440=4,0.15,0.10),0)",2026,38,Male
+2024,Sales,Sales (Assumed),L3,3,7644,"=ROUND(F1441*12*IF(E1441=4,0.15,0.10),0)",2026,38,Female
+2025,Research & Development,Process Solutions,L2,3,5131,"=ROUND(F1442*12*IF(E1442=4,0.15,0.10),0)",2026,32,Female
+2026,Research & Development,Advanced Solutions,L2,4,6306,"=ROUND(F1443*12*IF(E1443=4,0.15,0.10),0)",2026,32,Male
+2027,Research & Development,Discovery Solutions,L1,3,4787,"=ROUND(F1444*12*IF(E1444=4,0.15,0.10),0)",2026,32,Male
+2031,Research & Development,Management (Assumed),L5,3,18880,"=ROUND(F1445*12*IF(E1445=4,0.15,0.10),0)",2026,32,Male
+2032,Research & Development,Discovery Solutions,L1,3,2339,"=ROUND(F1446*12*IF(E1446=4,0.15,0.10),0)",2026,32,Male
+2034,Research & Development,Process Solutions,L4,4,13570,"=ROUND(F1447*12*IF(E1447=4,0.15,0.10),0)",2026,32,Female
+2035,Sales,Sales (Assumed),L2,4,6712,"=ROUND(F1448*12*IF(E1448=4,0.15,0.10),0)",2026,38,Female
+2036,Sales,Sales (Assumed),L2,4,5406,"=ROUND(F1449*12*IF(E1449=4,0.15,0.10),0)",2026,38,Male
+2037,Sales,Sales (Assumed),L2,3,8938,"=ROUND(F1450*12*IF(E1450=4,0.15,0.10),0)",2026,38,Male
+2038,Research & Development,Discovery Solutions,L1,3,2439,"=ROUND(F1451*12*IF(E1451=4,0.15,0.10),0)",2026,32,Male
+2040,Human Resources,Human Resources,L3,3,8837,"=ROUND(F1452*12*IF(E1452=4,0.15,0.10),0)",2026,140,Female
+2041,Sales,Sales (Assumed),L2,3,5343,"=ROUND(F1453*12*IF(E1453=4,0.15,0.10),0)",2026,38,Female
+2044,Sales,Sales (Assumed),L2,3,6728,"=ROUND(F1454*12*IF(E1454=4,0.15,0.10),0)",2026,38,Male
+2045,Sales,Sales (Assumed),L2,3,6652,"=ROUND(F1455*12*IF(E1455=4,0.15,0.10),0)",2026,38,Female
+2046,Sales,Sales (Assumed),L2,3,4850,"=ROUND(F1456*12*IF(E1456=4,0.15,0.10),0)",2026,38,Female
+2048,Research & Development,Discovery Solutions,L1,3,2809,"=ROUND(F1457*12*IF(E1457=4,0.15,0.10),0)",2026,32,Male
+2049,Research & Development,Advanced Solutions,L2,3,5689,"=ROUND(F1458*12*IF(E1458=4,0.15,0.10),0)",2026,32,Male
+2051,Research & Development,Discovery Solutions,L1,3,2001,"=ROUND(F1459*12*IF(E1459=4,0.15,0.10),0)",2026,32,Female
+2052,Research & Development,Discovery Solutions,L1,3,2977,"=ROUND(F1460*12*IF(E1460=4,0.15,0.10),0)",2026,32,Female
+2053,Research & Development,Discovery Solutions,L2,3,4025,"=ROUND(F1461*12*IF(E1461=4,0.15,0.10),0)",2026,32,Male
+2054,Research & Development,Discovery Solutions,L1,3,3785,"=ROUND(F1462*12*IF(E1462=4,0.15,0.10),0)",2026,32,Female
+2055,Sales,Sales (Assumed),L3,3,10854,"=ROUND(F1463*12*IF(E1463=4,0.15,0.10),0)",2026,38,Male
+2056,Sales,Sales (Assumed),L4,3,12031,"=ROUND(F1464*12*IF(E1464=4,0.15,0.10),0)",2026,38,Female
+2057,Research & Development,Process Solutions,L2,3,9936,"=ROUND(F1465*12*IF(E1465=4,0.15,0.10),0)",2026,32,Male
+2060,Sales,Sales (Assumed),L1,3,2966,"=ROUND(F1466*12*IF(E1466=4,0.15,0.10),0)",2026,38,Female
+2061,Research & Development,Discovery Solutions,L2,3,2571,"=ROUND(F1467*12*IF(E1467=4,0.15,0.10),0)",2026,32,Male
+2062,Research & Development,Advanced Solutions,L3,3,9991,"=ROUND(F1468*12*IF(E1468=4,0.15,0.10),0)",2026,32,Male
+2064,Research & Development,Process Solutions,L2,4,6142,"=ROUND(F1469*12*IF(E1469=4,0.15,0.10),0)",2026,32,Male
+2065,Sales,Sales (Assumed),L2,3,5390,"=ROUND(F1470*12*IF(E1470=4,0.15,0.10),0)",2026,38,Male
+2068,Research & Development,Discovery Solutions,L2,3,4404,"=ROUND(F1471*12*IF(E1471=4,0.15,0.10),0)",2026,32,Male
